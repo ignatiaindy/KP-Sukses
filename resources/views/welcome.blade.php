@@ -481,14 +481,14 @@
        <!-- Start Blog Area -->
        <section class="blog-area pt-100 pb-70">
             <div class="container">
-            <div class="section-title">
+            <!-- <div class="section-title">
                     <span class="sub-title">EXPLORE NEWS</span>
                     <h2>Our Blogs</h2>
-                </div>
+                </div> -->
                 <div class="section-title text-left">
-                    <!-- <span class="sub-title">Explore News</span>
-                    <h2>Blog</h2> -->
-                            <!-- <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a>  -->
+                    <span class="sub-title">Explore News</span>
+                    <h2>Blog</h2>
+                            <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
                 </div>
                 
                 <div class="row justify-content-center">
@@ -572,12 +572,12 @@
                             </div>
                         </div>
                     </div> 
-                    <!-- <div class="section-button text-left">
+                    <div class="section-button text-left">
                             <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
-                            </div> -->
-                    <div class="section-button1 text-left">
+                            </div>
+                    <!-- <div class="section-button1 text-center">
                             <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
-                    </div>              
+                    </div>               -->
                 </div>
             </div>
             
@@ -661,9 +661,9 @@
             <div class="footer-bottom-area">
                 <div class="container">
                     <div class="logo">
-                        <a href="index-5.html" class="d-inline-block"><img src="assets/img/logo1.png" alt="image"></a>
+                        <a href="index-5.html" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
                     </div>
-                <div class="containerr">                  
+                    <div class="containerr">                  
                     <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="#">Inosoft</a></div>
                     <div class="back-copy-right">
                         <ul>
@@ -671,7 +671,6 @@
                             <li><a href="#">Terms And Conditions</a></li>
                         </ul>
                     </div>
-                </div>
                 </div>
             </div>
         </footer>

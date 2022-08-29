@@ -255,6 +255,12 @@ img {
   margin-top: -5px;
   margin-bottom: 60px;
 }
+.section-button1 {
+  text-align: center;
+  position: relative;
+  margin-top: -5px;
+  margin-bottom: 60px;
+}
 .section-button .default-btn {
   position: absolute;
   right: 0;
@@ -266,6 +272,9 @@ img {
 
 .section-title.text-left {
   text-align: left;
+}
+.section-title.text-center {
+  text-align: center;
 }
 
 .section-title.text-left h2 {
@@ -4011,11 +4020,11 @@ Offer CSS
 }
 
 .single-offer-box:hover h3 {
-  color: #ffffff;
+  color: #000000;
 }
 
 .single-offer-box:hover p {
-  color: #ffffff;
+  color: #000000;
   opacity: 0.95;
 }
 
@@ -12795,6 +12804,7 @@ Footer CSS
 
 .footer-bottom-area .logo {
   margin-bottom: 18px;
+  text-align: center;
 }
 
 .footer-bottom-area p {
@@ -12810,12 +12820,47 @@ Footer CSS
 .footer-bottom-area p a {
   display: inline-block;
   font-weight: 600;
-  color: #ffffff;
+  color: #cccccc;
 }
 
 .footer-bottom-area p a:hover, .footer-bottom-area p a:focus {
-  color: rgba(17, 88, 165, 1);
-  text-decoration: underline;
+  color: #ffffff;
+}
+
+.footer-bottom-area .containerr {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-bottom-area .back-copy-left {
+  font-size: 16px;
+  margin-bottom: 0;
+  color: #cccccc;
+}
+.footer-bottom-area .back-copy-left a {
+  color: #cccccc;
+  transition: all .7s ease;
+}
+.footer-bottom-area .back-copy-left a:hover {
+  color: #ffffff;
+}
+
+.footer-bottom-area .back-copy-right ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+.footer-bottom-area .back-copy-right ul li {
+  padding-left: 30px;
+}
+.footer-bottom-area .back-copy-right ul li a {
+  color: #cccccc;
+  font-size: 15px;
+  font-weight: 500;
+}
+.footer-bottom-area .back-copy-right ul li a:hover {
+  color: #ffffff;
 }
 
 /*================================================
@@ -15544,7 +15589,7 @@ Information Area CSS
 .information-content .apply-details li .icon {
   width: 85px;
   height: 85px;
-  line-height: 84px;
+  line-height: 93px;
   border-radius: 50%;
   position: absolute;
   left: 0;
@@ -16599,7 +16644,6 @@ Motivation Featured Area CSS
   display: inline-block;
   height: 70px;
   width: 90px;
-  margin-left: 30%;
   line-height: 70px;
   background-color: rgba(17, 88, 165, 1);
   color: #ffffff;
@@ -16615,7 +16659,6 @@ Motivation Featured Area CSS
   display: inline-block;
   height: 70px;
   width: 90px;
-  margin-left: 30%;
   line-height: 70px;
   background-color: rgba(255, 213, 33, 1);
   color: #000000;
@@ -16694,12 +16737,12 @@ Motivation Featured Area CSS
 }
 
 .motivation-featured-card:hover .number {
-  background-color: rgba(255, 213, 33, 1);
-  color: #000000;
+  background-color: #000000;
+  color: #ffffff;
 }
 
 .motivation-featured-card:hover .numbera {
-  background-color: rgba(17, 88, 165, 1);
+  background-color: #000000;
   color: #ffffff;
 }
 
