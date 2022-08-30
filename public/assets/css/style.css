@@ -129,7 +129,7 @@ img {
 
 /*default-btn*/
 .default-btn {
-  -webkit-transition: 0.5s;
+   -webkit-transition: 0.5s;
   transition: 0.5s;
   display: inline-block;
   padding: 13px 25px 12px 55px;
@@ -4048,8 +4048,8 @@ Offer CSS
 }
 
 .col-lg-4:nth-child(3) .single-offer-box .icon {
-  border-color: rgba(252, 205, 6, 1);
-  color: rgba(252, 205, 6, 1);
+  border-color: #fea116;
+  color: #fea116;
 }
 
 .col-lg-4:nth-child(3) .single-offer-box:hover .icon {
@@ -12626,7 +12626,7 @@ Footer CSS
 }
 
 .single-footer-widget .contact-us-link li a:hover, .single-footer-widget .contact-us-link li a:focus {
-  color: rgba(17, 88, 165, 1);
+  color: #ffffff;
 }
 
 .single-footer-widget .contact-us-link li:last-child {
@@ -12653,7 +12653,7 @@ Footer CSS
 }
 
 .single-footer-widget .support-link li a:hover, .single-footer-widget .support-link li a:focus {
-  color: rgba(17, 88, 165, 1);
+  color: #ffffff;
   padding-left: 7px;
 }
 
@@ -12677,7 +12677,7 @@ Footer CSS
 }
 
 .single-footer-widget .useful-link li a:hover, .single-footer-widget .useful-link li a:focus {
-  color: rgba(17, 88, 165, 1);
+  color: #ffffff;
   padding-left: 7px;
 }
 
@@ -16796,7 +16796,7 @@ Motivation Featured Area CSS
 .motivation-featured-item h3 {
   margin-bottom: 15px;
   font-size: 18.5px;
-  font-weight: 600;#ffffff
+  font-weight: 600;
 }
 
 .motivation-featured-item h3 a {

@@ -22,5 +22,11 @@ Route::get('artikel', function () {
 Route::get('Backend', function () {
     return view('courseBack');
 });
+Route::get('yoo', function () {
+    return view('singleblog');
+});
+Route::get('dokumentasi', function () {
+    return view('dokumentasi');
+});
 
 
