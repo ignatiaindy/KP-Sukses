@@ -19,4 +19,8 @@ Route::get('/', function () {
 Route::get('artikel', function () {
     return view('artikel');
 });
+Route::get('Backend', function () {
+    return view('courseBack');
+});
+
 

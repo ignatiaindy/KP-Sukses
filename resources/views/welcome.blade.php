@@ -47,7 +47,7 @@
                     <div class="container">
                         <div class="ino-responsive-menu">
                             <div class="logo">
-                                <a href="index-5.html">
+                                <a href="/">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                                 </a>
                             </div>
@@ -404,7 +404,7 @@
                         <div class="become-instructor-partner-content">
                             <h2>Backend Developer</h2>
                             <p>Backend merupakan bagian dari aplikasi yang bertanggung jawab untuk menyediakan kebutuhan yang tidak terlihat oleh pengguna</p>
-                            <a href="login.html" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
+                            <a href="Backend" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
                         </div>
                     </div>
                 </div>
