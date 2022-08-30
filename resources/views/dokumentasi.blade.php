@@ -23,9 +23,9 @@
         <link rel="stylesheet" href="assets/css/dark.css">
         <link rel="stylesheet" href="assets/css/responsive.css">
 
-        <title>Raque - Education & Online Courses HTML Template</title>
+        <title>Artikel - Sinergi Peta Sejahtera</title>
 
-        <link rel="icon" type="image/png" href="assets/img/favicon.png">
+        <link rel="icon" type="image/png" href="assets/img/fav.png">
     </head>
 
     <body>
@@ -311,15 +311,6 @@
         
         <div class="go-top"><i class='bx bx-up-arrow-alt'></i></div>
 
-        <!-- Dark version -->
-        <div class="dark-version">
-            <label id="switch" class="switch">
-                <input type="checkbox" onchange="toggleTheme()" id="slider">
-                <span class="slider round"></span>
-            </label>
-        </div>
-        <!-- Dark version -->
-
         <!-- Links of JS files -->
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
@@ -340,5 +331,5 @@
         <script src="assets/js/main.js"></script>
     </body>
 
-<!-- Mirrored from templates.envytheme.com/raque/default/gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Jun 2022 15:46:58 GMT -->
+
 </html>
