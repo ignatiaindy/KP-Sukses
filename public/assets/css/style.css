@@ -8855,7 +8855,7 @@ Page Title CSS
 }
 
 .page-title-area.item-bg3 {
-  background-image: url(../img/page-title/3.jpg);
+  background-image: url(../img/page-title/tes.jpg);
 }
 
 .page-title-area.item-bg4 {
@@ -8911,6 +8911,7 @@ Page Title CSS
 .page-title-content h2 {
   color: #ffffff;
   margin-bottom: 0;
+  padding-top: -500px;
   font-size: 42px;
   font-weight: 700;
 }
@@ -12851,13 +12852,11 @@ Footer CSS
   padding: 0;
   display: flex;
 }
-.footer-bottom-area .back-copy-right ul li {
-  padding-left: 30px;
-}
-.footer-bottom-area .back-copy-right ul li a {
+.footer-bottom-area .back-copy-right ul  a {
   color: #cccccc;
   font-size: 15px;
   font-weight: 500;
+  padding-left: 30px;
 }
 .footer-bottom-area .back-copy-right ul li a:hover {
   color: #ffffff;
@@ -16642,12 +16641,12 @@ Motivation Featured Area CSS
 
 .motivation-featured-card .number {
   display: inline-block;
-  height: 70px;
-  width: 90px;
+  height: 60px;
+  width: 80px;
   line-height: 70px;
   background-color: rgba(17, 88, 165, 1);
   color: #ffffff;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 600;
   text-align: center;
   border-radius: 67% 33% 62% 38% / 65% 35% 65% 35%;
@@ -16657,12 +16656,12 @@ Motivation Featured Area CSS
 }
 .motivation-featured-card .numbera {
   display: inline-block;
-  height: 70px;
-  width: 90px;
+  height: 60px;
+  width: 80px;
   line-height: 70px;
   background-color: rgba(255, 213, 33, 1);
   color: #000000;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 600;
   text-align: center;
   border-radius: 67% 33% 62% 38% / 65% 35% 65% 35%;

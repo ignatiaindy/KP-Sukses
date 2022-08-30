@@ -265,7 +265,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="motivation-featured-card">
                         <div style="width:100%" class="text-center">
-                            <div class="number">01</div>
+                            <div class="number"><iconify-icon icon="mdi:card-account-details"></iconify-icon></div>
                             <p>WNI dan berdomisili di seluruh Indonesia</p>
                         </div>  
                         </div>
@@ -274,7 +274,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="motivation-featured-card">
                         <div style="width:100%" class="text-center">
-                            <div class="numbera">02</div>
+                            <div class="numbera"><iconify-icon icon="mdi:account-school"></iconify-icon></div>
                             <p>Minimal SMA/Sederajat</p>
                         </div>
                         </div>
@@ -283,7 +283,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="motivation-featured-card">
                         <div style="width:100%" class="text-center">
-                            <div class="number">03</div>
+                            <div class="number"><iconify-icon icon="mdi:calendar-check"></iconify-icon></div>
                             <p>Wajib mengikuti kelas bootcamp sesuai dengan jadwal yang ditentukan</p>
                         </div>
                         </div>
@@ -299,7 +299,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="motivation-featured-card">
                         <div style="width:100%" class="text-center">
-                            <div class="numbera">04</div>
+                            <div class="numbera"><iconify-icon icon="mdi:check-decagram"></iconify-icon></div>
                             <p>Berkomitmen untuk menyelesaikan program bootcamp sampai selesai</p>
                         </div>
                         </div>
@@ -308,7 +308,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="motivation-featured-card">
                         <div style="width:100%" class="text-center">
-                            <div class="number">05</div>
+                            <div class="number"><iconify-icon icon="mdi:xml"></iconify-icon></div>
                             <p>Mempunyai passion di bidang IT dan mempunyai semangat untuk belajar </p>
                         </div>
                         </div>
@@ -317,7 +317,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="motivation-featured-card">
                             <div style="width:100%" class="text-center">
-                            <div class="numbera">06</div></div>
+                            <div class="numbera"><iconify-icon icon="mdi:laptop"></iconify-icon></div></div>
                             <p>Memiliki laptop dengan spesifikasi minimal 
                                 OS : Linux OS (Ubuntu) / Windows
                                 32/64 bit / MacOS
@@ -667,8 +667,8 @@
                     <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="#">Inosoft</a></div>
                     <div class="back-copy-right">
                         <ul>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Terms And Conditions</a></li>
+                            <a href="#">Privacy Policy</a>
+                            <a href="#">Terms And Conditions</a>
                         </ul>
                     </div>
                 </div>
@@ -694,6 +694,7 @@
         <script src="assets/js/jquery.magnific-popup.min.js"></script>
         <script src="assets/js/jquery.ajaxchimp.min.js"></script>
         <script src="assets/js/form-validator.min.js"></script>
+        <script src="https://code.iconify.design/iconify-icon/1.0.0-beta.3/iconify-icon.min.js"></script>
         <!-- <script src="assets/js/contact-form-script.js"></script> -->
         <script src="assets/js/main.js"></script>
     </body>
