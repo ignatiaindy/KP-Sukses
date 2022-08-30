@@ -22,7 +22,7 @@
         <link rel="stylesheet" href="assets/css/dark.css">
         <link rel="stylesheet" href="assets/css/responsive.css">
 
-        <title>Home - Sinergi Peta Sejahtera</title>
+        <title>Artikel - Sinergi Peta Sejahtera</title>
 
         <link rel="icon" type="image/png" href="assets/img/fav.png">
     </head>
@@ -420,54 +420,46 @@
                             <ul class="contact-us-link">
                                 <li>
                                     <i class='bx bx-map'></i>
-                                    <a href="#" target="_blank">2750 Quadra Street Victoria Road, New York, USA</a>
+                                    <a href="#" target="_blank">Jl. Penjaringan Sari YKP Pandugo 2 No.1, Penjaringan Sari, Kec. Rungkut, Kota SBY, Jawa Timur 60297</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-phone-call'></i>
-                                    <a href="#">+1 (123) 456 7890</a>
+                                    <a href="#">(031) 8700688</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-envelope'></i>
-                                    <a href="#"><span class="__cf_email__" data-cfemail="670f020b0b082715061612024904080a">[email&#160;protected]</span></a>
+                                    <a href="#"><span class="__cf_email__" data-cfemail="3f575a5353507f4d5e4e4a5a115c5052">evy@inosoftweb.com </span></a>
                                 </li>
                             </ul>
 
                             <ul class="social-link">
-                                <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-facebook'></i></a></li>
-                                <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-twitter'></i></a></li>
-                                <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-instagram'></i></a></li>
-                                <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-linkedin'></i></a></li>
-                                <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-pinterest-alt'></i></a></li>
+                                <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-whatsapp'></i></a></li>
+                                <li><a href="https://www.instagram.com/inosoftbootcamp/" class="d-block" target="_blank"><i class='bx bxl-instagram'></i></a></li>
+                                
                             </ul>
                         </div>
                     </div>
 
                     <div class="col-lg-2 col-md-6 col-sm-6">
                         <div class="single-footer-widget mb-30">
-                            <h3>Support</h3>
-
-                            <ul class="support-link">
-                                <li><a href="#">Privacy</a></li>
-                                <li><a href="#">FAQ's</a></li>
-                                <li><a href="#">Support</a></li>
-                                <li><a href="#">Terms</a></li>
-                                <li><a href="#">Condition</a></li>
-                                <li><a href="#">Policy</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-2 col-md-6 col-sm-6">
-                        <div class="single-footer-widget mb-30">
-                            <h3>Useful Link</h3>
+                            <h3>Blog</h3>
 
                             <ul class="useful-link">
-                                <li><a href="#">Web Design</a></li>
-                                <li><a href="#">UI/UX Design</a></li>
-                                <li><a href="#">WP Development</a></li>
-                                <li><a href="#">App</a></li>
-                                <li><a href="#">Whitepaper</a></li>
-                                <li><a href="#">Web Development</a></li>
+                                <li><a href="#">Artikel</a></li>
+                                <li><a href="#">Dokumentasi</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-2 col-md-6 col-sm-6">
+                        <div class="single-footer-widget mb-30">
+                            <h3>Course</h3>
+
+                            <ul class="useful-link">
+                                <li><a href="#">Frontend Developer</a></li>
+                                <li><a href="#">Backend Developer</a></li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -494,9 +486,11 @@
             <div class="footer-bottom-area">
                 <div class="container">
                     <div class="logo">
-                        <a href="index.html" class="d-inline-block"><img src="assets/img/logo.png" alt="image"></a>
+                        <a href="index-5.html" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
                     </div>
-                    <p><i class='bx bx-copyright'></i> <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear())</script> <a href="index.html" target="_blank">Raque</a> Designed By <a href="https://envytheme.com/" target="_blank">EnvyTheme</a> | All rights reserved.</p>
+                    <div>                  
+                    <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="#">Inosoft</a></div>
+
                 </div>
             </div>
         </footer>

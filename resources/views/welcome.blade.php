@@ -4,7 +4,7 @@
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+        <!-- test -->
 
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/css/boxicons.min.css">
@@ -54,6 +54,7 @@
                         </div>
                     </div>
                 </div>
+                <!-- bebas -->
 
                 <div class="ino-nav">
                     <div class="container">
@@ -264,7 +265,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="motivation-featured-card">
                         <div style="width:100%" class="text-center">
-                            <div class="number">01</div>
+                            <div class="number"><iconify-icon icon="mdi:card-account-details"></iconify-icon></div>
                             <p>WNI dan berdomisili di seluruh Indonesia</p>
                         </div>  
                         </div>
@@ -273,7 +274,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="motivation-featured-card">
                         <div style="width:100%" class="text-center">
-                            <div class="numbera">02</div>
+                            <div class="numbera"><iconify-icon icon="mdi:account-school"></iconify-icon></div>
                             <p>Minimal SMA/Sederajat</p>
                         </div>
                         </div>
@@ -282,7 +283,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="motivation-featured-card">
                         <div style="width:100%" class="text-center">
-                            <div class="number">03</div>
+                            <div class="number"><iconify-icon icon="mdi:calendar-check"></iconify-icon></div>
                             <p>Wajib mengikuti kelas bootcamp sesuai dengan jadwal yang ditentukan</p>
                         </div>
                         </div>
@@ -298,7 +299,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="motivation-featured-card">
                         <div style="width:100%" class="text-center">
-                            <div class="numbera">04</div>
+                            <div class="numbera"><iconify-icon icon="mdi:check-decagram"></iconify-icon></div>
                             <p>Berkomitmen untuk menyelesaikan program bootcamp sampai selesai</p>
                         </div>
                         </div>
@@ -307,7 +308,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="motivation-featured-card">
                         <div style="width:100%" class="text-center">
-                            <div class="number">05</div>
+                            <div class="number"><iconify-icon icon="mdi:xml"></iconify-icon></div>
                             <p>Mempunyai passion di bidang IT dan mempunyai semangat untuk belajar </p>
                         </div>
                         </div>
@@ -316,7 +317,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="motivation-featured-card">
                             <div style="width:100%" class="text-center">
-                            <div class="numbera">06</div></div>
+                            <div class="numbera"><iconify-icon icon="mdi:laptop"></iconify-icon></div></div>
                             <p>Memiliki laptop dengan spesifikasi minimal 
                                 OS : Linux OS (Ubuntu) / Windows
                                 32/64 bit / MacOS
@@ -480,14 +481,14 @@
        <!-- Start Blog Area -->
        <section class="blog-area pt-100 pb-70">
             <div class="container">
-            <div class="section-title">
+            <!-- <div class="section-title">
                     <span class="sub-title">EXPLORE NEWS</span>
                     <h2>Our Blogs</h2>
-                </div>
+                </div> -->
                 <div class="section-title text-left">
-                    <!-- <span class="sub-title">Explore News</span>
-                    <h2>Blog</h2> -->
-                            <!-- <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a>  -->
+                    <span class="sub-title">Explore News</span>
+                    <h2>Blog</h2>
+                            <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
                 </div>
                 
                 <div class="row justify-content-center">
@@ -571,12 +572,12 @@
                             </div>
                         </div>
                     </div> 
-                    <!-- <div class="section-button text-left">
+                    <div class="section-button text-left">
                             <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
-                            </div> -->
-                    <div class="section-button1 text-left">
+                            </div>
+                    <!-- <div class="section-button1 text-center">
                             <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
-                    </div>              
+                    </div>               -->
                 </div>
             </div>
             
@@ -660,17 +661,16 @@
             <div class="footer-bottom-area">
                 <div class="container">
                     <div class="logo">
-                        <a href="index-5.html" class="d-inline-block"><img src="assets/img/logo1.png" alt="image"></a>
+                        <a href="index-5.html" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
                     </div>
-                <div class="containerr">                  
+                    <div class="containerr">                  
                     <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="#">Inosoft</a></div>
                     <div class="back-copy-right">
                         <ul>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Terms And Conditions</a></li>
+                            <a href="#">Privacy Policy</a>
+                            <a href="#">Terms And Conditions</a>
                         </ul>
                     </div>
-                </div>
                 </div>
             </div>
         </footer>
@@ -694,6 +694,7 @@
         <script src="assets/js/jquery.magnific-popup.min.js"></script>
         <script src="assets/js/jquery.ajaxchimp.min.js"></script>
         <script src="assets/js/form-validator.min.js"></script>
+        <script src="https://code.iconify.design/iconify-icon/1.0.0-beta.3/iconify-icon.min.js"></script>
         <!-- <script src="assets/js/contact-form-script.js"></script> -->
         <script src="assets/js/main.js"></script>
     </body>
