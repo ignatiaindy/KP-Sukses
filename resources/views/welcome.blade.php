@@ -47,7 +47,7 @@
                     <div class="container">
                         <div class="ino-responsive-menu">
                             <div class="logo">
-                                <a href="index-5.html">
+                                <a href="/">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                                 </a>
                             </div>
@@ -59,7 +59,7 @@
                 <div class="ino-nav">
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
-                            <a class="navbar-brand" href="index-5.html">
+                            <a class="navbar-brand" href="/">
                                 <img src="assets/img/logo1.png" class="logo1" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
@@ -90,7 +90,7 @@
                 <div class="ino-nav">
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
-                            <a class="navbar-brand" href="index-5.html">
+                            <a class="navbar-brand" href="/">
                                 <img src="assets/img/logo1.png" class="black-logo" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
@@ -204,7 +204,7 @@
         <!-- End Funfacts Area -->
 
         <!-- Start Offer Area -->
-        <section class="offer-area pt-100 jarallax" data-jarallax='{"speed": 0.3}'>
+        <section style="width:100% class="offer-area pt-100 jarallax" data-jarallax='{"speed": 0.3}'>
             <div class="container">
                 <div class="section-title">
                     <h2>Kenapa Gabung dengan Inosoft Bootcamp ?</h2>
@@ -390,13 +390,13 @@
 
                     <div class="col-lg-6 col-md-6">
                         <div class="become-instructor-partner-image bg-image1 jarallax" data-jarallax='{"speed": 0.3}'>
-                            <img src="assets/img/become-instructor.jpg" alt="image">
+                            <img src="assets/img/laptop.jpg" alt="image">
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6">
                         <div class="become-instructor-partner-image bg-image2 jarallax" data-jarallax='{"speed": 0.3}'>
-                            <img src="assets/img/become-partner.jpg" alt="image">
+                            <img src="assets/img/code.jpg" alt="image">
                         </div>
                     </div>
 
@@ -404,7 +404,7 @@
                         <div class="become-instructor-partner-content">
                             <h2>Backend Developer</h2>
                             <p>Backend merupakan bagian dari aplikasi yang bertanggung jawab untuk menyediakan kebutuhan yang tidak terlihat oleh pengguna</p>
-                            <a href="login.html" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
+                            <a href="Backend" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
                         </div>
                     </div>
                 </div>
@@ -573,7 +573,7 @@
                         </div>
                     </div> 
                     <div class="section-button text-left">
-                            <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
+                            <a href="artikel" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
                             </div>
                     <!-- <div class="section-button1 text-center">
                             <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
@@ -661,7 +661,7 @@
             <div class="footer-bottom-area">
                 <div class="container">
                     <div class="logo">
-                        <a href="index-5.html" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
+                        <a href="/" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
                     </div>
                     <div class="containerr">                  
                     <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="#">Inosoft</a></div>

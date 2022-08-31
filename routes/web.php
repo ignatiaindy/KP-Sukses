@@ -19,4 +19,14 @@ Route::get('/', function () {
 Route::get('artikel', function () {
     return view('artikel');
 });
+Route::get('Backend', function () {
+    return view('courseBack');
+});
+Route::get('yoo', function () {
+    return view('singleblog');
+});
+Route::get('dokumentasi', function () {
+    return view('dokumentasi');
+});
+
 

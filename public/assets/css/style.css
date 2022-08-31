@@ -129,7 +129,7 @@ img {
 
 /*default-btn*/
 .default-btn {
-  -webkit-transition: 0.5s;
+   -webkit-transition: 0.5s;
   transition: 0.5s;
   display: inline-block;
   padding: 13px 25px 12px 55px;
@@ -142,6 +142,21 @@ img {
   border-radius: 1px;
   font-size: 14.5px;
   font-weight: 700;
+}
+.default-btn1 {
+  display: block;
+  margin-top: .9rem;
+  width: 100%;
+  border-radius: .25rem;
+  background-color:rgba(16, 86, 162, 1);
+  color: #ffffff;
+  border: none;
+  text-align: center;
+  padding: 12px 25px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  font-weight: 500;
+  font-size: 15px;
 }
 
 .default-btn .label, .default-btn .icon-arrow {
@@ -4048,8 +4063,8 @@ Offer CSS
 }
 
 .col-lg-4:nth-child(3) .single-offer-box .icon {
-  border-color: rgba(252, 205, 6, 1);
-  color: rgba(252, 205, 6, 1);
+  border-color: #fea116;
+  color: #fea116;
 }
 
 .col-lg-4:nth-child(3) .single-offer-box:hover .icon {
@@ -8855,7 +8870,7 @@ Page Title CSS
 }
 
 .page-title-area.item-bg3 {
-  background-image: url(../img/page-title/tes.jpg);
+  background-image: url(../img/page-title/3.jpg);
 }
 
 .page-title-area.item-bg4 {
@@ -12626,7 +12641,7 @@ Footer CSS
 }
 
 .single-footer-widget .contact-us-link li a:hover, .single-footer-widget .contact-us-link li a:focus {
-  color: rgba(17, 88, 165, 1);
+  color: #ffffff;
 }
 
 .single-footer-widget .contact-us-link li:last-child {
@@ -12653,7 +12668,7 @@ Footer CSS
 }
 
 .single-footer-widget .support-link li a:hover, .single-footer-widget .support-link li a:focus {
-  color: rgba(17, 88, 165, 1);
+  color: #ffffff;
   padding-left: 7px;
 }
 
@@ -12677,7 +12692,7 @@ Footer CSS
 }
 
 .single-footer-widget .useful-link li a:hover, .single-footer-widget .useful-link li a:focus {
-  color: rgba(17, 88, 165, 1);
+  color: #ffffff;
   padding-left: 7px;
 }
 
@@ -18877,5 +18892,6 @@ Buy Now Btn
     -webkit-transform: scale3d(1, 1, 1);
             transform: scale3d(1, 1, 1);
   }
+  
 }
 /*# sourceMappingURL=style.css.map */
