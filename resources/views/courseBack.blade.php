@@ -48,7 +48,7 @@
                     <div class="container">
                         <div class="ino-responsive-menu">
                             <div class="logo">
-                                <a href="index-5.html">
+                                <a href="/">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                                 </a>
                             </div>
@@ -60,7 +60,7 @@
                 <div class="ino-nav">
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
-                            <a class="navbar-brand" href="index-5.html">
+                            <a class="navbar-brand" href="/">
                                 <img src="assets/img/logo1.png" class="logo1" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
@@ -91,7 +91,7 @@
                 <div class="ino-nav">
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
-                            <a class="navbar-brand" href="index-5.html">
+                            <a class="navbar-brand" href="/">
                                 <img src="assets/img/logo1.png" class="black-logo" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
@@ -209,7 +209,7 @@
                             </ul>
                         </div>
                             <div>
-                                <a style="width:100%" href="#" class="default-btn">Daftar</a>
+                                <a style="width:100%" href="#" class="default-btn1">Daftar</a>
                             </div>  
                     </div>
                 </div>
@@ -370,42 +370,6 @@
                                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
                                                         </div>
                                                     </div>
-
-                                                    <div class="review-form">
-                                                        <h3>Write a Review</h3>
-
-                                                        <form>
-                                                            <div class="row">
-                                                                <div class="col-lg-6 col-md-6">
-                                                                    <div class="form-group">
-                                                                        <input type="text" id="name" name="name" placeholder="Enter your name" class="form-control">
-                                                                    </div>
-                                                                </div>
-
-                                                                <div class="col-lg-6 col-md-6">
-                                                                    <div class="form-group">
-                                                                        <input type="email" id="email" name="email" placeholder="Enter your email" class="form-control">
-                                                                    </div>
-                                                                </div>
-
-                                                                <div class="col-lg-12 col-md-12">
-                                                                    <div class="form-group">
-                                                                        <input type="text" id="review-title" name="review-title" placeholder="Enter your review a title" class="form-control">
-                                                                    </div>
-                                                                </div>
-
-                                                                <div class="col-lg-12 col-md-12">
-                                                                    <div class="form-group">
-                                                                        <textarea name="review-body" id="review-body" cols="30" rows="6" placeholder="Write your comments here" class="form-control"></textarea>
-                                                                    </div>
-                                                                </div>
-
-                                                                <div class="col-lg-12 col-md-12">
-                                                                    <button type="submit" class="default-btn"><i class='bx bx-paper-plane icon-arrow before'></i><span class="label">Submit Review</span><i class="bx bx-paper-plane icon-arrow after"></i></button>
-                                                                </div>
-                                                            </div>
-                                                        </form>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -529,7 +493,7 @@
             <div class="footer-bottom-area">
                 <div class="container">
                     <div class="logo">
-                        <a href="index-5.html" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
+                        <a href="/" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
                     </div>
                     <div>                  
                     <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="#">Inosoft</a></div>

@@ -47,7 +47,7 @@
                     <div class="container">
                         <div class="ino-responsive-menu">
                             <div class="logo">
-                                <a href="index-5.html">
+                                <a href="/">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                                 </a>
                             </div>
@@ -58,7 +58,7 @@
                 <div class="ino-nav">
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
-                            <a class="navbar-brand" href="index-5.html">
+                            <a class="navbar-brand" href="/">
                                 <img src="assets/img/logo1.png" class="logo1" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
@@ -89,7 +89,7 @@
                 <div class="ino-nav">
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
-                            <a class="navbar-brand" href="index-5.html">
+                            <a class="navbar-brand" href="/">
                                 <img src="assets/img/logo1.png" class="black-logo" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
@@ -486,7 +486,7 @@
             <div class="footer-bottom-area">
                 <div class="container">
                     <div class="logo">
-                        <a href="index-5.html" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
+                        <a href="/" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
                     </div>
                     <div>                  
                     <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="#">Inosoft</a></div>

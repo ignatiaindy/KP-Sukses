@@ -143,6 +143,21 @@ img {
   font-size: 14.5px;
   font-weight: 700;
 }
+.default-btn1 {
+  display: block;
+  margin-top: .9rem;
+  width: 100%;
+  border-radius: .25rem;
+  background-color:rgba(16, 86, 162, 1);
+  color: #ffffff;
+  border: none;
+  text-align: center;
+  padding: 12px 25px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  font-weight: 500;
+  font-size: 15px;
+}
 
 .default-btn .label, .default-btn .icon-arrow {
   -webkit-backface-visibility: hidden;
