@@ -76,7 +76,7 @@
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
-                                            <li class="nav-item"><a href="blog-style-2.html" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
@@ -107,7 +107,7 @@
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
-                                            <li class="nav-item"><a href="blog-style-2.html" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
@@ -147,34 +147,7 @@
         </div>
         <!-- End Search Box Layout -->
 
-        <!-- Start Main Banner -->
-        <div class="hero-banner bg-white">
-            <div class="d-table">
-                <div class="d-table-cell">
-                    <div class="container-fluid">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6 col-md-12">
-                                <div class="hero-banner-content black-color">
-                                    <span class="sub-title">We Challenge Young Minds</span>
-                                    <h1>Learn From The Best and Be The Best</h1>
-                                    <p>INOSOFT BOOTCAMP, Bootcamp bidang IT No.1 di Indonesia</p>
-                                    <div class="btn-box">
-                                        <a href="courses-2-columns-style-1.html" class="default-btn"><i class='bx bx-move-horizontal icon-arrow before'></i><span class="label">Daftar</span><i class="bx bx-move-horizontal icon-arrow after"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 col-md-12">
-                                <div class="hero-banner-image text-center">
-                                    <img src="assets/img/banner1.jpg" alt="image">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Main Banner -->
+        
 
         <!-- Search Box Layout -->
         <div class="search-overlay">

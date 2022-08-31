@@ -50,6 +50,7 @@ p:last-child {
 img {
   max-width: 100%;
   height: auto;
+  margin-top: -10px;
 }
 
 .ptb-100 {
@@ -5965,6 +5966,7 @@ Courses Details CSS
 .courses-sidebar-syllabus {
   border: 1px solid #f3f3f3;
   margin-bottom: 40px;
+  margin-top: 50px;
   border-radius: 5px;
   padding: 20px;
 }
@@ -9857,10 +9859,12 @@ Product Details CSS
   border: 1px dashed #eeeeee;
   padding-top: 13px;
   padding-bottom: 13px;
-  padding-right: 30px;
+  padding-right: 300px;
   padding-left: 48px;
   font-weight: 500;
   font-size: 15px;
+  text-align: center;
+
 }
 
 .products-details-tab .tabs li a .dot {
@@ -9875,6 +9879,7 @@ Product Details CSS
   -webkit-transition: 0.5s;
   transition: 0.5s;
   border-radius: 50%;
+  text-align: center;
 }
 
 .products-details-tab .tabs li a .dot::before {

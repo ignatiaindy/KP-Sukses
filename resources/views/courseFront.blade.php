@@ -150,7 +150,7 @@
                 <div class="page-title-content">
                     <ul>
                         <li><a href="welcome">Home</a></li>
-                        <li><a>Backend Developer</a></li>
+                        <li><a>Frontend Developer</a></li>
                         
                     </ul>
                     <h2>Courses</h2>
@@ -166,7 +166,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-8">
                         <div class="courses-title">
-                                <h2>Backend Developer</h2>
+                                <h2>Frontend Developer</h2>
                             </div>
                             <div class="courses-meta">
                                 <ul>

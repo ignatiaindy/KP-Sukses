@@ -72,7 +72,7 @@
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
-                                            <li class="nav-item"><a href="blog-style-2.html" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
@@ -103,7 +103,7 @@
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
-                                            <li class="nav-item"><a href="blog-style-2.html" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
@@ -384,7 +384,7 @@
                         <div class="become-instructor-partner-content bg-color">
                             <h2>Frontend Developer</h2>
                             <p>Frontend merupakan salah satu bagian dari website yang menampilkan tampilan pada para pengguna</p>
-                            <a href="login.html" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
+                            <a href="Frontend" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
                         </div>
                     </div>
 
