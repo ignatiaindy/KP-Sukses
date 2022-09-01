@@ -4,7 +4,7 @@
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <!-- test -->
+
 
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/css/boxicons.min.css">
@@ -19,7 +19,6 @@
         <link rel="stylesheet" href="assets/css/slick.min.css">
         <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
         <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/dark.css">
         <link rel="stylesheet" href="assets/css/responsive.css">
 
         <title>Home - Sinergi Peta Sejahtera</title>
@@ -60,7 +59,6 @@
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
                             <a class="navbar-brand" href="/">
-                                <img src="assets/img/logo1.png" class="logo1" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
 
@@ -75,7 +73,7 @@
                                             <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
+                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
                                     
                                 </div>
                             </div>
@@ -91,7 +89,6 @@
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
                             <a class="navbar-brand" href="/">
-                                <img src="assets/img/logo1.png" class="black-logo" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
 
@@ -106,7 +103,7 @@
                                             <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
+                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
                                     
                                 </div>
                             </div>
@@ -119,49 +116,25 @@
         </header>
         <!-- End Header Area -->
 
-        <!-- Search Box Layout -->
-        <div class="search-overlay">
-            <div class="d-table">
-                <div class="d-table-cell">
-                    <div class="search-overlay-layer"></div>
-                    <div class="search-overlay-layer"></div>
-                    <div class="search-overlay-layer"></div>
-                    
-                    <div class="search-overlay-close">
-                        <span class="search-overlay-close-line"></span>
-                        <span class="search-overlay-close-line"></span>
-                    </div>
-
-                    <div class="search-overlay-form">
-                        <form>
-                            <input type="text" class="input-search" placeholder="Search here...">
-                            <button type="submit"><i class='bx bx-search-alt'></i></button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Search Box Layout -->
-
-        <!-- Start Main Banner -->
-        <div class="hero-banner bg-white">
+        <!-- Start Ino Banner -->
+        <div class="ino-banner bg-white">
             <div class="d-table">
                 <div class="d-table-cell">
                     <div class="container-fluid">
                         <div class="row align-items-center">
                             <div class="col-lg-6 col-md-12">
-                                <div class="hero-banner-content black-color">
+                                <div class="ino-banner-content black-color">
                                     <span class="sub-title">We Challenge Young Minds</span>
                                     <h1>Learn From The Best and Be The Best</h1>
                                     <p>INOSOFT BOOTCAMP, Bootcamp bidang IT No.1 di Indonesia</p>
                                     <div class="btn-box">
-                                        <a href="courses-2-columns-style-1.html" class="default-btn"><i class='bx bx-move-horizontal icon-arrow before'></i><span class="label">Daftar</span><i class="bx bx-move-horizontal icon-arrow after"></i></a>
+                                        <a href="" class="default-btn"><i class='bx bx-move-horizontal icon-arrow before'></i><span class="label">Daftar</span><i class="bx bx-move-horizontal icon-arrow after"></i></a>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-lg-6 col-md-12">
-                                <div class="hero-banner-image text-center">
+                                <div class="ino-banner-image text-center">
                                     <img src="assets/img/banner1.jpg" alt="image">
                                 </div>
                             </div>
@@ -170,9 +143,9 @@
                 </div>
             </div>
         </div>
-        <!-- End Main Banner -->
+        <!-- End Ino Banner -->
 
-        <!-- Start Funfacts Area -->
+        <!-- Start about Area -->
         <section class="about-area ptb-100">
             <div class="container">
                 <div class="row align-items-center">
@@ -201,7 +174,7 @@
 
             <div id="particles-js-circle-bubble-4"></div>
         </section>
-        <!-- End Funfacts Area -->
+        <!-- End about Area -->
 
         <!-- Start Offer Area -->
         <section style="width:100% class="offer-area pt-100 jarallax" data-jarallax='{"speed": 0.3}'>
@@ -249,8 +222,8 @@
         </section>
         <!-- End Funfacts And Feedback Area -->
 
-         <!-- Start Motivation Featured Area -->
-         <div class="motivation-featured-area pt-100 pb-70">
+         <!-- Start Alasan Area -->
+         <div class="Alasan-area pt-100 pb-70">
             <div class="container">
                 <div class="section-title text-left">
                     <div class="row">
@@ -263,7 +236,7 @@
 
                 <div class="row justify-content-center">
                     <div class="col-lg-3 col-sm-6">
-                        <div class="motivation-featured-card">
+                        <div class="Alasan-card">
                         <div style="width:100%" class="text-center">
                             <div class="number"><iconify-icon icon="mdi:card-account-details"></iconify-icon></div>
                             <p>WNI dan berdomisili di seluruh Indonesia</p>
@@ -272,7 +245,7 @@
                     </div>
 
                     <div class="col-lg-3 col-sm-6">
-                        <div class="motivation-featured-card">
+                        <div class="Alasan-card">
                         <div style="width:100%" class="text-center">
                             <div class="numbera"><iconify-icon icon="mdi:account-school"></iconify-icon></div>
                             <p>Minimal SMA/Sederajat</p>
@@ -281,7 +254,7 @@
                     </div>
 
                     <div class="col-lg-3 col-sm-6">
-                        <div class="motivation-featured-card">
+                        <div class="Alasan-card">
                         <div style="width:100%" class="text-center">
                             <div class="number"><iconify-icon icon="mdi:calendar-check"></iconify-icon></div>
                             <p>Wajib mengikuti kelas bootcamp sesuai dengan jadwal yang ditentukan</p>
@@ -291,13 +264,13 @@
                 </div>
             </div>
         </div>
-        <!-- End Motivation Featured Area -->
-        <!-- Start Motivation Featured Area -->
-        <div class="motivation-featured-area pt-10 pb-70">
+        <!-- End Alasan Area -->
+        <!-- Start Alasan Area -->
+        <div class="Alasan-area pt-10 pb-70">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-3 col-sm-6">
-                        <div class="motivation-featured-card">
+                        <div class="Alasan-card">
                         <div style="width:100%" class="text-center">
                             <div class="numbera"><iconify-icon icon="mdi:check-decagram"></iconify-icon></div>
                             <p>Berkomitmen untuk menyelesaikan program bootcamp sampai selesai</p>
@@ -306,7 +279,7 @@
                     </div>
 
                     <div class="col-lg-3 col-sm-6">
-                        <div class="motivation-featured-card">
+                        <div class="Alasan-card">
                         <div style="width:100%" class="text-center">
                             <div class="number"><iconify-icon icon="mdi:xml"></iconify-icon></div>
                             <p>Mempunyai passion di bidang IT dan mempunyai semangat untuk belajar </p>
@@ -315,7 +288,7 @@
                     </div>
 
                     <div class="col-lg-3 col-sm-6">
-                        <div class="motivation-featured-card">
+                        <div class="Alasan-card">
                             <div style="width:100%" class="text-center">
                             <div class="numbera"><iconify-icon icon="mdi:laptop"></iconify-icon></div></div>
                             <p>Memiliki laptop dengan spesifikasi minimal 
@@ -376,12 +349,12 @@
         </section>
         <!-- End Information Area -->
 
-         <!-- Start Become Instructor & Partner Area -->
-         <section class="become-instructor-partner-area">
+         <!-- Start bootcamp Area -->
+         <section class="bootcamp-area">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-6 col-md-6">
-                        <div class="become-instructor-partner-content bg-color">
+                        <div class="bootcamp-content bg-color">
                             <h2>Frontend Developer</h2>
                             <p>Frontend merupakan salah satu bagian dari website yang menampilkan tampilan pada para pengguna</p>
                             <a href="Frontend" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
@@ -389,19 +362,19 @@
                     </div>
 
                     <div class="col-lg-6 col-md-6">
-                        <div class="become-instructor-partner-image bg-image1 jarallax" data-jarallax='{"speed": 0.3}'>
+                        <div class="bootcamp-image bg-image1 jarallax" data-jarallax='{"speed": 0.3}'>
                             <img src="assets/img/laptop.jpg" alt="image">
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6">
-                        <div class="become-instructor-partner-image bg-image2 jarallax" data-jarallax='{"speed": 0.3}'>
+                        <div class="bootcamp-image bg-image2 jarallax" data-jarallax='{"speed": 0.3}'>
                             <img src="assets/img/code.jpg" alt="image">
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6">
-                        <div class="become-instructor-partner-content">
+                        <div class="bootcamp-content">
                             <h2>Backend Developer</h2>
                             <p>Backend merupakan bagian dari aplikasi yang bertanggung jawab untuk menyediakan kebutuhan yang tidak terlihat oleh pengguna</p>
                             <a href="Backend" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
@@ -410,7 +383,7 @@
                 </div>
             </div>
         </section>
-        <!-- End Become Instructor & Partner Area -->
+        <!-- End bootcamp Area -->
             
             <div id="particles-js-circle-bubble-2"></div>
         </section>
@@ -419,11 +392,8 @@
                     </div>
                 </div>
             </div>
-            
-        <!-- End Training Overview Area -->
             </div>
         </section>
-        <!-- End Courses Area -->
 
         <!-- Start Testimonials Area -->
         <section class="testimonials-area pt-100">
@@ -481,15 +451,15 @@
        <!-- Start Blog Area -->
        <section class="blog-area pt-100 pb-70">
             <div class="container">
-            <!-- <div class="section-title">
+            <div class="section-title">
                     <span class="sub-title">EXPLORE NEWS</span>
                     <h2>Our Blogs</h2>
-                </div> -->
-                <div class="section-title text-left">
+                </div>
+                <!-- <div class="section-title text-left">
                     <span class="sub-title">Explore News</span>
                     <h2>Blog</h2>
                             <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
-                </div>
+                </div> -->
                 
                 <div class="row justify-content-center">
                     <div class="col-lg-4 col-md-6">
@@ -572,12 +542,12 @@
                             </div>
                         </div>
                     </div> 
-                    <div class="section-button text-left">
+                    <!-- <div class="section-button text-left">
                             <a href="artikel" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
-                            </div>
-                    <!-- <div class="section-button1 text-center">
+                            </div> -->
+                    <div class="section-button1 text-center">
                             <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
-                    </div>               -->
+                    </div>              
                 </div>
             </div>
             
@@ -695,7 +665,6 @@
         <script src="assets/js/jquery.ajaxchimp.min.js"></script>
         <script src="assets/js/form-validator.min.js"></script>
         <script src="https://code.iconify.design/iconify-icon/1.0.0-beta.3/iconify-icon.min.js"></script>
-        <!-- <script src="assets/js/contact-form-script.js"></script> -->
         <script src="assets/js/main.js"></script>
     </body>
 </html>
