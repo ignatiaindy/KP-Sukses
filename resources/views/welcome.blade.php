@@ -546,9 +546,9 @@
                             <a href="artikel" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
 <<<<<<< Updated upstream
                             </div> -->
-=======
+
                             </div>
->>>>>>> Stashed changes
+
                     <div class="section-button1 text-center">
                             <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
                     </div>              
