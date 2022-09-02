@@ -70,7 +70,7 @@
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
-                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="blog-style-2.html" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
@@ -100,7 +100,7 @@
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
-                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="blog-style-2.html" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
@@ -177,7 +177,7 @@
         <!-- End about Area -->
 
         <!-- Start Offer Area -->
-        <section style="width:100% class="offer-area pt-100 jarallax" data-jarallax='{"speed": 0.3}'>
+        <section class="offer-area pt-100 jarallax" data-jarallax='{"speed": 0.3}'>
             <div class="container">
                 <div class="section-title">
                     <h2>Kenapa Gabung dengan Inosoft Bootcamp ?</h2>
@@ -302,7 +302,7 @@
         </div>
         
         <!-- Start Information Area -->
-        <section class="information-area ptb-100">
+        <section class="information-area ptb-70">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
@@ -357,7 +357,7 @@
                         <div class="bootcamp-content bg-color">
                             <h2>Frontend Developer</h2>
                             <p>Frontend merupakan salah satu bagian dari website yang menampilkan tampilan pada para pengguna</p>
-                            <a href="Frontend" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
+                            <a href="login.html" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
                         </div>
                     </div>
 
@@ -396,7 +396,7 @@
         </section>
 
         <!-- Start Testimonials Area -->
-        <section class="testimonials-area pt-100">
+        <section class="testimonials-area pt-70">
             <div class="container">
                 <div class="section-title">
                     <span class="sub-title">Testimonials</span>
@@ -449,7 +449,7 @@
         <!-- End Testimonials Area -->
 
        <!-- Start Blog Area -->
-       <section class="blog-area pt-100 pb-70">
+       <section class="blog-area pt-100 pb-100">
             <div class="container">
             <div class="section-title">
                     <span class="sub-title">EXPLORE NEWS</span>
@@ -544,7 +544,11 @@
                     </div> 
                     <!-- <div class="section-button text-left">
                             <a href="artikel" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
+<<<<<<< Updated upstream
                             </div> -->
+=======
+                            </div>
+>>>>>>> Stashed changes
                     <div class="section-button1 text-center">
                             <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
                     </div>              

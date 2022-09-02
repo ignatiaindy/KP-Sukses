@@ -50,7 +50,6 @@ p:last-child {
 img {
   max-width: 100%;
   height: auto;
-  margin-top: -10px;
 }
 
 .ptb-100 {
@@ -2651,7 +2650,6 @@ Courses Details CSS
 .courses-sidebar-syllabus {
   border: 1px solid #f3f3f3;
   margin-bottom: 40px;
-  margin-top: 50px;
   border-radius: 5px;
   padding: 20px;
 }
@@ -4255,12 +4253,10 @@ Product Details CSS
   border: 1px dashed #eeeeee;
   padding-top: 13px;
   padding-bottom: 13px;
-  padding-right: 300px;
+  padding-right: 30px;
   padding-left: 48px;
   font-weight: 500;
   font-size: 15px;
-  text-align: center;
-
 }
 
 .products-details-tab .tabs li a .dot {
@@ -4275,7 +4271,6 @@ Product Details CSS
   -webkit-transition: 0.5s;
   transition: 0.5s;
   border-radius: 50%;
-  text-align: center;
 }
 
 .products-details-tab .tabs li a .dot::before {
@@ -5815,6 +5810,1814 @@ keyframe
   }
 }
 
+<<<<<<< Updated upstream
+=======
+/*================================================
+Program CSS
+=================================================*/
+.program-area {
+  position: relative;
+  z-index: 1;
+  background-image: url(../img/health-coaching/program-bg.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.program-area .section-title h2 {
+  max-width: 585px;
+  color: #ffffff;
+  line-height: 1.4;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.program-area .section-title p {
+  color: #ffffff;
+}
+
+.program-area::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -2;
+  background-color: #005d40;
+  opacity: 0.75;
+}
+
+.program-area::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  height: 32%;
+  background-color: #ffffff;
+  z-index: -2;
+}
+
+.single-program-box {
+  margin-bottom: 30px;
+  text-align: center;
+  border-radius: 5px;
+  padding: 40px 30px;
+  position: relative;
+  z-index: 1;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 8px 16px 0px rgba(146, 184, 255, 0.2);
+          box-shadow: 0px 8px 16px 0px rgba(146, 184, 255, 0.2);
+}
+
+.single-program-box .icon {
+  font-size: 60px;
+  line-height: 1;
+  color: #005d40;
+  margin-bottom: 20px;
+}
+
+.single-program-box h3 {
+  margin-bottom: 15px;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.single-program-box .link-btn {
+  display: inline-block;
+  color: rgba(17, 88, 165, 1);
+  margin-top: 5px;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.single-program-box .link-btn:hover {
+  color: #005d40;
+}
+
+.single-program-box .shape {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.health-coaching-shape5 {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  z-index: -1;
+  bottom: 4%;
+}
+
+.health-coaching-shape5 img {
+  -webkit-animation-name: rotateMe;
+          animation-name: rotateMe;
+  -webkit-animation-duration: 30s;
+          animation-duration: 30s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+          animation-timing-function: linear;
+}
+
+/*================================================
+Courses CSS
+=================================================*/
+.single-courses-box-item {
+  margin-bottom: 30px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 8px 16px 0px rgba(146, 184, 255, 0.2);
+          box-shadow: 0px 8px 16px 0px rgba(146, 184, 255, 0.2);
+}
+
+.single-courses-box-item .courses-image {
+  border-radius: 5px 5px 0 0;
+  position: relative;
+  z-index: 1;
+}
+
+.single-courses-box-item .courses-image .image {
+  border-radius: 5px 5px 0 0;
+}
+
+.single-courses-box-item .courses-image .image img {
+  border-radius: 5px 5px 0 0;
+}
+
+.single-courses-box-item .courses-image .fav {
+  display: inline-block;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  color: #ffffff;
+  font-size: 30px;
+  line-height: 1;
+}
+
+.single-courses-box-item .courses-image .fav:hover {
+  color: rgba(17, 88, 165, 1);
+}
+
+.single-courses-box-item .courses-image .price {
+  display: inline-block;
+  background-color: #005d40;
+  color: #ffffff;
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  position: absolute;
+  right: 20px;
+  bottom: -32.5px;
+  text-align: center;
+  line-height: 67px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.single-courses-box-item .courses-content {
+  border-radius: 0 0 5px 5px;
+  padding: 25px;
+}
+
+.single-courses-box-item .courses-content .course-author {
+  margin-bottom: 15px;
+}
+
+.single-courses-box-item .courses-content .course-author img {
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+}
+
+.single-courses-box-item .courses-content .course-author span {
+  color: rgba(17, 88, 165, 1);
+}
+
+.single-courses-box-item .courses-content h3 {
+  margin-bottom: 12px;
+  line-height: 1.4;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.single-courses-box-item .courses-content h3 a {
+  display: inline-block;
+}
+
+.courses-box {
+  margin-bottom: 30px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 8px 16px 0px rgba(146, 184, 255, 0.2);
+          box-shadow: 0px 8px 16px 0px rgba(146, 184, 255, 0.2);
+}
+
+.courses-box .courses-image {
+  border-radius: 5px 5px 0 0;
+  position: relative;
+  z-index: 1;
+}
+
+.courses-box .courses-image .image {
+  border-radius: 5px 5px 0 0;
+}
+
+.courses-box .courses-image .image img {
+  border-radius: 5px 5px 0 0;
+}
+
+.courses-box .courses-image .fav {
+  display: inline-block;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  color: #ffffff;
+  font-size: 30px;
+  line-height: 1;
+}
+
+.courses-box .courses-image .fav:hover {
+  color: rgba(17, 88, 165, 1);
+}
+
+.courses-box .courses-image .price {
+  display: inline-block;
+  background-color: rgba(17, 88, 165, 1);
+  color: #ffffff;
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  position: absolute;
+  right: 20px;
+  bottom: -32.5px;
+  border: 4px solid #f8e8e9;
+  text-align: center;
+  line-height: 60px;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.courses-box .courses-content {
+  border-radius: 0 0 5px 5px;
+  padding: 30px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.courses-box .courses-content .course-author {
+  margin-bottom: 15px;
+}
+
+.courses-box .courses-content .course-author img {
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+}
+
+.courses-box .courses-content .course-author span {
+  color: rgba(17, 88, 165, 1);
+}
+
+.courses-box .courses-content h3 {
+  margin-bottom: 12px;
+  line-height: 1.4;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.courses-box .courses-content h3 a {
+  display: inline-block;
+}
+
+.courses-box .courses-content .courses-box-footer {
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 0;
+  margin-left: -7px;
+  margin-right: -7px;
+  margin-top: 20px;
+}
+
+.courses-box .courses-content .courses-box-footer li {
+  color: #727695;
+  font-size: 15px;
+  position: relative;
+  padding-left: 26px;
+  padding-right: 7px;
+}
+
+.courses-box .courses-content .courses-box-footer li i {
+  color: rgba(17, 88, 165, 1);
+  position: absolute;
+  left: 7px;
+  top: 3px;
+  line-height: 1;
+}
+
+.courses-box .courses-content .courses-box-footer li i.flaticon-people {
+  font-size: 18px;
+  left: 3px;
+}
+
+.courses-box .courses-content::before {
+  content: '';
+  position: absolute;
+  left: -30px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  z-index: -1;
+  background-color: rgba(17, 88, 165, 1);
+}
+
+.courses-info {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.courses-info p {
+  max-width: 630px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.courses-info p a {
+  color: rgba(17, 88, 165, 1);
+  font-weight: 600;
+}
+
+.courses-info p a:hover {
+  text-decoration: underline;
+  color: #252525;
+}
+
+/*================================================
+Feedback CSS
+=================================================*/
+.feedback-area.bg-f8fafb {
+  background-color: #ffffff;
+}
+
+.feedback-area.bg-f8fafb::before {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 70%;
+  z-index: -1;
+  background-color: #f8fafb;
+}
+
+.feedback-area .container-fluid {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.feedback-content {
+  position: relative;
+  z-index: 1;
+}
+
+.feedback-content p {
+  font-size: 28px;
+  color: #252525;
+}
+
+.feedback-content .client-info {
+  margin-top: 30px;
+}
+
+.feedback-content .client-info img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.feedback-content .client-info .title {
+  margin-left: 15px;
+}
+
+.feedback-content .client-info .title h3 {
+  margin-bottom: 5px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.feedback-content .client-info .title span {
+  color: rgba(17, 88, 165, 1);
+  font-size: 14px;
+}
+
+.feedback-content::before {
+  content: "\f10e";
+  position: absolute;
+  right: 30px;
+  bottom: -23px;
+  line-height: 1;
+  z-index: -1;
+  color: #005d40;
+  opacity: .5;
+  font-family: Flaticon;
+  font-size: 150px;
+}
+
+/*================================================
+Events CSS
+=================================================*/
+.events-area {
+  position: relative;
+  z-index: 1;
+}
+
+.single-events-box-item {
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  background-color: #ffffff;
+  margin-bottom: 30px;
+  -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05);
+          box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05);
+}
+
+.single-events-box-item .image {
+  position: relative;
+  border-radius: 5px 5px 5px 0;
+}
+
+.single-events-box-item .image img {
+  border-radius: 5px 5px 5px 0;
+}
+
+.single-events-box-item .image .date {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  display: inline-block;
+  background-color: #005d40;
+  color: #ffffff;
+  padding: 9px 20px 7px;
+  border-radius: 0 5px 0 0;
+  font-weight: 500;
+}
+
+.single-events-box-item .content {
+  border-radius: 0 0 5px 5px;
+  padding: 20px;
+  position: relative;
+}
+
+.single-events-box-item .content h3 {
+  margin-bottom: 0;
+  line-height: 1.3;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.single-events-box-item .content h3 a {
+  display: inline-block;
+}
+
+.single-events-box-item .content .location {
+  display: block;
+  color: #727695;
+  margin-top: 13px;
+  position: relative;
+  padding-left: 22px;
+}
+
+.single-events-box-item .content .location i {
+  color: rgba(17, 88, 165, 1);
+  position: absolute;
+  left: 0;
+  top: 2px;
+  font-size: 18px;
+}
+
+.events-box {
+  margin-bottom: 30px;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+
+.events-box .image {
+  height: 100%;
+  border-radius: 5px;
+  position: relative;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.events-box .image.bg1 {
+  background-image: url(../img/business-coaching/events-img1.jpg);
+}
+
+.events-box .image.bg2 {
+  background-image: url(../img/business-coaching/events-img2.jpg);
+}
+
+.events-box .image.bg3 {
+  background-image: url(../img/business-coaching/events-img3.jpg);
+}
+
+.events-box .image.bg4 {
+  background-image: url(../img/business-coaching/events-img4.jpg);
+}
+
+.events-box .image img {
+  display: none;
+  border-radius: 5px;
+}
+
+.events-box .image .divider-shape {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  height: 100%;
+  width: 2vw;
+  max-width: 72px;
+  right: -1px;
+  pointer-events: none;
+  -webkit-mask-image: url("data:image/svg+xml;utf8,%3csvg viewBox='0 0 100 100' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'%3e%3cpath d='M0,0 C16.6666667,66 33.3333333,99 50,99 C66.6666667,99 83.3333333,66 100,0 L100,100 L0,100 L0,0 Z' fill='%23fff' fill-rule='evenodd' transform='translate(50.000000, 50.000000) rotate(-90.000000) translate(-50.000000, -50.000000)' /%3e%3c/svg%3e");
+          mask-image: url("data:image/svg+xml;utf8,%3csvg viewBox='0 0 100 100' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'%3e%3cpath d='M0,0 C16.6666667,66 33.3333333,99 50,99 C66.6666667,99 83.3333333,66 100,0 L100,100 L0,100 L0,0 Z' fill='%23fff' fill-rule='evenodd' transform='translate(50.000000, 50.000000) rotate(-90.000000) translate(-50.000000, -50.000000)' /%3e%3c/svg%3e");
+  -webkit-mask-size: 100% 101%;
+          mask-size: 100% 101%;
+  background-color: #ffffff;
+}
+
+.events-box .content {
+  padding: 30px;
+}
+
+.events-box .content .date {
+  margin-bottom: 20px;
+  display: inline-block;
+  position: relative;
+  border-radius: 5px;
+  padding: 6px 15px;
+  background-color: rgba(17, 88, 165, 1);
+}
+
+.events-box .content .date span {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.events-box .content h3 {
+  margin-bottom: 10px;
+  line-height: 1.3;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.events-box .content h3 a {
+  display: inline-block;
+}
+
+.events-box .content .location {
+  display: block;
+  color: #727695;
+  margin-top: 10px;
+  position: relative;
+  padding-left: 22px;
+  font-weight: 500;
+}
+
+.events-box .content .location i {
+  color: rgba(17, 88, 165, 1);
+  position: absolute;
+  left: 0;
+  top: 1px;
+  font-size: 18px;
+}
+
+.health-coaching-shape6 {
+  position: absolute;
+  right: 5%;
+  top: 8%;
+  z-index: -1;
+}
+
+.health-coaching-shape6 img {
+  -webkit-animation: movebounce 8s linear infinite;
+          animation: movebounce 8s linear infinite;
+}
+
+.health-coaching-shape7 {
+  position: absolute;
+  z-index: -1;
+  left: 20px;
+  bottom: 20px;
+}
+
+.health-coaching-shape7 img {
+  -webkit-animation: movebounce 8s linear infinite;
+          animation: movebounce 8s linear infinite;
+  max-width: 150px;
+}
+
+/*================================================
+Blog CSS
+=================================================*/
+.blog-area {
+  position: relative;
+  z-index: 1;
+  padding-top: 15%;
+  padding-bottom: 10%;
+}
+
+.blog-area.bg-image {
+  background-position: center center;
+  background-size: cover;
+  background-image: url(../img/health-coaching/bg-image2.jpg);
+  background-repeat: no-repeat;
+}
+
+.blog-area.bg-image .section-title h2 {
+  color: #ffffff;
+}
+
+.blog-area.bg-image .section-title p {
+  color: #ffffff;
+}
+
+.single-blog-post-box {
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.single-blog-post-box .post-image {
+  border-radius: 5px 5px 0 0;
+}
+
+.single-blog-post-box .post-image a {
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+}
+
+.single-blog-post-box .post-image a img {
+  border-radius: 5px 5px 0 0;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.single-blog-post-box .post-content {
+  background-color: #fffaf3;
+  padding: 25px;
+}
+
+.single-blog-post-box .post-content .category {
+  display: inline-block;
+  margin-bottom: 7px;
+  color: #727695;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.single-blog-post-box .post-content .category:hover {
+  color: rgba(17, 88, 165, 1);
+}
+
+.single-blog-post-box .post-content h3 {
+  margin-bottom: 12px;
+  line-height: 1.4;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.single-blog-post-box .post-content h3 a {
+  display: inline-block;
+}
+
+.single-blog-post-box .post-content .post-content-footer {
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 0;
+  margin-left: -7px;
+  margin-right: -7px;
+  margin-top: 20px;
+}
+
+.single-blog-post-box .post-content .post-content-footer li {
+  color: #727695;
+  font-size: 15px;
+  position: relative;
+  padding-left: 26px;
+  padding-right: 7px;
+}
+
+.single-blog-post-box .post-content .post-content-footer li .post-author img {
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+}
+
+.single-blog-post-box .post-content .post-content-footer li .post-author span {
+  color: rgba(17, 88, 165, 1);
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.single-blog-post-box .post-content .post-content-footer li i {
+  color: rgba(17, 88, 165, 1);
+  position: absolute;
+  left: 7px;
+  top: 3px;
+}
+
+.single-blog-post-box .post-content .post-content-footer li:first-child {
+  padding-left: 7px;
+}
+
+.single-blog-post-box.without-bg-color .post-content {
+  padding: 25px 0 0 0;
+  background-color: transparent;
+}
+
+.single-blog-post-box:hover .post-image a img {
+  -webkit-transform: rotate(5deg) scale(1.3);
+          transform: rotate(5deg) scale(1.3);
+}
+
+.blog-post-info {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.blog-post-info p {
+  max-width: 600px;
+  color: #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.blog-post-info p a {
+  font-weight: 600;
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+/*================================================
+Subscribe CSS
+=================================================*/
+.subscribe-area {
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}
+
+.subscribe-content {
+  text-align: center;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.subscribe-content .sub-title {
+  text-transform: uppercase;
+  display: block;
+  color: rgba(17, 88, 165, 1);
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+
+.subscribe-content h2 {
+  max-width: 615px;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 37px;
+  font-weight: 700;
+}
+
+.subscribe-content p {
+  max-width: 615px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 12px;
+}
+
+.subscribe-content .newsletter-form {
+  position: relative;
+  max-width: 650px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.subscribe-content .newsletter-form .input-newsletter {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #ebebeb;
+  color: #252525;
+  height: 50px;
+  border-radius: 5px;
+  padding-left: 18px;
+  padding-top: 2px;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.subscribe-content .newsletter-form .input-newsletter::-webkit-input-placeholder {
+  color: #999999;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.subscribe-content .newsletter-form .input-newsletter:-ms-input-placeholder {
+  color: #999999;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.subscribe-content .newsletter-form .input-newsletter::-ms-input-placeholder {
+  color: #999999;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.subscribe-content .newsletter-form .input-newsletter::placeholder {
+  color: #999999;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.subscribe-content .newsletter-form .input-newsletter:focus::-webkit-input-placeholder {
+  color: transparent;
+}
+
+.subscribe-content .newsletter-form .input-newsletter:focus:-ms-input-placeholder {
+  color: transparent;
+}
+
+.subscribe-content .newsletter-form .input-newsletter:focus::-ms-input-placeholder {
+  color: transparent;
+}
+
+.subscribe-content .newsletter-form .input-newsletter:focus::placeholder {
+  color: transparent;
+}
+
+.subscribe-content .newsletter-form .validation-danger {
+  color: red;
+  margin-top: 15px;
+}
+
+.subscribe-content .newsletter-form .validation-success {
+  margin-top: 15px;
+}
+
+.subscribe-content .newsletter-form .default-btn {
+  position: absolute;
+  right: 0;
+  top: 0;
+  border-radius: 0 5px 5px 0;
+  height: 50px;
+}
+
+.health-coaching-shape8 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.health-coaching-shape8 img {
+  max-width: 325px;
+}
+
+.health-coaching-shape9 {
+  position: absolute;
+  right: 7%;
+  top: 30%;
+  z-index: -1;
+}
+
+.health-coaching-shape9 img {
+  -webkit-animation: movebounce 8s linear infinite;
+          animation: movebounce 8s linear infinite;
+  max-width: 200px;
+}
+
+/*================================================
+Premium Access CSS
+=================================================*/
+.premium-access-area {
+  position: relative;
+  z-index: 1;
+}
+
+.premium-access-content {
+  text-align: center;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.premium-access-content .sub-title {
+  text-transform: uppercase;
+  display: block;
+  color: rgba(17, 88, 165, 1);
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.premium-access-content h2 {
+  max-width: 615px;
+  font-size: 37px;
+  font-weight: 700;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.premium-access-content p {
+  max-width: 615px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 12px;
+}
+
+.premium-access-content .default-btn {
+  margin-top: 10px;
+}
+
+/*================================================
+Distance Learning CSS
+=================================================*/
+.distance-learning-area {
+  position: relative;
+  z-index: 1;
+}
+
+.distance-learning-image {
+  text-align: center;
+}
+
+.distance-learning-content {
+  padding-left: 15px;
+  margin-top: 20px;
+}
+
+.distance-learning-content .sub-title {
+  display: block;
+  text-transform: uppercase;
+  color: rgba(17, 88, 165, 1);
+  margin-bottom: 12px;
+  font-weight: 500;
+}
+
+.distance-learning-content h2 {
+  margin-bottom: 20px;
+  font-size: 37px;
+  font-weight: 700;
+}
+
+.distance-learning-content .features-list {
+  padding-left: 0;
+  list-style-type: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin-bottom: 0;
+  margin-top: 0px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.distance-learning-content .features-list li {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 50%;
+          flex: 0 0 50%;
+  max-width: 50%;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 16px;
+}
+
+.distance-learning-content .features-list li span {
+  display: block;
+  position: relative;
+  color: #252525;
+  font-size: 16px;
+  font-weight: 700;
+  padding-left: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.distance-learning-content .features-list li span i {
+  position: absolute;
+  left: 0;
+  top: -2px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  text-align: center;
+  font-weight: 500;
+  line-height: 40px;
+  color: rgba(17, 88, 165, 1);
+  font-size: 25px;
+  background-image: url(../img/circle-border.png);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.distance-learning-content .default-btn {
+  margin-top: 35px;
+}
+
+.business-shape4 {
+  position: absolute;
+  right: 50px;
+  bottom: 50px;
+  z-index: -1;
+}
+
+.business-shape4 img {
+  -webkit-animation: movebounce 8s linear infinite;
+          animation: movebounce 8s linear infinite;
+}
+
+.business-shape5 {
+  position: absolute;
+  left: 50px;
+  bottom: 50px;
+  z-index: -1;
+}
+
+.business-shape5 img {
+  -webkit-animation: movebounce 8s linear infinite;
+          animation: movebounce 8s linear infinite;
+}
+
+.business-shape7 {
+  position: absolute;
+  right: 50px;
+  bottom: 50px;
+  z-index: -1;
+}
+
+.business-shape7 img {
+  -webkit-animation: movebounce 8s linear infinite;
+          animation: movebounce 8s linear infinite;
+}
+
+.business-shape8 {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  z-index: -1;
+}
+
+.business-shape8 img {
+  -webkit-animation: movebounce2 8s linear infinite;
+          animation: movebounce2 8s linear infinite;
+  max-width: 150px;
+}
+
+.business-shape9 {
+  position: absolute;
+  z-index: -1;
+  left: 15%;
+  top: 35%;
+}
+
+.business-shape9 img {
+  -webkit-animation: movebounce 8s linear infinite;
+          animation: movebounce 8s linear infinite;
+}
+
+.business-shape10 {
+  position: absolute;
+  right: 15%;
+  top: 25%;
+  z-index: -1;
+}
+
+.business-shape10 img {
+  -webkit-animation-name: rotateMe;
+          animation-name: rotateMe;
+  -webkit-animation-duration: 40s;
+          animation-duration: 40s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+          animation-timing-function: linear;
+}
+
+/*================================================
+FAQ CSS
+=================================================*/
+.faq-area {
+  position: relative;
+  z-index: 1;
+}
+
+.faq-video {
+  position: relative;
+  z-index: 1;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.faq-video img {
+  border-radius: 5px;
+}
+
+.faq-video .video-btn {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  font-size: 60px;
+  text-align: center;
+  line-height: 90px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  -webkit-transform: translateY(-50%) translateX(-50%);
+          transform: translateY(-50%) translateX(-50%);
+  background-color: rgba(17, 88, 165, 1);
+  border-radius: 50%;
+  color: #ffffff;
+}
+
+.faq-video .video-btn::after, .faq-video .video-btn::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -1;
+  bottom: 0;
+  left: 0;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  border-radius: 50%;
+  border: 1px solid #ffffff;
+}
+
+.faq-video .video-btn::before {
+  -webkit-animation: ripple 2s linear infinite;
+          animation: ripple 2s linear infinite;
+}
+
+.faq-video .video-btn::after {
+  -webkit-animation: ripple 2s linear 1s infinite;
+          animation: ripple 2s linear 1s infinite;
+}
+
+.faq-video .video-btn:hover {
+  color: rgba(17, 88, 165, 1);
+  background-color: #ffffff;
+}
+
+.faq-video .video-btn:hover::before, .faq-video .video-btn:hover::after {
+  border-color: rgba(17, 88, 165, 1);
+}
+
+.faq-accordion-style-two.faq-accordion .accordion .accordion-item {
+  -webkit-box-shadow: unset !important;
+          box-shadow: unset !important;
+}
+
+.faq-accordion-style-two.faq-accordion .accordion .accordion-title {
+  padding: 16px 15px 14px 45px;
+}
+
+.faq-accordion-style-two.faq-accordion .accordion .accordion-title i {
+  left: 13px;
+  top: 14px;
+  font-size: 25px;
+}
+
+.faq-accordion-style-two.faq-accordion .accordion .accordion-content {
+  padding-bottom: 18px;
+  padding-right: 15px;
+  padding-left: 45px;
+}
+
+/*================================================
+Funfacts CSS
+=================================================*/
+.funfacts-list .single-funfacts-box {
+  margin-bottom: 0;
+}
+
+.funfacts-list .row .col-lg-6:nth-child(1) .single-funfacts-box {
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.funfacts-list .row .col-lg-6:nth-child(4) .single-funfacts-box {
+  margin-top: -60px;
+}
+
+.single-funfacts-box {
+  text-align: center;
+  border: 5px solid #fbf1f2;
+  border-radius: 85px;
+  margin-bottom: 30px;
+  background-image: url(../img/business-coaching/funfacts-bg.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 90px;
+  padding-bottom: 90px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.single-funfacts-box h3 {
+  margin-bottom: 0;
+  color: rgba(17, 88, 165, 1);
+  font-size: 44px;
+  font-weight: 800;
+}
+
+.single-funfacts-box h3 span {
+  font-size: 48px;
+}
+
+.single-funfacts-box h3 .odometer {
+  position: relative;
+  top: -2px;
+}
+
+.single-funfacts-box p {
+  text-transform: uppercase;
+  color: #252525;
+  line-height: 1;
+  margin-top: 10px;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.funfacts-and-feedback-area {
+  position: relative;
+  z-index: 1;
+}
+
+/*================================================
+Feedback Area CSS
+=================================================*/
+.feedback-slides-content .sub-title {
+  display: block;
+  text-transform: uppercase;
+  color: rgba(17, 88, 165, 1);
+  margin-bottom: 10px;
+}
+
+.feedback-slides-content h2 {
+  margin-bottom: 0;
+  font-size: 37px;
+  font-weight: 700;
+}
+
+.feedback-slides-content p {
+  margin-top: 15px;
+}
+
+.feedback-slides-content .feedback-info p {
+  margin-bottom: 0;
+}
+
+.feedback-slides-content .feedback-info p a {
+  color: rgba(17, 88, 165, 1);
+  font-weight: 600;
+}
+
+.feedback-slides-content .feedback-info p a:hover {
+  text-decoration: underline;
+  color: #0eb582;
+}
+
+.feedback-slides-content .feedback-slides-two {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.single-feedback-slides-item {
+  background-color: #ffffff;
+  position: relative;
+  z-index: 1;
+  padding: 50px 70px 50px 50px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.single-feedback-slides-item p {
+  color: #606060;
+  line-height: 1.8;
+  font-size: 15px;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.single-feedback-slides-item .client-info {
+  margin-top: 25px;
+}
+
+.single-feedback-slides-item .client-info img {
+  width: 55px;
+  height: 55px;
+}
+
+.single-feedback-slides-item .client-info .title {
+  margin-left: 15px;
+}
+
+.single-feedback-slides-item .client-info .title h3 {
+  margin-bottom: 0;
+  color: rgba(17, 88, 165, 1);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.single-feedback-slides-item .client-info .title span {
+  display: block;
+  color: #727695;
+  font-size: 14px;
+  margin-top: 4px;
+}
+
+.single-feedback-slides-item::after {
+  width: 75px;
+  height: 75px;
+  content: '';
+  border-radius: 50%;
+  background-color: rgba(17, 88, 165, 1);
+  position: absolute;
+  left: -25px;
+  top: -25px;
+  z-index: -1;
+}
+
+.single-feedback-slides-item::before {
+  content: "\f10e";
+  font-family: Flaticon;
+  font-size: 100px;
+  position: absolute;
+  right: 50px;
+  color: #e8e8e8;
+  z-index: -1;
+  bottom: 25px;
+  line-height: 1;
+}
+
+.feedback-slides-two.owl-theme .owl-nav.disabled + .owl-dots {
+  margin-top: 0;
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.feedback-slides-two.owl-theme .owl-dots .owl-dot {
+  display: block;
+}
+
+.feedback-slides-two.owl-theme .owl-dots .owl-dot span {
+  margin: 3px 0;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: transparent !important;
+  border: 1px solid #a8a8a8;
+  position: relative;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.feedback-slides-two.owl-theme .owl-dots .owl-dot span::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: transparent;
+  border-radius: 50%;
+  margin: 2px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.feedback-slides-two.owl-theme .owl-dots .owl-dot:hover span, .feedback-slides-two.owl-theme .owl-dots .owl-dot.active span {
+  border-color: rgba(17, 88, 165, 1);
+}
+
+.feedback-slides-two.owl-theme .owl-dots .owl-dot:hover span::before, .feedback-slides-two.owl-theme .owl-dots .owl-dot.active span::before {
+  background-color: rgba(17, 88, 165, 1);
+}
+
+.business-shape6 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.business-shape6 img {
+  -webkit-animation: movebounce 8s linear infinite;
+          animation: movebounce 8s linear infinite;
+}
+
+/*================================================
+Language Banner Area CSS
+=================================================*/
+.language-banner-area {
+  position: relative;
+  z-index: 1;
+  padding-top: 20px;
+  background-color: #f8e8e9;
+  background-image: url(../img/banner-bg.jpg);
+  background-position: bottom left;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.language-banner-area .container-fluid {
+  max-width: 1275px;
+}
+
+.language-banner-content {
+  padding-right: 10px;
+}
+
+.language-banner-content h1 {
+  margin-bottom: 15px;
+  font-size: 55px;
+  font-weight: 700;
+}
+
+.language-banner-content p {
+  color: #252525;
+  font-weight: 600;
+}
+
+.language-banner-content .default-btn {
+  margin-top: 10px;
+}
+
+.language-banner-image {
+  text-align: center;
+  position: relative;
+  top: 15px;
+}
+
+.lang-shape1 {
+  position: absolute;
+  left: 0;
+  top: 16%;
+  z-index: -1;
+}
+
+.lang-shape1 img {
+  max-width: 100px;
+  -webkit-animation: movebounce2 8s linear infinite;
+          animation: movebounce2 8s linear infinite;
+}
+
+.lang-shape2 {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  z-index: -1;
+}
+
+.lang-shape2 img {
+  -webkit-animation: movebounce2 8s linear infinite;
+          animation: movebounce2 8s linear infinite;
+  max-width: 170px;
+}
+
+.lang-shape3 {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  z-index: -1;
+}
+
+.lang-shape3 img {
+  -webkit-animation: movebounce2 8s linear infinite;
+          animation: movebounce2 8s linear infinite;
+  max-width: 250px;
+}
+
+.lang-shape4 {
+  position: absolute;
+  right: 5%;
+  top: 30%;
+  z-index: -1;
+}
+
+.lang-shape4 img {
+  -webkit-animation: movebounce3 8s linear infinite;
+          animation: movebounce3 8s linear infinite;
+}
+
+.lang-shape5 {
+  position: absolute;
+  left: 1%;
+  bottom: 0;
+  z-index: -1;
+}
+
+.lang-shape5 img {
+  -webkit-animation: movebounce3 8s linear infinite;
+          animation: movebounce3 8s linear infinite;
+  max-width: 350px;
+}
+
+/*================================================
+Courses Area CSS
+=================================================*/
+.single-language-courses-box {
+  margin-bottom: 30px;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+.single-language-courses-box a img {
+  border-radius: 5px 5px 0 0;
+}
+
+.single-language-courses-box .content {
+  padding: 30px;
+}
+
+.single-language-courses-box .content h3 {
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.single-language-courses-box .content .link-btn {
+  display: inline-block;
+  color: rgba(17, 88, 165, 1);
+  font-weight: 600;
+}
+
+.single-language-courses-box .content .link-btn:hover {
+  color: #0eb582;
+}
+
+/*================================================
+Why Choose Us Area CSS
+=================================================*/
+.why-choose-us-area {
+  position: relative;
+  z-index: 1;
+}
+
+.why-choose-us-area .container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.why-choose-us-area .container-fluid .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.why-choose-us-area .container-fluid .row .col-lg-6 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.why-choose-us-image {
+  height: 100%;
+  background-image: url(../img/why-choose-us.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.why-choose-us-image img {
+  display: none;
+}
+
+.why-choose-us-content {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  padding-left: 100px;
+  padding-right: 30px;
+}
+
+.why-choose-us-content .content {
+  max-width: 455px;
+}
+
+.why-choose-us-content .content .sub-title {
+  display: block;
+  text-transform: uppercase;
+  color: rgba(17, 88, 165, 1);
+  margin-bottom: 12px;
+  font-weight: 500;
+}
+
+.why-choose-us-content .content h2 {
+  margin-bottom: 20px;
+  font-size: 37px;
+  font-weight: 700;
+}
+
+.why-choose-us-content .content .features-list {
+  padding-left: 0;
+  list-style-type: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin-bottom: 0;
+  margin-top: 0px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.why-choose-us-content .content .features-list li {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 50%;
+          flex: 0 0 50%;
+  max-width: 50%;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 16px;
+}
+
+.why-choose-us-content .content .features-list li span {
+  display: block;
+  position: relative;
+  color: #252525;
+  font-size: 16px;
+  font-weight: 700;
+  padding-left: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.why-choose-us-content .content .features-list li span i {
+  position: absolute;
+  left: 0;
+  top: -2px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  text-align: center;
+  font-weight: 500;
+  line-height: 40px;
+  color: rgba(17, 88, 165, 1);
+  font-size: 25px;
+  background-image: url(../img/circle-border.png);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.why-choose-us-content .content .default-btn {
+  margin-top: 35px;
+}
+
+.why-choose-us-area-two {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/bg-shape.jpg);
+}
+
+.why-choose-us-img {
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+  margin-right: 15px;
+  z-index: 1;
+}
+
+.why-choose-us-img .shape {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  z-index: -1;
+}
+
+.why-choose-us-img .shape img {
+  -webkit-animation-name: rotateMe;
+          animation-name: rotateMe;
+  -webkit-animation-duration: 40s;
+          animation-duration: 40s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+          animation-timing-function: linear;
+}
+
+.why-choose-us-text {
+  padding-left: 15px;
+}
+
+.why-choose-us-text .sub-title {
+  display: block;
+  text-transform: uppercase;
+  color: rgba(17, 88, 165, 1);
+  margin-bottom: 12px;
+  font-weight: 500;
+}
+
+.why-choose-us-text h2 {
+  margin-bottom: 20px;
+  font-size: 37px;
+  font-weight: 700;
+}
+
+.why-choose-us-text .features-list {
+  padding-left: 0;
+  list-style-type: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin-bottom: 0;
+  margin-top: 0px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.why-choose-us-text .features-list li {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 50%;
+          flex: 0 0 50%;
+  max-width: 50%;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 16px;
+}
+
+.why-choose-us-text .features-list li span {
+  display: block;
+  position: relative;
+  color: #d4d4d4;
+  font-size: 16px;
+  font-weight: 700;
+  padding-left: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.why-choose-us-text .features-list li span i {
+  position: absolute;
+  left: 0;
+  top: -2px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  text-align: center;
+  font-weight: 500;
+  line-height: 40px;
+  color: rgba(17, 88, 165, 1);
+  font-size: 25px;
+  background-image: url(../img/circle-border.png);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.why-choose-us-text .default-btn {
+  margin-top: 35px;
+}
+>>>>>>> Stashed changes
 
 /*================================================
 Information Area CSS
@@ -5825,6 +7628,7 @@ Information Area CSS
 
 .information-content {
   padding-left: 15px;
+  padding-bottom: 20%;
 }
 
 .information-content .sub-title {
