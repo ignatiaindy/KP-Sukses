@@ -431,7 +431,7 @@
                 </div>
                 
         </section>
-        
+   <!-- apap -->     
         <!-- End Courses Details Area -->
 
         <!-- Start Footer Area -->
