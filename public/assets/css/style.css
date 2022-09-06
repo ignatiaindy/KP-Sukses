@@ -6085,7 +6085,7 @@ Footer CSS
 .footer-area {
   background-color: rgba(17, 88, 165, 1);
   padding-top: 100px;
-  margin-top: -100px;
+  /* margin-top: -100px; */
 }
 
 .single-footer-widget h3 {
@@ -7296,7 +7296,7 @@ Blog CSS
   position: relative;
   z-index: 1;
   padding-top: 15%;
-  padding-bottom: 10%;
+  padding-bottom: 5%;
 }
 
 .blog-area.bg-image {

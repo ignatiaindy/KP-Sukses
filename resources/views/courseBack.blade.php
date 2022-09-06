@@ -35,9 +35,8 @@
             </div>
         </div>
         <!-- End Preloader -->
-
-        <!-- Start Header Area -->
-        <header class="header-area p-relative">
+ <!-- Start Header Area -->
+ <header class="header-area p-relative">
             
             
 
@@ -74,7 +73,7 @@
                                             <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
+                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
                                     
                                 </div>
                             </div>
@@ -95,16 +94,16 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="#" class="nav-link">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link active">Home <i class=''></i></a>
                                     </li>
                                     <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
-                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="blog-style-2.html" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
+                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
                                     
                                 </div>
                             </div>

@@ -4,7 +4,7 @@
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+<!-- apap -->
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/css/boxicons.min.css">
         <link rel="stylesheet" href="assets/css/flaticon.css">
@@ -18,7 +18,6 @@
         <link rel="stylesheet" href="assets/css/slick.min.css">
         <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
         <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/dark.css">
         <link rel="stylesheet" href="assets/css/responsive.css">
 
         <title>Backend - Sinergi Peta Sejahtera</title>
@@ -36,9 +35,8 @@
             </div>
         </div>
         <!-- End Preloader -->
-
-        <!-- Start Header Area -->
-        <header class="header-area p-relative">
+ <!-- Start Header Area -->
+ <header class="header-area p-relative">
             
             
 
@@ -96,13 +94,13 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="#" class="nav-link">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link active">Home <i class=''></i></a>
                                     </li>
                                     <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
-                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="blog-style-2.html" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
