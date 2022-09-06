@@ -157,6 +157,7 @@ img {
   transition: 0.5s;
   font-weight: 500;
   font-size: 15px;
+  margin-bottom: 30px;
 }
 .default-btn2 {
   -webkit-transition: 0.5s;
