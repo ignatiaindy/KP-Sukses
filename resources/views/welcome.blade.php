@@ -70,7 +70,7 @@
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
-                                            <li class="nav-item"><a href="blog-style-2.html" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
@@ -116,25 +116,25 @@
         </header>
         <!-- End Header Area -->
 
-        <!-- Start Ino Banner -->
-        <div class="ino-banner bg-white">
+         <!-- Start Main Banner -->
+         <div class="hero-banner bg-white">
             <div class="d-table">
                 <div class="d-table-cell">
                     <div class="container-fluid">
                         <div class="row align-items-center">
                             <div class="col-lg-6 col-md-12">
-                                <div class="ino-banner-content black-color">
+                                <div class="hero-banner-content black-color">
                                     <span class="sub-title">We Challenge Young Minds</span>
                                     <h1>Learn From The Best and Be The Best</h1>
                                     <p>INOSOFT BOOTCAMP, Bootcamp bidang IT No.1 di Indonesia</p>
                                     <div class="btn-box">
-                                        <a href="" class="default-btn"><i class='bx bx-move-horizontal icon-arrow before'></i><span class="label">Daftar</span><i class="bx bx-move-horizontal icon-arrow after"></i></a>
+                                        <a href="courses-2-columns-style-1.html" class="default-btn2">Daftar</a>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-lg-6 col-md-12">
-                                <div class="ino-banner-image text-center">
+                                <div class="hero-banner-image text-center">
                                     <img src="assets/img/banner1.jpg" alt="image">
                                 </div>
                             </div>
@@ -143,7 +143,7 @@
                 </div>
             </div>
         </div>
-        <!-- End Ino Banner -->
+        <!-- End Main Banner -->
 
         <!-- Start about Area -->
         <section class="about-area ptb-100">
@@ -166,7 +166,7 @@
                                 <h5><i class='bx bx-planet'></i>It's not enough to be better, strive to be the best</h5>
                             </div>
 
-                            <a href="https://www.youtube.com/watch?v=3sP7eff9YCk" class="default-btn"><i class='bx bx-move-horizontal icon-arrow before'></i><span class="label">Tonton Video</span><i class="bx bx-move-horizontal icon-arrow after"></i></a>
+                            <a href="https://www.youtube.com/watch?v=3sP7eff9YCk" class="default-btn"><i class='bx bx-play-circle icon-arrow before'></i><span class="label">Tonton Video</span><i class="bx bx-play-circle icon-arrow after"></i></a>
                         </div>
                     </div>
                 </div>
@@ -300,13 +300,12 @@
                 </div>
             </div>
         </div>
-        
         <!-- Start Information Area -->
-        <section class="information-area ptb-70">
+        <section class="information-area ptb-60">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
-                        <div class="information-image text-center">
+                        <div   class="information-image text-center">
                             <img src="assets/img/information-img.png" alt="image">
                         </div>
                     </div>
@@ -357,7 +356,7 @@
                         <div class="bootcamp-content bg-color">
                             <h2>Frontend Developer</h2>
                             <p>Frontend merupakan salah satu bagian dari website yang menampilkan tampilan pada para pengguna</p>
-                            <a href="login.html" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
+                            <a href="Frontend" class="default-btn"><i class='bx bx-skip-next icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-skip-next icon-arrow after"></i></a>
                         </div>
                     </div>
 
@@ -377,7 +376,7 @@
                         <div class="bootcamp-content">
                             <h2>Backend Developer</h2>
                             <p>Backend merupakan bagian dari aplikasi yang bertanggung jawab untuk menyediakan kebutuhan yang tidak terlihat oleh pengguna</p>
-                            <a href="Backend" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
+                            <a href="Backend" class="default-btn"><i class='bx bx-skip-next icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-skip-next icon-arrow after"></i></a>
                         </div>
                     </div>
                 </div>
