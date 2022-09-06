@@ -189,7 +189,39 @@ img {
   font-weight: 700;
   margin-bottom: 15px;
 }
+.default-btn2 {
+  -webkit-transition: 0.5s;
+ transition: 0.5s;
+ display: inline-block;
+ padding: 13px 25px 12px 25px;
+ position: relative;
+ background-color: rgba(16, 86, 162, 1);
+ color: #ffffff;
+ border-width: 2px;
+ border-style: solid;
+ border-color: rgba(16, 86, 162, 1);
+ border-radius: 1px;
+ font-size: 14.5px;
+ font-weight: 700;
+<<<<<<< HEAD
+}
 
+.default-btn3{
+  display: inline-block;
+  padding: 3px 25px 3px 25px;
+  position: relative;
+  background-color: rgba(255, 213, 33, 1);
+  color: rgba(16, 86, 162, 1);
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgba(255, 213, 33, 1);
+  border-radius: 50px;
+  font-size: 12px;
+  font-weight: 700;
+  margin-bottom: 15px;
+=======
+>>>>>>> 1363632bb2fca79711b1c6e5a8edda208b0b14e8
+}
 .default-btn .label, .default-btn .icon-arrow {
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
@@ -517,8 +549,13 @@ Header CSS
   font-weight: 500;
   padding-left: 0;
   padding-right: 0;
+<<<<<<< HEAD
   padding-top: 37px;
   padding-bottom: 13px;
+=======
+  padding-top: 50px;
+  padding-bottom: 30px;
+>>>>>>> 1363632bb2fca79711b1c6e5a8edda208b0b14e8
   margin-left: 13px;
   margin-right: 13px;
 }
@@ -5914,6 +5951,7 @@ Widget Sidebar CSS
   color: rgba(17, 88, 165, 1);
 }
 /*================================================
+<<<<<<< HEAD
 Privacy and Terms CSS
 =================================================*/
 .axil-privacy-area .section-title .title {
@@ -5924,6 +5962,8 @@ Privacy and Terms CSS
 }
 
 /*================================================
+=======
+>>>>>>> 1363632bb2fca79711b1c6e5a8edda208b0b14e8
 Contact CSS
 =================================================*/
 .contact-area {
@@ -7334,7 +7374,11 @@ Blog CSS
 .blog-area {
   position: relative;
   z-index: 1;
+<<<<<<< HEAD
   padding-top: 10%;
+=======
+  padding-top: 15%;
+>>>>>>> 1363632bb2fca79711b1c6e5a8edda208b0b14e8
   padding-bottom: 5%;
 }
 
