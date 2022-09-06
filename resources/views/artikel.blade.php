@@ -28,15 +28,14 @@
     <body>
 
         <!-- Preloader -->
-        <div class="preloader">
-            <div class="loader">
-                <div class="shadow"></div>
-                <div class="box"></div>
-            </div>
-        </div>
+        <div id="back__preloader">
+            <div id="back__circle_loader"></div>
+            <div class="back__loader_logo"><img src="assets/img/preload.png" alt="Preload"></div>
+        </div>  
         <!-- End Preloader -->
- <!-- Start Header Area -->
- <header class="header-area p-relative">
+
+        <!-- Start Header Area -->
+        <header class="header-area p-relative">
             
             
 

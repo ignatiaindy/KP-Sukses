@@ -394,11 +394,7 @@
         </section>
 
         <!-- Start Testimonials Area -->
-<<<<<<< HEAD
         <section class="testimonials-area pt-30">
-=======
-        <section class="testimonials-area pt-70">
->>>>>>> 1363632bb2fca79711b1c6e5a8edda208b0b14e8
             <div class="container">
                 <div class="section-title">
                     <span class="sub-title">Testimonials</span>
