@@ -61,7 +61,6 @@
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
                             <a class="navbar-brand" href="/">
-                                <img src="assets/img/logo1.png" class="logo1" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
 
@@ -76,7 +75,7 @@
                                             <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
+                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
                                     
                                 </div>
                             </div>
@@ -92,7 +91,6 @@
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
                             <a class="navbar-brand" href="/">
-                                <img src="assets/img/logo1.png" class="black-logo" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
 
@@ -107,7 +105,7 @@
                                             <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
+                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
                                     
                                 </div>
                             </div>
@@ -120,29 +118,6 @@
         </header>
         <!-- End Header Area -->
 
-        <!-- Search Box Layout -->
-        <div class="search-overlay">
-            <div class="d-table">
-                <div class="d-table-cell">
-                    <div class="search-overlay-layer"></div>
-                    <div class="search-overlay-layer"></div>
-                    <div class="search-overlay-layer"></div>
-                    
-                    <div class="search-overlay-close">
-                        <span class="search-overlay-close-line"></span>
-                        <span class="search-overlay-close-line"></span>
-                    </div>
-
-                    <div class="search-overlay-form">
-                        <form>
-                            <input type="text" class="input-search" placeholder="Search here...">
-                            <button type="submit"><i class='bx bx-search-alt'></i></button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Search Box Layout -->
 
         <!-- Start Page Title Area -->
         <div class="page-title-area item-bg3 jarallax" data-jarallax='{"speed": 0.3}'>
@@ -191,11 +166,14 @@
                             <div class="tab products-details-tab">
                             <div class="row">
                                 <div class="col-lg-12 col-md-5">
-                                    <ul class="tabs">
+                                <ul class="tabs">
                                         <li><a href="#">
                                             <div class="dot"></div> Description
                                         </a></li>
-                                    
+                                        
+                                        <li><a href="#">
+                                            <div class="dot"></div> Curiculum
+                                        </a></li>
 
                                         <li><a href="#">
                                             <div class="dot"></div> Reviews
@@ -245,6 +223,112 @@
                         </div>
                                         </div>
 
+
+                                        <div class="tabs-item">
+                                            <div class="products-details-tab-content">
+                                                <div class="product-review-form">
+
+                                                    <div class="review-title">
+                                                        
+                                                        
+                                                    </div>
+
+                   
+                        <div class="courses-sidebar-syllabus">
+                            <span class="chapter">1 WEEK</span>
+                            <h4>Intro</h4>
+
+                            <div class="courses-list">
+                                <ul>
+                                    <li>
+                                        <span class="number">1.</span> Pengenalan Command Line 
+                                    </li>
+                                    <li>
+                                        <span class="number">2.</span> Pengenalan GIT Repository
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <span class="chapter">3 WEEKS</span>
+                            <h4>Fundamental Frontend</h4>
+
+                            <div class="courses-list">
+                                <ul>
+                                    <li>
+                                        <span class="number">1.</span> Pengenalan HTML 
+                                    </li>
+                                    <li>
+                                        <span class="number">2.</span> Pengenalan CSS
+                                    </li>
+                                    <li>
+                                        <span class="number">3.</span> Pengenalan Boostrap
+                                    </li>
+                                    <li>
+                                        <span class="number">4.</span> Pengenalan Javascript
+                                    </li>
+                                    <li>
+                                        <span class="number">5.</span> DOM ( Data Object Manipulation )
+                                    </li>
+                                    <li>
+                                        PROJECT ASSIGNMENT 1
+                                    </li>
+                                </ul>
+                            </div>
+                            <span class="chapter">4 WEEKS</span>
+                            <h4>Intermediate Frontend</h4>
+
+                            <div class="courses-list">
+                                <ul>
+                                    <li>
+                                        <span class="number">1.</span> Pengenalan Atomic Design
+                                    </li>
+                                    <li>
+                                        <span class="number">2.</span> Pengenalan Vue.js
+                                    </li>
+                                    <li>
+                                        <span class="number">3.</span> ToDo Apps Part 1
+                                    </li>
+                                    <li>
+                                        <span class="number">4.</span> Pengenalan Vue.js Component
+                                    </li>
+                                    <li>
+                                        <span class="number">5.</span> ToDo Apps Part 2
+                                    </li>
+                                    <li>
+                                        PROJECT ASSIGNMENT 2
+                                    </li>
+                                </ul>
+                                
+                            </div>
+                            <span class="chapter">4 WEEKS</span>
+                            <h4>Advance  Frontend</h4>
+
+                            <div class="courses-list">
+                                <ul>
+                                    <li>
+                                        <span class="number">1.</span> Penggunaan Vue Router untuk Single Page Application 
+                                    </li>
+                                    <li>
+                                        <span class="number">2.</span> Penggunaan Store ( Vuex ) untuk State Manager
+                                    </li>
+                                    <li>
+                                        <span class="number">3.</span> Komunikasi dengan Backend menggunakan Axios ( Mocking Controller )
+                                    </li>
+                                    <li>
+                                        PROJECT ASSIGNMENT 3
+                                    </li>
+                                </ul>
+                                
+                            </div>
+                            <span class="chapter">4 WEEKS</span>
+                            <h4>Final Project</h4>
+                            
+                        </div> 
+
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
 
                                         <div class="tabs-item">
                                             <div class="products-details-tab-content">

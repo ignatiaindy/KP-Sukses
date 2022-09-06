@@ -59,7 +59,6 @@
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
                             <a class="navbar-brand" href="/">
-                                <img src="assets/img/logo1.png" class="logo1" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
 
@@ -90,7 +89,6 @@
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
                             <a class="navbar-brand" href="/">
-                                <img src="assets/img/logo1.png" class="black-logo" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
 
@@ -117,30 +115,6 @@
             
         </header>
         <!-- End Header Area -->
-
-        <!-- Search Box Layout -->
-        <div class="search-overlay">
-            <div class="d-table">
-                <div class="d-table-cell">
-                    <div class="search-overlay-layer"></div>
-                    <div class="search-overlay-layer"></div>
-                    <div class="search-overlay-layer"></div>
-                    
-                    <div class="search-overlay-close">
-                        <span class="search-overlay-close-line"></span>
-                        <span class="search-overlay-close-line"></span>
-                    </div>
-
-                    <div class="search-overlay-form">
-                        <form>
-                            <input type="text" class="input-search" placeholder="Search here...">
-                            <button type="submit"><i class='bx bx-search-alt'></i></button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Search Box Layout -->
 
         <!-- Start Page Title Area -->
         <div class="page-title-area item-bg3 jarallax" data-jarallax='{"speed": 0.3}'>
