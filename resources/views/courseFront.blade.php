@@ -135,7 +135,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-8">
                         <div class="courses-title">
-                                <h2>Backend Developer</h2>
+                                <h2>Frontend Developer</h2>
                             </div>
                             <div class="courses-meta">
                                 <ul>
@@ -179,7 +179,7 @@
                                     <div class="tab-content">
                                         <div class="tabs-item">
                                             <div class="products-details-tab-content">
-                                                <p>Backend merupakan bagian dari aplikasi yang bertanggung jawab untuk menyediakan kebutuhan yang tidak terlihat oleh pengguna ( tidak berinteraksi langsung dengan pengguna ),  seperti bagaimana data tersebut disimpan, diolah, serta ditransaksikan secara aman.</p>
+                                                <p>Frontend merupakan salah satu bagian dari website yang menampilkan tampilan pada para pengguna. Bagian ini dibuat dengan menggunakan Hypertext Markup Language (HTTP), Cascading Style Sheets (CSS), dan juga javascript. Sehingga, suatu URL dapat bekerja dan menampilkan situs website dengan baik. </p>
                                             </div>
                                             <div class="courses-details-desc">
                             <h3>Learning Objectives</h3>
@@ -189,7 +189,7 @@
                                     <li>
                                         <span>
                                             <i class='bx bx-check'></i>
-                                            Mengetahui lebih dalam mengenai backend development
+                                            Mengetahui lebih dalam mengenai frontend development
                                         </span>
                                     </li>
                                     <li>
@@ -243,41 +243,50 @@
                                 </ul>
                             </div>
 
-                            <span class="chapter">5 WEEKS</span>
-                            <h4>Fundamental Backend</h4>
+                            <span class="chapter">3 WEEKS</span>
+                            <h4>Fundamental Frontend</h4>
 
                             <div class="courses-list">
                                 <ul>
                                     <li>
-                                        <span class="number">1.</span> Pengenalan Laravel 
+                                        <span class="number">1.</span> Pengenalan HTML 
                                     </li>
                                     <li>
-                                        <span class="number">2.</span> Pengenalan Basis Data
+                                        <span class="number">2.</span> Pengenalan CSS
                                     </li>
                                     <li>
-                                        <span class="number">3.</span> Pengenalan MongoDB
+                                        <span class="number">3.</span> Pengenalan Boostrap
                                     </li>
                                     <li>
-                                        <span class="number">4.</span> Pengenalan PHP Dasar
+                                        <span class="number">4.</span> Pengenalan Javascript
                                     </li>
                                     <li>
-                                        <span class="number">5.</span> Object Oriented Programming
+                                        <span class="number">5.</span> DOM ( Data Object Manipulation )
                                     </li>
                                     <li>
                                         PROJECT ASSIGNMENT 1
                                     </li>
                                 </ul>
                             </div>
-                            <span class="chapter">3 WEEKS</span>
-                            <h4>Intermediate Backend</h4>
+                            <span class="chapter">4 WEEKS</span>
+                            <h4>Intermediate Frontend</h4>
 
                             <div class="courses-list">
                                 <ul>
                                     <li>
-                                        <span class="number">1.</span> Pengenalan Service Repository
+                                        <span class="number">1.</span> Pengenalan Atomic Design
                                     </li>
                                     <li>
-                                        <span class="number">2.</span> Pengenalan REST API
+                                        <span class="number">2.</span> Pengenalan Vue.js
+                                    </li>
+                                    <li>
+                                        <span class="number">3.</span> ToDo Apps Part 1
+                                    </li>
+                                    <li>
+                                        <span class="number">4.</span> Pengenalan Vue.js Component
+                                    </li>
+                                    <li>
+                                        <span class="number">5.</span> ToDo Apps Part 2
                                     </li>
                                     <li>
                                         PROJECT ASSIGNMENT 2
@@ -285,16 +294,19 @@
                                 </ul>
                                 
                             </div>
-                            <span class="chapter">3 WEEKS</span>
-                            <h4>Advance Backend</h4>
+                            <span class="chapter">4 WEEKS</span>
+                            <h4>Advance  Frontend</h4>
 
                             <div class="courses-list">
                                 <ul>
                                     <li>
-                                        <span class="number">1.</span> Pembuatan API sederhana menggunakan Service Repository 
+                                        <span class="number">1.</span> Penggunaan Vue Router untuk Single Page Application 
                                     </li>
                                     <li>
-                                        <span class="number">2.</span> Pattern Autentikasi dan Autorisasi dengan JSON Web Token (JWT)
+                                        <span class="number">2.</span> Penggunaan Store ( Vuex ) untuk State Manager
+                                    </li>
+                                    <li>
+                                        <span class="number">3.</span> Komunikasi dengan Backend menggunakan Axios ( Mocking Controller )
                                     </li>
                                     <li>
                                         PROJECT ASSIGNMENT 3

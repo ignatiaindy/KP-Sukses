@@ -22,11 +22,16 @@ Route::get('artikel', function () {
 Route::get('Backend', function () {
     return view('courseBack');
 });
+Route::get('Frontend', function () {
+    return view('courseFront');
+});
 Route::get('yoo', function () {
     return view('singleblog');
 });
 Route::get('dokumentasi', function () {
     return view('dokumentasi');
 });
-
+Route::get('privacy', function () {
+    return view('privacy');
+});
 
