@@ -20,7 +20,7 @@
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/responsive.css">
 
-        <title>Backend - Sinergi Peta Sejahtera</title>
+        <title>Frontend - Sinergi Peta Sejahtera</title>
 
         <link rel="icon" type="image/png" href="assets/img/fav.png">
     </head>
