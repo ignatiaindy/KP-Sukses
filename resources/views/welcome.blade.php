@@ -348,7 +348,7 @@
                                         <i class="bx bx-pen my-auto mx-auto"></i>
                                     </div>
                                     <h3>PENDAFTARAN</h3>
-                                    <p>Dilakukan dengan cara mengisi formulir pada tanggal 
+                                    <p>Dilakukan dengan cara mengisi formulir <br>pada tanggal 
                                         1 - 24 Juli 2022</p>
                                 </li>
 
@@ -426,7 +426,11 @@
         <!-- End Courses Area -->
 
         <!-- Start Testimonials Area -->
+<<<<<<< Updated upstream
         <section class="testimonials-area pt-100">
+=======
+        <section class="testimonials-area pt-30">
+>>>>>>> Stashed changes
             <div class="container">
                 <div class="section-title">
                     <span class="sub-title">Testimonials</span>

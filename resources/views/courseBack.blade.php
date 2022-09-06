@@ -36,9 +36,14 @@
             </div>
         </div>
         <!-- End Preloader -->
+<<<<<<< Updated upstream
 
         <!-- Start Header Area -->
         <header class="header-area p-relative">
+=======
+ <!-- Start Header Area -->
+ <header class="header-area p-relative">
+>>>>>>> Stashed changes
             
             
 
@@ -159,6 +164,21 @@
         </div>
         <!-- End Page Title Area -->
 
+        <!-- Start Page Title Area -->
+        <div class="page-title-area item-bg3 jarallax" data-jarallax='{"speed": 0.3}'>
+            <div class="container">
+                <div class="page-title-content">
+                    <ul>
+                        <li><a href="welcome">Home</a></li>
+                        <li><a>Backend Developer</a></li>
+                        
+                    </ul>
+                    <h2>Courses</h2>
+                </div>
+            </div>
+        </div>
+        <!-- End Page Title Area -->
+
         <!-- Start Courses Details Area -->
         <section class="courses-details-area pt-100 pb-70">
             <div class="container">
@@ -216,8 +236,13 @@
                 <div class="col-lg-12 col-md-5">
                         <div class="tab products-details-tab">
                             <div class="row">
+<<<<<<< Updated upstream
                                 <div class="col-lg-10 col-md-5">
                                     <ul class="tabs">
+=======
+                                <div class="col-lg-12 col-md-5">
+                                <ul class="tabs">
+>>>>>>> Stashed changes
                                         <li><a href="#">
                                             <div class="dot"></div> Description
                                         </a></li>
@@ -236,7 +261,7 @@
                                     <div class="tab-content">
                                         <div class="tabs-item">
                                             <div class="products-details-tab-content">
-                                                <p>Backend merupakan bagian dari aplikasi yang bertanggung jawab untuk menyediakan kebutuhan yang tidak terlihat oleh pengguna ( tidak berinteraksi langsung dengan pengguna ),  seperti bagaimana data tersebut disimpan, diolah, serta ditransaksikan secara aman. </p>
+                                                <p>Backend merupakan bagian dari aplikasi yang bertanggung jawab untuk menyediakan kebutuhan yang tidak terlihat oleh pengguna ( tidak berinteraksi langsung dengan pengguna ),  seperti bagaimana data tersebut disimpan, diolah, serta ditransaksikan secara aman.</p>
                                             </div>
                                         </div>
 
@@ -323,6 +348,100 @@
                                         <div class="tabs-item">
                                             <div class="products-details-tab-content">
                                                 <div class="product-review-form">
+
+                                                    <div class="review-title">
+                                                        
+                                                        
+                                                    </div>
+
+                   
+                        <div class="courses-sidebar-syllabus">
+                            <span class="chapter">1 WEEK</span>
+                            <h4>Intro</h4>
+
+                            <div class="courses-list">
+                                <ul>
+                                    <li>
+                                        <span class="number">1.</span> Pengenalan Command Line 
+                                    </li>
+                                    <li>
+                                        <span class="number">2.</span> Pengenalan GIT Repository
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <span class="chapter">5 WEEKS</span>
+                            <h4>Fundamental Backend</h4>
+
+                            <div class="courses-list">
+                                <ul>
+                                    <li>
+                                        <span class="number">1.</span> Pengenalan Laravel 
+                                    </li>
+                                    <li>
+                                        <span class="number">2.</span> Pengenalan Basis Data
+                                    </li>
+                                    <li>
+                                        <span class="number">3.</span> Pengenalan MongoDB
+                                    </li>
+                                    <li>
+                                        <span class="number">4.</span> Pengenalan PHP Dasar
+                                    </li>
+                                    <li>
+                                        <span class="number">5.</span> Object Oriented Programming
+                                    </li>
+                                    <li>
+                                        PROJECT ASSIGNMENT 1
+                                    </li>
+                                </ul>
+                            </div>
+                            <span class="chapter">3 WEEKS</span>
+                            <h4>Intermediate Backend</h4>
+
+                            <div class="courses-list">
+                                <ul>
+                                    <li>
+                                        <span class="number">1.</span> Pengenalan Service Repository Pattern
+                                    </li>
+                                    <li>
+                                        <span class="number">2.</span> Pengenalan REST API
+                                    </li>
+                                    <li>
+                                        PROJECT ASSIGNMENT 2
+                                    </li>
+                                </ul>
+                                
+                            </div>
+                            <span class="chapter">3 WEEKS</span>
+                            <h4>Advance Backend</h4>
+
+                            <div class="courses-list">
+                                <ul>
+                                    <li>
+                                        <span class="number">1.</span> Pembuatan API sederhana menggunakan Service Repository 
+                                    </li>
+                                    <li>
+                                        <span class="number">2.</span> Pattern Autentikasi dan Autorisasi dengan JSON Web Token (JWT)
+                                    </li>
+                                    <li>
+                                        PROJECT ASSIGNMENT 3
+                                    </li>
+                                </ul>
+                                
+                            </div>
+                            <span class="chapter">4 WEEKS</span>
+                            <h4>Final Project</h4>
+                            
+                        </div> 
+
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="tabs-item">
+                                            <div class="products-details-tab-content">
+                                                <div class="product-review-form">
                                                     
 
                                                     <div class="review-title">
@@ -378,29 +497,141 @@
                             </div>
                         </div>
                     </div>
+<<<<<<< Updated upstream
                     <div class="courses-details-desc">
                             <h3>What you'll learn</h3>
+=======
+                    
+            
+                    </div>
+                    
+                
+                    
+
+                    <div class="col-lg-4">
+                        <div class="courses-sidebar-information">
+                            <ul>
+                                <li>
+                                    <span><i class='bx bx'><iconify-icon icon="uil:book-open"></iconify-icon></i> Lectures :</span>
+                                    15
+                                </li>
+                                <li>
+                                    <span><i class='bx bx'><iconify-icon icon="uil:clock"></iconify-icon></i> Duration:</span>
+                                    16 Weeks
+                                </li>
+                                <li>
+                                    <span><i class='bx bx'><iconify-icon icon="uil:users-alt"></iconify-icon></i> Enrolled :</span>
+                                    20
+                                </li>
+                                <li>
+                                    <span><i class='bx bxs'><iconify-icon icon="uil:globe"></iconify-icon></i> Language :</span>
+                                    <a>Bahasa Indonesia</a>
+                                </li>
+                            </ul>
+                        </div>
+                            <div>
+                                <a href="#" class="default-btn1">Daftar</a>
+                            </div> 
+                            <div class="courses-sidebar-syllabus">
+                            <span class="chapter">1 WEEK</span>
+                            <h4>Intro</h4>
+
+                            <div class="courses-list">
+                                <ul>
+                                    <li>
+                                        <span class="number">1.</span> Pengenalan Command Line 
+                                    </li>
+                                    <li>
+                                        <span class="number">2.</span> Pengenalan GIT Repository
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <span class="chapter">3 WEEKS</span>
+                            <h4>Fundamental Frontend</h4>
+
+                            <div class="courses-list">
+                                <ul>
+                                    <li>
+                                        <span class="number">1.</span> Pengenalan HTML 
+                                    </li>
+                                    <li>
+                                        <span class="number">2.</span> Pengenalan CSS
+                                    </li>
+                                    <li>
+                                        <span class="number">3.</span> Pengenalan Boostrap
+                                    </li>
+                                    <li>
+                                        <span class="number">4.</span> Pengenalan Javascript
+                                    </li>
+                                    <li>
+                                        <span class="number">5.</span> DOM ( Data Object Manipulation )
+                                    </li>
+                                    <li>
+                                        PROJECT ASSIGNMENT 1
+                                    </li>
+                                </ul>
+                            </div>
+                            <span class="chapter">4 WEEKS</span>
+                            <h4>Intermediate Frontend</h4>
+>>>>>>> Stashed changes
 
                             <div class="why-you-learn">
                                 <ul>
                                     <li>
+<<<<<<< Updated upstream
                                         <span>
                                             <i class='bx bx-check'></i>
                                             Become an expert in Statistics
                                         </span>
+=======
+                                        <span class="number">1.</span> Pengenalan Atomic Design
+                                    </li>
+                                    <li>
+                                        <span class="number">2.</span> Pengenalan Vue.js
+                                    </li>
+                                    <li>
+                                        <span class="number">3.</span> ToDo Apps Part 1
+                                    </li>
+                                    <li>
+                                        <span class="number">4.</span> Pengenalan Vue.js Component
+                                    </li>
+                                    <li>
+                                        <span class="number">5.</span> ToDo Apps Part 2
+>>>>>>> Stashed changes
                                     </li>
                                     
                                     <li>
                                     </li>
+<<<<<<< Updated upstream
                                     
                                     <li>
                                         <span>
                                             <i class='bx bx-check'></i>
                                             Perform quantitative
                                         </span>
+=======
+                                </ul>
+                                
+                            </div>
+                            <span class="chapter">4 WEEKS</span>
+                            <h4>Advance  Frontend</h4>
+
+                            <div class="courses-list">
+                                <ul>
+                                    <li>
+                                        <span class="number">1.</span> Penggunaan Vue Router untuk Single Page Application 
+>>>>>>> Stashed changes
                                     </li>
                                     
                                     <li>
+<<<<<<< Updated upstream
+=======
+                                        <span class="number">2.</span> Penggunaan Store ( Vuex ) untuk State Manager
+                                    </li>
+                                    <li>
+                                        <span class="number">3.</span> Komunikasi dengan Backend menggunakan Axios ( Mocking Controller )
+>>>>>>> Stashed changes
                                     </li>
                                     
                                     <li>
@@ -414,6 +645,10 @@
                         </div>
             </div>
         </section>
+<<<<<<< Updated upstream
+=======
+   <!-- apap -->     
+>>>>>>> Stashed changes
         <!-- End Courses Details Area -->
 
         <!-- Start Footer Area -->

@@ -241,6 +241,17 @@ img {
   color: rgba(17, 88, 165, 1);
   font-weight: 500;
   margin-bottom: 10px;
+  margin-top: 50px;
+  padding-top: 50px;
+}
+
+.section-title .sub-title2 {
+  text-transform: uppercase;
+  display: block;
+  color: rgba(17, 88, 165, 1);
+  font-weight: 500;
+  margin-bottom: 10px;
+  margin-top: 60px;
 }
 
 .section-title h2 {
@@ -699,6 +710,8 @@ Header CSS
 .ino-nav .navbar .navbar-nav {
   margin-left: auto;
   margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .ino-nav .navbar .navbar-nav .nav-item {
@@ -16492,8 +16505,16 @@ Gym Main Banner Area CSS
 /*================================================
 Top Header Area CSS
 =================================================*/
+<<<<<<< Updated upstream
 .top-header.training-top-header-with-black-color {
   background-color: #252525;
+=======
+.blog-area {
+  position: relative;
+  z-index: 1;
+  padding-top: 10%;
+  padding-bottom: 5%;
+>>>>>>> Stashed changes
 }
 
 /*================================================
