@@ -300,7 +300,7 @@
             </div>
         </div>
         <!-- Start Information Area -->
-        <section class="information-area ptb-60">
+        <section class="information-area ptb-70">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
