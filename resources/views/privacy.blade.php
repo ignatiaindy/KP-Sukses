@@ -2,11 +2,9 @@
 <html lang="zxx" class="theme-light">
     
 <head>
-        <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <!-- Links of CSS files -->
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/css/boxicons.min.css">
         <link rel="stylesheet" href="assets/css/flaticon.css">
@@ -20,10 +18,9 @@
         <link rel="stylesheet" href="assets/css/slick.min.css">
         <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
         <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/dark.css">
         <link rel="stylesheet" href="assets/css/responsive.css">
 
-        <title>Artikel - Sinergi Peta Sejahtera</title>
+        <title>Home - Sinergi Peta Sejahtera</title>
 
         <link rel="icon" type="image/png" href="assets/img/fav.png">
     </head>
@@ -31,16 +28,14 @@
     <body>
 
         <!-- Preloader -->
-        <div class="preloader">
-            <div class="loader">
-                <div class="shadow"></div>
-                <div class="box"></div>
-            </div>
-        </div>
+        <div id="back__preloader">
+            <div id="back__circle_loader"></div>
+            <div class="back__loader_logo"><img src="assets/img/preload.png" alt="Preload"></div>
+        </div>  
         <!-- End Preloader -->
 
-       <!-- Start Header Area -->
-       <header class="header-area p-relative">
+        <!-- Start Header Area -->
+        <header class="header-area p-relative">
             
             
 
@@ -63,7 +58,6 @@
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
                             <a class="navbar-brand" href="/">
-                                <img src="assets/img/logo1.png" class="logo1" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
 
@@ -75,10 +69,10 @@
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
-                                            <li class="nav-item"><a href="blog-style-2.html" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
+                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
                                     
                                 </div>
                             </div>
@@ -94,7 +88,6 @@
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
                             <a class="navbar-brand" href="/">
-                                <img src="assets/img/logo1.png" class="black-logo" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
 
@@ -109,7 +102,7 @@
                                             <li class="nav-item"><a href="blog-style-2.html" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
+                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
                                     
                                 </div>
                             </div>
@@ -122,82 +115,47 @@
         </header>
         <!-- End Header Area -->
 
-
         <!-- Start Page Title Area -->
         <div class="page-title-area item-bg3 jarallax" data-jarallax='{"speed": 0.3}'>
             <div class="container">
                 <div class="page-title-content">
                     <a class="default-btn3">Inosoft Bootcamp</a>
-                    <h2>Gallery</h2>
+                    <h2>Privacy Policy</h2>
                 </div>
             </div>
         </div>
         <!-- End Page Title Area -->
 
-        <!-- Start Gallery Area -->
-        <section class="gallery-area pt-100 pb-70">
+        <!-- Start Post Single Wrapper  -->
+        <section class="courses-details-area pt-100 pb-70">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/1.jpg" alt="Gallery Image" data-original="assets/img/gallery/1.jpg">
+                <div class="courses-details-header">
+                    <div class="row align-items-center">
+                        <div class="col-lg-8">
+                        <div class="courses-title">
+                            <h2>Kebijakan Privasi Inosoft Bootcamp</h2>
+                            <div class="review-item">
+                            </div>
                         </div>
-                    </div>
+                        <div class="col-lg-12 col-md-12">
+                            <div class="tab-content">
+                                    <div class="tabs-item">
+                                        <div class="products-details-tab-content">
+                                            <p>Inosoft Bootcamp (“Kami”) berkomitmen untuk menghormati dan melindungi setiap data atau informasi privasi pengguna (‘Anda” atau “Pengguna”) saat mengakses dan menggunakan aplikasi, fitur, konten, dan sistem teknologi di website yang dikelola Inosoft Bootcamp, dan situs-situs turunannya (selanjutnya disebut sebagai "Platform").</p>
+                                            <p>Kebijakan Privasi ini (serta syarat penggunaan dari situs Inosoft Bootcamp sebagaimana tercantum dalam "Syarat & Ketentuan" dan informasi lain yang tercantum di Platform) menetapkan dasar atas perolehan, pengumpulan, pengolahan, penganalisisan, penampilan, pembukaan, dan/atau segala bentuk pengelolaan yang terkait dengan data atau informasi yang Anda berikan kepada Inosoft Bootcamp atau yang Inosoft Bootcamp kumpulkan dari Pengguna, termasuk data pribadi Anda, baik pada saat Anda melakukan pendaftaran di Platform, mengakses Platform, maupun mengunakan layanan-layanan pada Platform (selanjutnya disebut sebagai "data"). Kebijakan Privasi ini berlaku bagi seluruh pengguna Platform, kecuali diatur pada Kebijakan Privasi yang terpisah. Mohon membaca Kebijakan Privasi Kami dengan seksama sehingga Penghuna dapat memahami pendekatan dan cara Kami dalam menggunakan informasi tersebut.</p>
+                                            <p>Dengan mengakses dan/atau menggunakan Platform Inosoft Bootcamp, Anda menyatakan bahwa setiap data Anda merupakan data yang benar dan sah, serta Anda memberikan persetujuan kepada Inosoft Bootcamp untuk memperoleh, mengumpulkan, menyimpan, mengelola, dan mempergunakan data tersebut sebagaimana tercantum dalam Kebijakan Privasi maupun Syarat dan Ketentuan Inosoft Bootcamp.</p>
+                                        </div>
+                                        <div class="courses-details-desc">
 
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/2.jpg" alt="Gallery Image" data-original="assets/img/gallery/2.jpg">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/3.jpg" alt="Gallery Image" data-original="assets/img/gallery/3.jpg">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/4.jpg" alt="Gallery Image" data-original="assets/img/gallery/4.jpg">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/5.jpg" alt="Gallery Image" data-original="assets/img/gallery/5.jpg">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/6.jpg" alt="Gallery Image" data-original="assets/img/gallery/6.jpg">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/7.jpg" alt="Gallery Image" data-original="assets/img/gallery/7.jpg">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/8.jpg" alt="Gallery Image" data-original="assets/img/gallery/8.jpg">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/9.jpg" alt="Gallery Image" data-original="assets/img/gallery/9.jpg">
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- End Gallery Area -->
+        <!-- End Post Single Wrapper  -->
 
-       <!-- Start Footer Area -->
-       <footer class="footer-area">
+        <!-- Start Footer Area -->
+        <footer class="footer-area">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6">
@@ -275,9 +233,14 @@
                     <div class="logo">
                         <a href="/" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
                     </div>
-                    <div>                  
+                    <div class="containerr">                  
                     <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="#">Inosoft</a></div>
-
+                    <div class="back-copy-right">
+                        <ul>
+                            <a href="#">Privacy Policy</a>
+                            <a href="#">Terms And Conditions</a>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </footer>
@@ -301,9 +264,7 @@
         <script src="assets/js/jquery.magnific-popup.min.js"></script>
         <script src="assets/js/jquery.ajaxchimp.min.js"></script>
         <script src="assets/js/form-validator.min.js"></script>
-        <script src="assets/js/contact-form-script.js"></script>
+        <script src="https://code.iconify.design/iconify-icon/1.0.0-beta.3/iconify-icon.min.js"></script>
         <script src="assets/js/main.js"></script>
     </body>
-
-
 </html>

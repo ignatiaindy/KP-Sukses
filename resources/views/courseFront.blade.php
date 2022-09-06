@@ -20,7 +20,7 @@
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/responsive.css">
 
-        <title>Frontend - Sinergi Peta Sejahtera</title>
+        <title>Backend - Sinergi Peta Sejahtera</title>
 
         <link rel="icon" type="image/png" href="assets/img/fav.png">
     </head>
@@ -121,11 +121,7 @@
         <div class="page-title-area item-bg3 jarallax" data-jarallax='{"speed": 0.3}'>
             <div class="container">
                 <div class="page-title-content">
-                    <ul>
-                        <li><a href="welcome">Home</a></li>
-                        <li><a>Frontend Developer</a></li>
-                        
-                    </ul>
+                    <a class="default-btn3">Inosoft Bootcamp</a>
                     <h2>Courses</h2>
                 </div>
             </div>

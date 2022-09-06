@@ -31,5 +31,7 @@ Route::get('yoo', function () {
 Route::get('dokumentasi', function () {
     return view('dokumentasi');
 });
-
+Route::get('privacy', function () {
+    return view('privacy');
+});
 

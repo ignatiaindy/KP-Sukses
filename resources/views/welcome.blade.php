@@ -319,7 +319,7 @@
                                         <i class="bx bx-pen my-auto mx-auto"></i>
                                     </div>
                                     <h3>PENDAFTARAN</h3>
-                                    <p>Dilakukan dengan cara mengisi formulir pada tanggal 
+                                    <p>Dilakukan dengan cara mengisi formulir <br>pada tanggal 
                                         1 - 24 Juli 2022</p>
                                 </li>
 
@@ -394,7 +394,7 @@
         </section>
 
         <!-- Start Testimonials Area -->
-        <section class="testimonials-area pt-70">
+        <section class="testimonials-area pt-30">
             <div class="container">
                 <div class="section-title">
                     <span class="sub-title">Testimonials</span>
@@ -533,7 +533,7 @@
                                     </li>
                                     <li class="date"><i class='bx bxs-calendar'></i> 01/25/2022</li>
                                 </ul>
-                                <h3><a href="single-blog.html" class="d-inline-block">backend Programming </a></h3>
+                                <h3><a href="single-blog.html" class="d-inline-block">Backend Programming </a></h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Montes porta.</p>
 
                                 <a href="single-blog.html" class="read-more-btn">Read More</a>
@@ -639,7 +639,7 @@
                     <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="#">Inosoft</a></div>
                     <div class="back-copy-right">
                         <ul>
-                            <a href="#">Privacy Policy</a>
+                            <a href="privacy">Privacy Policy</a>
                             <a href="#">Terms And Conditions</a>
                         </ul>
                     </div>
