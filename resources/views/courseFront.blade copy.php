@@ -348,7 +348,7 @@
                                                                 <i class='bx bx-star'></i>
                                                             </div>
                                                             <h3>Good</h3>
-                                                            <span><strong>Admin</strong> on <strong>Sep 21, 2022</strong></span>
+                                                            <span><strong>Galih Dims</strong> on <strong>Sep 21, 2022</strong></span>
                                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
                                                         </div>
 
@@ -361,7 +361,7 @@
                                                                 <i class='bx bx-star'></i>
                                                             </div>
                                                             <h3>Good</h3>
-                                                            <span><strong>Admin</strong> on <strong>Sep 21, 2022</strong></span>
+                                                            <span><strong>Fairuzrizqi Nugraharsanto</strong> on <strong>Sep 21, 2022</strong></span>
                                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
                                                         </div>
 
@@ -374,7 +374,7 @@
                                                                 <i class='bx bx-star'></i>
                                                             </div>
                                                             <h3>Good</h3>
-                                                            <span><strong>Admin</strong> on <strong>Sep 21, 2022</strong></span>
+                                                            <span><strong>Dipa Baruz</strong> on <strong>Sep 21, 2022</strong></span>
                                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
                                                         </div>
                                                     </div>
