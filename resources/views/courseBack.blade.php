@@ -402,95 +402,33 @@
                                 <a href="#" class="default-btn1">Daftar</a>
                             </div> 
                             <div class="courses-sidebar-syllabus">
-                            <span class="chapter">1 WEEK</span>
-                            <h4>Intro</h4>
+                            <span class="chapter">Preparation</span>
+                            <h4>Tools</h4>
 
                             <div class="courses-list">
                                 <ul>
                                     <li>
-                                        <span class="number">1.</span> Pengenalan Command Line 
+                                        <span class="number">1.</span> NPM v12 
                                     </li>
                                     <li>
-                                        <span class="number">2.</span> Pengenalan GIT Repository
+                                        <span class="number">2.</span> Git latest
+                                    </li>
+                                    <li>
+                                        <span class="number">3.</span> composer latest
+                                    </li>
+                                    <li>
+                                        <span class="number">4.</span> mongodb v4.2
+                                    </li>
+                                    <li>
+                                        <span class="number">5.</span> phpv7.4
+                                    </li>
+                                    <li>
+                                        <span class="number">6.</span> XAMPP -> Windows
                                     </li>
                                 </ul>
                             </div>
 
-                            <span class="chapter">3 WEEKS</span>
-                            <h4>Fundamental Frontend</h4>
-
-                            <div class="courses-list">
-                                <ul>
-                                    <li>
-                                        <span class="number">1.</span> Pengenalan HTML 
-                                    </li>
-                                    <li>
-                                        <span class="number">2.</span> Pengenalan CSS
-                                    </li>
-                                    <li>
-                                        <span class="number">3.</span> Pengenalan Boostrap
-                                    </li>
-                                    <li>
-                                        <span class="number">4.</span> Pengenalan Javascript
-                                    </li>
-                                    <li>
-                                        <span class="number">5.</span> DOM ( Data Object Manipulation )
-                                    </li>
-                                    <li>
-                                        PROJECT ASSIGNMENT 1
-                                    </li>
-                                </ul>
-                            </div>
-                            <span class="chapter">4 WEEKS</span>
-                            <h4>Intermediate Frontend</h4>
-
-                            <div class="courses-list">
-                                <ul>
-                                    <li>
-                                        <span class="number">1.</span> Pengenalan Atomic Design
-                                    </li>
-                                    <li>
-                                        <span class="number">2.</span> Pengenalan Vue.js
-                                    </li>
-                                    <li>
-                                        <span class="number">3.</span> ToDo Apps Part 1
-                                    </li>
-                                    <li>
-                                        <span class="number">4.</span> Pengenalan Vue.js Component
-                                    </li>
-                                    <li>
-                                        <span class="number">5.</span> ToDo Apps Part 2
-                                    </li>
-                                    <li>
-                                        PROJECT ASSIGNMENT 2
-                                    </li>
-                                </ul>
-                                
-                            </div>
-                            <span class="chapter">4 WEEKS</span>
-                            <h4>Advance  Frontend</h4>
-
-                            <div class="courses-list">
-                                <ul>
-                                    <li>
-                                        <span class="number">1.</span> Penggunaan Vue Router untuk Single Page Application 
-                                    </li>
-                                    <li>
-                                        <span class="number">2.</span> Penggunaan Store ( Vuex ) untuk State Manager
-                                    </li>
-                                    <li>
-                                        <span class="number">3.</span> Komunikasi dengan Backend menggunakan Axios ( Mocking Controller )
-                                    </li>
-                                    <li>
-                                        PROJECT ASSIGNMENT 3
-                                    </li>
-                                </ul>
-                                
-                            </div>
-                            <span class="chapter">4 WEEKS</span>
-                            <h4>Final Project</h4>
                             
-                        </div> 
                     </div>
                     
                     
