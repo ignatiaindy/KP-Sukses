@@ -332,8 +332,8 @@
                                                                 <i class='bx bx-star'></i>
                                                             </div>
                                                             <h3>Good</h3>
-                                                            <span><strong>Admin</strong> on <strong>Sep 21, 2022</strong></span>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+                                                            <span><strong>Diaz</strong> on <strong>Sep 21, 2022</strong></span>
+                                                            <p>Selama bootcamp saya mendapat berbagai ilmu aspek penting dalam pemrograman dan keterampilan yang diperlukan seorang developer. Kalau kalian ingin mendalami bidang IT, bootcamp ini solusinya karena kita akan diajari dari nol dan akan lebih mudah belajar jika orang disekeliling kita melakukan hal yang sama.</p>
                                                         </div>
 
                                                         <div class="review-item">
@@ -345,8 +345,8 @@
                                                                 <i class='bx bx-star'></i>
                                                             </div>
                                                             <h3>Good</h3>
-                                                            <span><strong>Admin</strong> on <strong>Sep 21, 2022</strong></span>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+                                                            <span><strong>Deva</strong> on <strong>Sep 21, 2022</strong></span>
+                                                            <p>Selama bootcamp saya mendapat berbagai ilmu aspek penting dalam pemrograman dan keterampilan yang diperlukan seorang developer. Kalau kalian ingin mendalami bidang IT, bootcamp ini solusinya karena kita akan diajari dari nol dan akan lebih mudah belajar jika orang disekeliling kita melakukan hal yang sama.</p>
                                                         </div>
 
                                                         <div class="review-item">
@@ -358,8 +358,8 @@
                                                                 <i class='bx bx-star'></i>
                                                             </div>
                                                             <h3>Good</h3>
-                                                            <span><strong>Admin</strong> on <strong>Sep 21, 2022</strong></span>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+                                                            <span><strong>Adji</strong> on <strong>Sep 21, 2022</strong></span>
+                                                            <p>Saya sekarang bekerja di PT. Inosoft Trans Sistem. Saya mendapatkan pengalaman yang luar biasa dikarenakan teman sekerja yang suportif satu sama lain. Saya juga diajarkan dunia kerja yang membuat saya berkembang lebih pesat.</p>
                                                         </div>
                                                     </div>
                                                 </div>
