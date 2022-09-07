@@ -127,7 +127,7 @@
                                     <h1>Learn From The Best and Be The Best</h1>
                                     <p>INOSOFT BOOTCAMP, Bootcamp bidang IT No.1 di Indonesia</p>
                                     <div class="btn-box">
-                                        <a href="courses-2-columns-style-1.html" class="default-btn2">Daftar</a>
+                                        <a href="" class="default-btn2">Daftar</a>
                                     </div>
                                 </div>
                             </div>
@@ -355,7 +355,7 @@
                         <div class="bootcamp-content bg-color">
                             <h2>Frontend Developer</h2>
                             <p>Frontend merupakan salah satu bagian dari website yang menampilkan tampilan pada para pengguna</p>
-                            <a href="Frontend" class="default-btn"><i class='bx bx-skip-next icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-skip-next icon-arrow after"></i></a>
+                            <a href="Frontend" class="default-btn">Lets Go</a>
                         </div>
                     </div>
 
@@ -375,7 +375,7 @@
                         <div class="bootcamp-content">
                             <h2>Backend Developer</h2>
                             <p>Backend merupakan bagian dari aplikasi yang bertanggung jawab untuk menyediakan kebutuhan yang tidak terlihat oleh pengguna</p>
-                            <a href="Backend" class="default-btn"><i class='bx bx-skip-next icon-arrow before'></i><span class="label">Lets Go</span><i class="bx bx-skip-next icon-arrow after"></i></a>
+                            <a href="Backend" class="default-btn">Lets Go</a>
                         </div>
                     </div>
                 </div>

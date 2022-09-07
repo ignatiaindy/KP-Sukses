@@ -139,7 +139,7 @@ img {
   border-width: 2px;
   border-style: solid;
   border-color: rgba(16, 86, 162, 1);
-  border-radius: 1px;
+  border-radius: 5px;
   font-size: 14.5px;
   font-weight: 700;
 }
@@ -153,6 +153,7 @@ img {
   border: none;
   text-align: center;
   padding: 12px 25px;
+  border-radius: 5px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   font-weight: 500;
@@ -170,7 +171,7 @@ img {
  border-width: 2px;
  border-style: solid;
  border-color: rgba(16, 86, 162, 1);
- border-radius: 1px;
+ border-radius: 5px;
  font-size: 14.5px;
  font-weight: 700;
 }
@@ -2754,6 +2755,7 @@ Become Instructor & Partner CSS
 
 .bootcamp-content .default-btn {
   border-radius: 30px;
+  padding: 13px 25px 12px 25px;
 }
 
 .bootcamp-content.bg-color {
