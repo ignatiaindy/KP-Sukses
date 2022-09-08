@@ -64,7 +64,7 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="#" class="nav-link active">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link active">Home <i class=''></i></a>
                                     </li>
                                     <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
@@ -324,39 +324,18 @@
 
                                                     <div class="review-comments">
                                                         <div class="review-item">
-                                                            <div class="rating">
-                                                                <i class='bx bxs-star'></i>
-                                                                <i class='bx bxs-star'></i>
-                                                                <i class='bx bxs-star'></i>
-                                                                <i class='bx bxs-star'></i>
-                                                                <i class='bx bx-star'></i>
-                                                            </div>
                                                             <h3>Good</h3>
                                                             <span><strong>Diaz</strong> on <strong>Sep 21, 2022</strong></span>
                                                             <p>Selama bootcamp saya mendapat berbagai ilmu aspek penting dalam pemrograman dan keterampilan yang diperlukan seorang developer. Kalau kalian ingin mendalami bidang IT, bootcamp ini solusinya karena kita akan diajari dari nol dan akan lebih mudah belajar jika orang disekeliling kita melakukan hal yang sama.</p>
                                                         </div>
 
                                                         <div class="review-item">
-                                                            <div class="rating">
-                                                                <i class='bx bxs-star'></i>
-                                                                <i class='bx bxs-star'></i>
-                                                                <i class='bx bxs-star'></i>
-                                                                <i class='bx bxs-star'></i>
-                                                                <i class='bx bx-star'></i>
-                                                            </div>
                                                             <h3>Good</h3>
                                                             <span><strong>Deva</strong> on <strong>Sep 21, 2022</strong></span>
                                                             <p>Selama bootcamp saya mendapat berbagai ilmu aspek penting dalam pemrograman dan keterampilan yang diperlukan seorang developer. Kalau kalian ingin mendalami bidang IT, bootcamp ini solusinya karena kita akan diajari dari nol dan akan lebih mudah belajar jika orang disekeliling kita melakukan hal yang sama.</p>
                                                         </div>
 
                                                         <div class="review-item">
-                                                            <div class="rating">
-                                                                <i class='bx bxs-star'></i>
-                                                                <i class='bx bxs-star'></i>
-                                                                <i class='bx bxs-star'></i>
-                                                                <i class='bx bxs-star'></i>
-                                                                <i class='bx bx-star'></i>
-                                                            </div>
                                                             <h3>Good</h3>
                                                             <span><strong>Adji</strong> on <strong>Sep 21, 2022</strong></span>
                                                             <p>Saya sekarang bekerja di PT. Inosoft Trans Sistem. Saya mendapatkan pengalaman yang luar biasa dikarenakan teman sekerja yang suportif satu sama lain. Saya juga diajarkan dunia kerja yang membuat saya berkembang lebih pesat.</p>
@@ -457,12 +436,12 @@
                                 </li>
                                 <li>
                                     <i class='bx bx-envelope'></i>
-                                    <a href="#"><span class="__cf_email__" data-cfemail="3f575a5353507f4d5e4e4a5a115c5052">evy@inosoftweb.com </span></a>
+                                    <a href="#"><span class="__cf_email__" data-cfemail="3f575a5353507f4d5e4e4a5a115c5052">sinergipeta@gmail.com </span></a>
                                 </li>
                             </ul>
 
                             <ul class="social-link">
-                                <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-whatsapp'></i></a></li>
+                                <li><a href="https://api.whatsapp.com/send/?phone=6287848041867&text&type=phone_number&app_absent=0" class="d-block" target="_blank"><i class='bx bxl-whatsapp'></i></a></li>
                                 <li><a href="https://www.instagram.com/inosoftbootcamp/" class="d-block" target="_blank"><i class='bx bxl-instagram'></i></a></li>
                                 
                             </ul>

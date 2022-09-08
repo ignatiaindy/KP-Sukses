@@ -63,16 +63,16 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="#" class="nav-link active">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link ">Home <i class=''></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link active">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
-                                            <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
+                                            <li class="nav-item"><a href="artikel" class="nav-link active">Artikel</a></li>
 
-                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="blog-style-2.html" class="nav-link ">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
+                                    <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
                                     
                                 </div>
                             </div>
@@ -93,11 +93,11 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="#" class="nav-link active">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link">Home <i class=''></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link active">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
-                                            <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
+                                            <li class="nav-item active"><a href="artikel" class="nav-link">Artikel</a></li>
 
                                             <li class="nav-item"><a href="blog-style-2.html" class="nav-link">Dokumentasi</a></li>
                                         </ul>
@@ -133,7 +133,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post mb-30">
                             <div class="post-image">
-                                <a href="single-blog.html" class="d-block">
+                                <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/1.jpg" alt="image">
                                 </a>
     
@@ -150,7 +150,7 @@
                                     </li>
                                     <li><a href="#">August 30, 2022</a></li>
                                 </ul>
-                                <h3><a href="single-blog.html" class="d-inline-block">World largest elephant toothpaste experiment in 2022</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">World largest elephant toothpaste experiment in 2022</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -159,7 +159,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post mb-30">
                             <div class="post-image">
-                                <a href="single-blog.html" class="d-block">
+                                <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/2.jpg" alt="image">
                                 </a>
 
@@ -176,7 +176,7 @@
                                     </li>
                                     <li><a href="#">August 29, 2022</a></li>
                                 </ul>
-                                <h3><a href="single-blog.html" class="d-inline-block">Most Popular Education Posts Of The Week 20-26 Aug</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Most Popular Education Posts Of The Week 20-26 Aug</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -185,7 +185,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post mb-30">
                             <div class="post-image">
-                                <a href="single-blog.html" class="d-block">
+                                <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/3.jpg" alt="image">
                                 </a>
 
@@ -202,7 +202,7 @@
                                     </li>
                                     <li><a href="#">August 28, 2022</a></li>
                                 </ul>
-                                <h3><a href="single-blog.html" class="d-inline-block">How to enhance education quality management system</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">How to enhance education quality management system</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -211,7 +211,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post mb-30">
                             <div class="post-image">
-                                <a href="single-blog.html" class="d-block">
+                                <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/4.jpg" alt="image">
                                 </a>
 
@@ -228,7 +228,7 @@
                                     </li>
                                     <li><a href="#">August 27, 2022</a></li>
                                 </ul>
-                                <h3><a href="single-blog.html" class="d-inline-block">Global education: Ideas for the way move forward</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Global education: Ideas for the way move forward</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -237,7 +237,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post mb-30">
                             <div class="post-image">
-                                <a href="single-blog.html" class="d-block">
+                                <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/5.jpg" alt="image">
                                 </a>
 
@@ -254,7 +254,7 @@
                                     </li>
                                     <li><a href="#">August 26, 2022</a></li>
                                 </ul>
-                                <h3><a href="single-blog.html" class="d-inline-block">New report reimagines the broader education workforce</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">New report reimagines the broader education workforce</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -263,7 +263,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post mb-30">
                             <div class="post-image">
-                                <a href="single-blog.html" class="d-block">
+                                <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/6.jpg" alt="image">
                                 </a>
 
@@ -280,7 +280,7 @@
                                     </li>
                                     <li><a href="#">August 29, 2022</a></li>
                                 </ul>
-                                <h3><a href="single-blog.html" class="d-inline-block">What’s Going On in This Picture? | Jan. 13, 2022</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">What’s Going On in This Picture? | Jan. 13, 2022</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -289,7 +289,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post mb-30">
                             <div class="post-image">
-                                <a href="single-blog.html" class="d-block">
+                                <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/7.jpg" alt="image">
                                 </a>
     
@@ -306,7 +306,7 @@
                                     </li>
                                     <li><a href="#">August 30, 2022</a></li>
                                 </ul>
-                                <h3><a href="single-blog.html" class="d-inline-block">Connecting Math and Science to Reading and Writing</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Connecting Math and Science to Reading and Writing</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -315,7 +315,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post mb-30">
                             <div class="post-image">
-                                <a href="single-blog.html" class="d-block">
+                                <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/8.jpg" alt="image">
                                 </a>
 
@@ -332,7 +332,7 @@
                                     </li>
                                     <li><a href="#">August 29, 2022</a></li>
                                 </ul>
-                                <h3><a href="single-blog.html" class="d-inline-block">How to Introduce Meditation to the High School</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">How to Introduce Meditation to the High School</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -341,7 +341,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post mb-30">
                             <div class="post-image">
-                                <a href="single-blog.html" class="d-block">
+                                <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/9.jpg" alt="image">
                                 </a>
 
@@ -358,7 +358,7 @@
                                     </li>
                                     <li><a href="#">August 28, 2022</a></li>
                                 </ul>
-                                <h3><a href="single-blog.html" class="d-inline-block">Tools for Creating Digital Student Portfolios</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Tools for Creating Digital Student Portfolios</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -398,12 +398,12 @@
                                 </li>
                                 <li>
                                     <i class='bx bx-envelope'></i>
-                                    <a href="#"><span class="__cf_email__" data-cfemail="3f575a5353507f4d5e4e4a5a115c5052">evy@inosoftweb.com </span></a>
+                                    <a href="#"><span class="__cf_email__" data-cfemail="3f575a5353507f4d5e4e4a5a115c5052">sinergipeta@gmail.com </span></a>
                                 </li>
                             </ul>
 
                             <ul class="social-link">
-                                <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-whatsapp'></i></a></li>
+                                <li><a href="https://api.whatsapp.com/send/?phone=6287848041867&text&type=phone_number&app_absent=0" class="d-block" target="_blank"><i class='bx bxl-whatsapp'></i></a></li>
                                 <li><a href="https://www.instagram.com/inosoftbootcamp/" class="d-block" target="_blank"><i class='bx bxl-instagram'></i></a></li>
                                 
                             </ul>
