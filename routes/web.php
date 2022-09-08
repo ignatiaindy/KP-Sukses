@@ -25,8 +25,8 @@ Route::get('Backend', function () {
 Route::get('Frontend', function () {
     return view('courseFront');
 });
-Route::get('yoo', function () {
-    return view('singleblog');
+Route::get('Ngoding-with-view', function () {
+    return view('singlepost');
 });
 Route::get('dokumentasi', function () {
     return view('dokumentasi');
@@ -34,4 +34,6 @@ Route::get('dokumentasi', function () {
 Route::get('privacy', function () {
     return view('privacy');
 });
-
+Route::get('about', function () {
+    return view('about');
+});

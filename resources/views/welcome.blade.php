@@ -125,9 +125,9 @@
                                 <div class="hero-banner-content black-color">
                                     <span class="sub-title">We Challenge Young Minds</span>
                                     <h1>Learn From The Best and Be The Best</h1>
-                                    <p>INOSOFT BOOTCAMP, Bootcamp bidang IT No.1 di Indonesia</p>
+                                    <p>Inosoft Bootcamp, Bootcamp bidang IT No.1 di Indonesia</p>
                                     <div class="btn-box">
-                                        <a href="" class="default-btn2">Daftar</a>
+                                        <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" class="default-btn2">Daftar</a>
                                     </div>
                                 </div>
                             </div>
@@ -463,7 +463,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post-card mb-30">
                             <div class="post-image">
-                                <a href="single-blog.html" class="d-block">
+                                <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/motivation-course/blog/blog-1.jpg" alt="image">
                                 </a>
                             </div>
@@ -479,10 +479,10 @@
                                     </li>
                                     <li class="date"><i class='bx bxs-calendar'></i> 01/25/2022</li>
                                 </ul>
-                                <h3><a href="single-blog.html" class="d-inline-block">Ngoding With View</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Ngoding With View</a></h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Montes porta.</p>
 
-                                <a href="single-blog.html" class="read-more-btn">Read More</a>
+                                <a href="Ngoding-with-view" class="read-more-btn">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -490,7 +490,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post-card mb-30">
                             <div class="post-image">
-                                <a href="single-blog.html" class="d-block">
+                                <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/motivation-course/blog/blog-2.jpg" alt="image">
                                 </a>
                             </div>
@@ -506,10 +506,10 @@
                                     </li>
                                     <li class="date"><i class='bx bxs-calendar'></i> 01/25/2022</li>
                                 </ul>
-                                <h3><a href="single-blog.html" class="d-inline-block">Interview</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Interview</a></h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Montes porta.</p>
 
-                                <a href="single-blog.html" class="read-more-btn">Read More</a>
+                                <a href="Ngoding-with-view" class="read-more-btn">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -517,7 +517,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post-card mb-30">
                             <div class="post-image">
-                                <a href="single-blog.html" class="d-block">
+                                <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/motivation-course/blog/blog-3.jpg" alt="image">
                                 </a>
                             </div>
@@ -533,10 +533,10 @@
                                     </li>
                                     <li class="date"><i class='bx bxs-calendar'></i> 01/25/2022</li>
                                 </ul>
-                                <h3><a href="single-blog.html" class="d-inline-block">Backend Programming </a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Backend Programming </a></h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Montes porta.</p>
 
-                                <a href="single-blog.html" class="read-more-btn">Read More</a>
+                                <a href="Ngoding-with-view" class="read-more-btn">Read More</a>
                             </div>
                         </div>
                     </div> 
@@ -548,7 +548,7 @@
                             </div>
 
                     <div class="section-button1 text-center">
-                            <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
+                            <a href="artikel" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
                     </div>              
                 </div>
             </div>
@@ -575,12 +575,12 @@
                                 </li>
                                 <li>
                                     <i class='bx bx-envelope'></i>
-                                    <a href="#"><span class="__cf_email__" data-cfemail="3f575a5353507f4d5e4e4a5a115c5052">evy@inosoftweb.com </span></a>
+                                    <a href="#"><span class="__cf_email__" data-cfemail="3f575a5353507f4d5e4e4a5a115c5052">sinergipeta@gmail.com </span></a>
                                 </li>
                             </ul>
 
                             <ul class="social-link">
-                                <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-whatsapp'></i></a></li>
+                                <li><a href="https://api.whatsapp.com/send/?phone=6287848041867&text&type=phone_number&app_absent=0" class="d-block" target="_blank"><i class='bx bxl-whatsapp'></i></a></li>
                                 <li><a href="https://www.instagram.com/inosoftbootcamp/" class="d-block" target="_blank"><i class='bx bxl-instagram'></i></a></li>
                                 
                             </ul>
