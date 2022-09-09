@@ -146,11 +146,11 @@
                                 <ul class="post-meta">
                                     <li class="post-author">
                                         <img src="assets/img/user1.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
-                                        By: <a href="#" class="d-inline-block">Steven Smith</a>
+                                        By: <a href="#" class="d-inline-block">Diaz</a>
                                     </li>
                                     <li><a href="#">August 30, 2022</a></li>
                                 </ul>
-                                <h3><a href="Ngoding-with-view" class="d-inline-block">World largest elephant toothpaste experiment in 2022</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Information Technology and Communication (ICT)dan Strategi pembelajaran</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -172,11 +172,11 @@
                                 <ul class="post-meta">
                                     <li class="post-author">
                                         <img src="assets/img/user2.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
-                                        By: <a href="#" class="d-inline-block">Lina D'Souja</a>
+                                        By: <a href="#" class="d-inline-block">Deva</a>
                                     </li>
                                     <li><a href="#">August 29, 2022</a></li>
                                 </ul>
-                                <h3><a href="Ngoding-with-view" class="d-inline-block">Most Popular Education Posts Of The Week 20-26 Aug</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Frontend Development</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -198,11 +198,11 @@
                                 <ul class="post-meta">
                                     <li class="post-author">
                                         <img src="assets/img/user3.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
-                                        By: <a href="#" class="d-inline-block">David Malan</a>
+                                        By: <a href="#" class="d-inline-block">Adji</a>
                                     </li>
                                     <li><a href="#">August 28, 2022</a></li>
                                 </ul>
-                                <h3><a href="Ngoding-with-view" class="d-inline-block">How to enhance education quality management system</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Pentingnya membuat to do list</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -224,11 +224,11 @@
                                 <ul class="post-meta">
                                     <li class="post-author">
                                         <img src="assets/img/user5.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
-                                        By: <a href="#" class="d-inline-block">David Warner</a>
+                                        By: <a href="#" class="d-inline-block">Dian Adi</a>
                                     </li>
                                     <li><a href="#">August 27, 2022</a></li>
                                 </ul>
-                                <h3><a href="Ngoding-with-view" class="d-inline-block">Global education: Ideas for the way move forward</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Frontend Development</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -250,11 +250,11 @@
                                 <ul class="post-meta">
                                     <li class="post-author">
                                         <img src="assets/img/user6.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
-                                        By: <a href="#" class="d-inline-block">Olivar Waise</a>
+                                        By: <a href="#" class="d-inline-block">Indra</a>
                                     </li>
                                     <li><a href="#">August 26, 2022</a></li>
                                 </ul>
-                                <h3><a href="Ngoding-with-view" class="d-inline-block">New report reimagines the broader education workforce</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Qiu Jin Snack</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -276,11 +276,11 @@
                                 <ul class="post-meta">
                                     <li class="post-author">
                                         <img src="assets/img/user2.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
-                                        By: <a href="#" class="d-inline-block">Lina D'Souja</a>
+                                        By: <a href="#" class="d-inline-block">Deva</a>
                                     </li>
                                     <li><a href="#">August 29, 2022</a></li>
                                 </ul>
-                                <h3><a href="Ngoding-with-view" class="d-inline-block">What’s Going On in This Picture? | Jan. 13, 2022</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Jelajah Waktu</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -302,11 +302,11 @@
                                 <ul class="post-meta">
                                     <li class="post-author">
                                         <img src="assets/img/user1.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
-                                        By: <a href="#" class="d-inline-block">Steven Smith</a>
+                                        By: <a href="#" class="d-inline-block">Reyki</a>
                                     </li>
                                     <li><a href="#">August 30, 2022</a></li>
                                 </ul>
-                                <h3><a href="Ngoding-with-view" class="d-inline-block">Connecting Math and Science to Reading and Writing</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Penerapan IoT dalam kehidupan sehari-hari</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -328,11 +328,11 @@
                                 <ul class="post-meta">
                                     <li class="post-author">
                                         <img src="assets/img/user2.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
-                                        By: <a href="#" class="d-inline-block">Lina D'Souja</a>
+                                        By: <a href="#" class="d-inline-block">Britney</a>
                                     </li>
                                     <li><a href="#">August 29, 2022</a></li>
                                 </ul>
-                                <h3><a href="Ngoding-with-view" class="d-inline-block">How to Introduce Meditation to the High School</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">PDKT dengan Laravel</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
@@ -346,7 +346,7 @@
                                 </a>
 
                                 <div class="tag">
-                                    <a href="#">Management</a>
+                                    <a href="#">Nydhea</a>
                                 </div>
                             </div>
 
@@ -358,7 +358,7 @@
                                     </li>
                                     <li><a href="#">August 28, 2022</a></li>
                                 </ul>
-                                <h3><a href="Ngoding-with-view" class="d-inline-block">Tools for Creating Digital Student Portfolios</a></h3>
+                                <h3><a href="Ngoding-with-view" class="d-inline-block">Laravel bestie ku</a></h3>
                                 <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                             </div>
                         </div>
