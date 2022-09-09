@@ -191,7 +191,7 @@
                                             </span>
         
                                             <span class="prev-link-info-wrapper">
-                                                <span class="prev-title">Don't buy a tech gift until you read these rules</span>
+                                                <span class="prev-title">Backend Programming</span>
                                                 <span class="meta-wrapper">
                                                     <span class="date-post">January 21, 2022</span>
                                                 </span>
@@ -204,7 +204,7 @@
                                     <div class="info-next-link-wrapper">
                                         <a href="single-blog.html">
                                             <span class="next-link-info-wrapper">
-                                                <span class="next-title">The golden rule of buying a phone as a gift</span>
+                                                <span class="next-title">Future World</span>
                                                 <span class="meta-wrapper">
                                                     <span class="date-post">January 21, 2022</span>
                                                 </span>
@@ -235,7 +235,7 @@
                                                             </div>    
                                                         </div>
                                                     </div>
-                                                
+                                                </li>
                                                 <li>
                                                     <div class="row">
                                                         <div class="col-lg-11">                                   
@@ -285,16 +285,10 @@
                                                                 <input type="email" name="email" placeholder="Email">                                  
                                                             </div>
                                                         </div>
-                                                        
-                                                        <div class="col-lg-12">
-                                                            <div class="back-input">
-                                                                <input type="text" name="website" placeholder="Website">                                  
-                                                            </div>
-                                                        </div>
 
                                                         <div class="col-lg-12">
                                                             <div class="back-check-box">
-                                                                <input type="checkbox" id="box-1"> Save my name, email, and website in this browser for the next time I comment.
+                                                                <input type="checkbox" id="box-1"> Save my name and email in this browser for the next time I comment.
                                                             </div>
                                                             <button type="submit" class="back-btn">Submit Comment</button>
                                                         </div>
