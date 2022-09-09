@@ -2523,19 +2523,13 @@ Offer CSS
 .offer-area {
   position: relative;
   z-index: 1;
-  background-color: rgba(17, 88, 165, 1);
-  background-image: url(../img/offer-bg.jpg);
-  background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-.offer-area .section-title .sub-title {
-  color: #ffffff;
-}
 
 .offer-area .section-title h2 {
-  color: #ffffff;
+  color: #000000;
 }
 
 .offer-area .section-title p {
@@ -6121,16 +6115,19 @@ Courses Categories CSS
   }
 }
 
-.courses-categories-slides.owl-theme {
+.courses-categories-slides {
   margin-top: -30px;
+  
 }
 
 .courses-categories-slides.owl-theme .single-categories-courses-box {
   margin-top: 30px;
+  
 }
 
 .courses-categories-slides.owl-theme .single-categories-courses-item {
   margin-top: 30px;
+  width: 100%;
 }
 
 .courses-categories-slides.owl-theme .owl-nav {
@@ -10838,4 +10835,217 @@ Blog Area CSS
   background-color: rgba(17, 88, 165, 1);
   border: 1px solid rgba(17, 88, 165, 1);
   color: #ffffff;
+}
+/*================================================
+Funfacts CSS
+=================================================*/
+.funfacts-area {
+  overflow: hidden;
+}
+
+.funfacts-inner {
+  overflow: hidden;
+  background-color: rgba(17, 88, 165, 1);
+  border-radius: 15px;
+  padding: 50px;
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}
+
+.funfacts-inner .col-lg-3 {
+  border-right: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.funfacts-inner .col-lg-3:last-child {
+  border-right: 0;
+}
+
+.single-funfact {
+  text-align: center;
+}
+
+.single-funfact .icon {
+  color: #ffffff;
+  line-height: 0;
+  font-size: 50px;
+  margin-top: -7px;
+  margin-bottom: 10px;
+}
+
+.single-funfact h3 {
+  margin-bottom: 2px;
+  color: #ffffff;
+  font-size: 45px;
+  font-weight: 600;
+}
+
+.single-funfact h3 .odometer-formatting-mark {
+  display: none;
+}
+
+.single-funfact p {
+  color: #ffffff;
+  line-height: initial;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.funfacts-style-two {
+  overflow: hidden;
+  background-color: #ff1949;
+  position: relative;
+  z-index: 1;
+}
+
+#particles-js-circle-bubble {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+}
+
+/*****************************************************
+    inosoft value
+****************************/
+
+.inosoft__item {
+  position: relative;
+  top: -10%;
+  z-index: 1;
+  border-radius: 6px;
+  box-shadow: 0px 30px 70px 0px rgba(0, 15, 56, 0.1);
+  background: #ffffff;
+  padding: 40px;
+  text-align: center;
+}
+.inosoft__title-1 {
+  font-size: 20px;
+  font-weight: 800;
+  margin-bottom: 16px;
+  text-align: center;
+}
+.inosoft__title-1 a {
+  color: #020334;
+}
+
+.inosoft__width {
+  max-width: 1200px;
+}
+/*================================================
+How It Works CSS
+=================================================*/
+.how-it-works-area {
+  position: relative;
+  z-index: 1;
+  background-color: #ff1949;
+}
+
+.how-it-works-area::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-image: url(../img/bg-lines.svg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.how-it-works-area .section-title .sub-title {
+  color: #ffffff;
+}
+
+.how-it-works-area .section-title h2 {
+  color: #ffffff;
+}
+
+.single-work-process {
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.single-work-process .icon {
+  width: 90px;
+  height: 90px;
+  position: relative;
+  margin-bottom: 30px;
+  font-size: 50px;
+  color: #ffffff;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  border-width: 2px;
+  border-style: dashed;
+  border-color: rgba(255, 255, 255, 0.8);
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.single-work-process .icon i {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  left: 0;
+  right: 0;
+}
+
+.single-work-process h3 {
+  color: #ffffff;
+  margin-bottom: 12px;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.single-work-process p {
+  color: #ffffff;
+  opacity: 0.95;
+}
+
+.single-work-process::before {
+  content: '';
+  position: absolute;
+  right: -55px;
+  top: 15px;
+  width: 110px;
+  height: 75px;
+  -webkit-transform: rotate(-15deg);
+          transform: rotate(-15deg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/white-arrow.png);
+}
+
+.single-work-process:hover .icon {
+  background-color: #ffffff;
+  color: #ff1949;
+  border-color: #ffffff;
+}
+
+.col-lg-4:nth-child(2) .single-work-process:hover .icon {
+  color: #0eb582;
+}
+
+.col-lg-4:nth-child(2) .single-work-process::before {
+  -webkit-transform: rotate(-10deg);
+          transform: rotate(-10deg);
+}
+
+.col-lg-4:nth-child(3) .single-work-process:hover .icon {
+  color: #fea116;
+}
+
+.col-lg-4:nth-child(3) .single-work-process::before {
+  display: none;
 }

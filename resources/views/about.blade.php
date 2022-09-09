@@ -145,58 +145,197 @@
         </section>
         <!-- End About Area -->
 
+         <!-- Start Offer Area -->
+         <section class="offer-area pt-100 jarallax" data-jarallax='{"speed": 0.3}'>
+            <div class="container">
+                <div class="section-title">
+                    <h2>Inosoft Values</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut nisi ut aliquip ex ea.</p>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-offer-box">
+                            <div class="icon">
+                                <i class='bx bx-run'></i>
+                            </div>
+                            <h3>Exclusive Advisor</h3>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-offer-box">
+                            <div class="icon">
+                                <i class='bx bx-medal'></i>
+                            </div>
+                            <h3>Earn and Get Your Title</h3>
+                            
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
+                        <div class="single-offer-box">
+                            <div class="icon">
+                                <i class='bx bx-key'></i>
+                            </div>
+                            <h3>Collaboration is Key</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Offer Area -->
         <!-- Start Courses Categories Area -->
         <section class="courses-categories-area bg-image pt-100 pb-70">
             <div class="container">
                 <div class="section-title text-left">
                     <h2>Inosoft Values</h2>
                 </div>
-
-                <div class="courses-categories-slides owl-carousel owl-theme">
-                    <div class="single-categories-courses-item bg1 mb-30">
-                        <div class="icon">
-                            <i class='bx bx-code-alt'></i>
-                        </div>
-                        <h3>Web Development</h3>
-                        <span>60 Courses</span>
-
-                        <a href="#" class="learn-more-btn">Learn More <i class='bx bx-book-reader'></i></a>
-
-                        <a href="#" class="link-btn"></a>
-                    </div>
-
-                    <div class="single-categories-courses-item bg2 mb-30">
-                        <div class="icon">
-                            <i class='bx bx-camera'></i>
-                        </div>
-                        <h3>Photography </h3>
-                        <span>21 Courses</span>
-
-                        <a href="#" class="learn-more-btn">Learn More <i class='bx bx-book-reader'></i></a>
-
-                        <a href="#" class="link-btn"></a>
-                    </div>
-
-                    <div class="single-categories-courses-item bg3 mb-30">
-                        <div class="icon">
-                            <i class='bx bx-layer'></i>
-                        </div>
-                        <h3>Graphics Design</h3>
-                        <span>58 Courses</span>
-
-                        <a href="#" class="learn-more-btn">Learn More <i class='bx bx-book-reader'></i></a>
-
-                        <a href="#" class="link-btn"></a>
-                    </div>
-
-                    
-
-                </div>
+                
             </div>
+            <div class="inosoft__area">
+                    <div class="container inosoft__width">
+                        <div class="row">
+                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                                <div class="inosoft__item mb-30 transition-3 white-bg">
+                                    <div class="inosoft__icon mb-30">
+                                        <img style="width:30%" src="assets/img/run.png" alt="This is the icon image">
+                                    </div>
+                                    <div class="inosoft__content">
+                                        <h3 class="inosoft__title-1">Student Life</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                                <div class="inosoft__item  inosoft__item2  mb-30 transition-3 white-bg">
+                                <div class="inosoft__icon mb-30">
+                                        <img style="width:22%" src="assets/img/medal.png" alt="This is the icon image">
+                                    </div>
+                                    <h3 class="inosoft__title-1">Earn and Get Your Title</h3>
+                                    <div class="inosoft__content">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xxl-4 col-xl-4 col-lg-4">
+                                <div class="inosoft__item inosoft__item3  mb-30  transition-3 white-bg">
+                                    <div class="inosoft__icon mb-30">
+                                    <img style="width:30%" src="assets/img/key.png" alt="This is the icon image">
+                                    </div>
+                                    <div class="inosoft__content">
+                                        <h3 class="inosoft__title-1">Collaboration is Key</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
             <div id="particles-js-circle-bubble-2"></div>
         </section>
         <!-- End Courses Categories Area -->
+
+        <!-- Start Funfacts Area -->
+        <section class="funfacts-area ptb-100">
+            <div class="container">
+                <div class="section-title text-center">
+                    <h2>Job Vacancy</h2>
+                </div>
+                <div class="funfacts-inner">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-3 col-6">
+                            <div class="single-funfact">
+                                <div class="icon">
+                                    <i class='bx bxs-chart'></i>
+                                </div>
+                                <p>Business Analyst</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-3 col-6">
+                            <div class="single-funfact">
+                                <div class="icon">
+                                    <i class='bx bx-code-block'></i>
+                                </div>
+                                <p>Junior Developer</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-3 col-6">
+                            <div class="single-funfact">
+                                <div class="icon">
+                                    <i class='bx bx-check-shield'></i>
+                                </div>
+                                <p>Quality Assurance</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-3 col-6">
+                            <div class="single-funfact">
+                                <div class="icon">
+                                    <i class='bx bx-user-pin'></i>
+                                </div>
+                                <p>Project Administrator</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="particles-js-circle-bubble"></div>
+                </div>
+            </div>
+        </section>
+        <!-- End Funfacts Area -->
+
+        <!-- Start How It Works Area -->
+        <section class="how-it-works-area pt-100 pb-70">
+            <div class="container">
+                <div class="section-title">
+                    <h2>Recruitment Process</h2>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-work-process mb-30">
+                            <div class="icon">
+                                <i class='bx bx-search-alt'></i>
+                            </div>
+                            <h3>Apply Job</h3>
+                            <p>Apply job by sending your CV to our email or apply in our LinkedIn vacancy post</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6">
+                        <div class="single-work-process mb-30">
+                            <div class="icon">
+                                <i class='bx bx-info-square'></i>
+                            </div>
+                            <h3>Test & Interviews</h3>
+                            <p>Depend on what you are applying for, you will have to do a series of interviews and/or Technical/Personality Test.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+                        <div class="single-work-process mb-30">
+                            <div class="icon">
+                                <i class='bx bx-like'></i>
+                            </div>
+                            <h3>Job Offering</h3>
+                            <p>At Inosoft, we take good care of our family. We provide competitive basics and more. Talk the needs, we shall listen.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+                        <div class="single-work-process mb-30">
+                            <div class="icon">
+                                <i class='bx bx-like'></i>
+                            </div>
+                            <h3>Welcome to Inosoft</h3>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End How It Works Area -->
 
         <!-- Start Footer Area -->
         <footer class="footer-area">
