@@ -5271,10 +5271,10 @@ blockquote::after, .blockquote::after {
   color: #707175;
 }
 .back-blog-page-single .blog-single-inner .blog-content .author-comment ul li .reply a {
-  color: #2a6df5;
+  color: #1158a5;
 }
 .back-blog-page-single .blog-single-inner .blog-content .author-comment ul li .reply a:hover {
-  color: #2a6df5;
+  color: #1158a5;
 }
 .back-blog-page-single .blog-single-inner .blog-content .author-comment ul li .dsc-comments h4 {
   margin: 0 0 12px;
@@ -5295,8 +5295,8 @@ blockquote::after, .blockquote::after {
 }
 .back-blog-page-single .blog-single-inner .blog-content .author-comment ul li .dsc-comments a:hover {
   color: #ffffff;
-  background: #2a6df5;
-  border-color: #2a6df5;
+  background: #1158a5;
+  border-color: #1158a5;
 }
 .back-blog-page-single .blog-single-inner .blog-content .author-comment ul li .dsc-comments p {
   margin: 12px 0 24px;
@@ -5346,7 +5346,7 @@ blockquote::after, .blockquote::after {
   border: 2px solid #f0f1f5;
 }
 .back-blog-page-single .blog-single-inner .blog-content .blog-form form input:focus {
-  border: 2px solid #2a6df5;
+  border: 2px solid #1158a5;
   background: none;
 }
 .back-blog-page-single .blog-single-inner .blog-content .blog-form form textarea {
@@ -5381,7 +5381,8 @@ blockquote::after, .blockquote::after {
   width: 100%;
 }
 .back-blog-page-single .blog-single-inner .blog-content .blog-form form button:hover {
-  color: #ffffff;
+  color: #000000;
+  background-color: #ffd521;
   opacity: .8;
 }
 .back-blog-page-single .blog-single-inner .blog-content .blog-form form .back-check-box {
@@ -5465,15 +5466,15 @@ blockquote::after, .blockquote::after {
   display: block;
   font-style: normal;
   font-weight: 600;
-  color: #020334;
+  color: #1158a5;
 }
 .back-blog-page-single .single-nav .back-prev a:hover,
 .back-blog-page-single .single-nav .back-next a:hover {
-  color: #2a6df5;
+  color: #1158a5;
 }
 .back-blog-page-single .single-nav .back-prev a:hover em,
 .back-blog-page-single .single-nav .back-next a:hover em {
-  color: #2a6df5;
+  color: #1158a5;
 }
 .back-blog-page-single .single-nav .back-prev {
   position: relative;
@@ -5545,7 +5546,7 @@ blockquote::after, .blockquote::after {
   color: #020334;
 }
 .back-blog-related .container #back-blog-slider li .back-inner .back-blog-content h3:hover {
-  color: #2a6df5;
+  color: #1158a5;
 }
 .back-blog-related .container #back-blog-slider li .back-inner .back-blog-content .back-read-more {
   padding-left: 16px;
@@ -5564,7 +5565,7 @@ blockquote::after, .blockquote::after {
   font-size: 19px;
 }
 .back-blog-related .container #back-blog-slider li .back-inner .back-blog-content .back-read-more a:hover {
-  color: #2a6df5;
+  color: #1158a5;
 }
 .back-blog-related .container #back-blog-slider li .back-inner .back-blog-content ul {
   border-top: 1px solid rgba(2, 3, 52, 0.059);
