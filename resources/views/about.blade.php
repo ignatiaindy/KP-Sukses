@@ -285,8 +285,63 @@
         </section>
         <!-- End Funfacts Area -->
 
-        <!-- Start How It Works Area -->
-        <section class="how-it-works-area pt-100 pb-70">
+      
+
+         <!-- Start Newcomers Area -->
+         <div class="new-comers-area ptb-100">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-16 col-md-12">
+                        <div class="new-comers-image">
+                            <img  style = ""src="assets/img/motivation-course/new-comers/about.jpg" alt="image">
+
+                            <div class="wrap-shape">
+                                <img src="assets/img/motivation-course/new-comers/shape.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-12">
+                        <div class="new-comers-content">
+                            <h3>Inosoft Internship <br>Program</h3>
+                            <p>We provide an opportunity for you to join us. Experience the real challenges of the IT world through the inosoft internship program. You will be included in a project and can be in direct contact with each team member to complete a task.</p>
+                            <div class="row justify-content-center">
+                                <div class="col-lg-6 col-sm-6">
+                                    <ul class="new-comers-list">
+                                        <li>
+                                            <i class='bx bx-check'></i>
+                                            Money-Back Guarantee
+                                        </li>
+                                        <li>
+                                            <i class='bx bx-check'></i>
+                                            Downloadable Resources
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-lg-6 col-sm-6">
+                                    <ul class="new-comers-list">
+                                        <li>
+                                            <i class='bx bx-check'></i>
+                                            Certificate Of Completion
+                                        </li>
+                                        <li>
+                                            <i class='bx bx-check'></i>
+                                            10+ More Lessons
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Newcomers Area -->
+
+          <!-- Start How It Works Area -->
+          <section class="how-it-works-area pt-100 pb-70">
             <div class="container">
                 <div class="section-title">
                     <h2>Recruitment Process</h2>
@@ -336,6 +391,236 @@
             </div>
         </section>
         <!-- End How It Works Area -->
+
+       <!-- Start Newcomers Area -->
+       <div class="new-comers-area ptb-100">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="new-comers-image1">
+                            <img src="assets/img/motivation-course/new-comers/new-comers-3.png" alt="image">
+
+                            <div class="wrap-shape">
+                                <img src="assets/img/motivation-course/new-comers/shape.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-12">
+                        <div class="new-comers-content1">
+                            <span class="sub-title">FEATURED COURSE</span>
+                            <h3>Newcomers will benefit greatly from doing our feature courses</h3>
+                            <h4>We can support student forum 24/7 for national and international students.</h4>
+                            <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae donec velit neque auctor sit amet aliquam vel ullamcorper sit amet ligula quisque velit nisi pretium ut lacinia in elementum id enim.</p>
+                            <div class="row justify-content-center">
+                                <div class="col-lg-6 col-sm-6">
+                                    <ul class="new-comers-list">
+                                        <li>
+                                            <i class='bx bx-check'></i>
+                                            Money-Back Guarantee
+                                        </li>
+                                        <li>
+                                            <i class='bx bx-check'></i>
+                                            Downloadable Resources
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-lg-6 col-sm-6">
+                                    <ul class="new-comers-list">
+                                        <li>
+                                            <i class='bx bx-check'></i>
+                                            Certificate Of Completion
+                                        </li>
+                                        <li>
+                                            <i class='bx bx-check'></i>
+                                            10+ More Lessons
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Newcomers Area -->
+
+        <section class="team-area pt-100 pb-70">
+            <div class="container">
+            <div class="section-title text-center">
+                    <h2>Our Leader</h2>
+                </div>
+                <div class="row">
+                <div class="col-lg-2 col-md-6 col-sm-6">
+                        
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-instructor-box mb-30">
+                            <div class="image">
+                                <img src="assets/img/team/1.jpg" alt="image">
+    
+                                <ul class="social">
+                                    <li><a href="#" target="_blank"><i class="bx bxl-facebook"></i></a></li>
+                                    <li><a href="#" target="_blank"><i class="bx bxl-twitter"></i></a></li>
+                                    <li><a href="#" target="_blank"><i class="bx bxl-linkedin"></i></a></li>
+                                    <li><a href="#" target="_blank"><i class="bx bxl-instagram"></i></a></li>
+                                </ul>
+                            </div>
+    
+                            <div class="content">
+                                <h3><a href="single-instructor.html">Alex Maxwel</a></h3>
+                                <span>CEO & Founder</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-instructor-box mb-30">
+                            <div class="image">
+                                <img src="assets/img/team/2.jpg" alt="image">
+                                
+                                <ul class="social">
+                                    <li><a href="#" target="_blank"><i class="bx bxl-facebook"></i></a></li>
+                                    <li><a href="#" target="_blank"><i class="bx bxl-twitter"></i></a></li>
+                                    <li><a href="#" target="_blank"><i class="bx bxl-linkedin"></i></a></li>
+                                    <li><a href="#" target="_blank"><i class="bx bxl-instagram"></i></a></li>
+                                </ul>
+                            </div>
+
+                            <div class="content">
+                                <h3><a href="single-instructor.html">Sarah Taylor</a></h3>
+                                <span>UX/UI Designer</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+
+                   
+
+                    
+
+                    
+                </div>
+            </div>
+            
+            <div id="particles-js-circle-bubble-3"></div>
+        </section>
+        <!-- End Team Area -->
+         <!-- Start Contact Info Area -->
+         <section class="contact-info-area pt-100 pb-70">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="contact-info-box mb-30">
+                            <div class="icon">
+                                <i class='bx bx-envelope'></i>
+                            </div>
+
+                            <h3>Email Here</h3>
+                            <p>[sinergipeta@gmail.com]</p>
+                            
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="contact-info-box mb-30">
+                            <div class="icon">
+                                <i class='bx bx-map'></i>
+                            </div>
+
+                            <h3>Location Here</h3>
+                            <p><a href="https://goo.gl/maps/KMx2PWp6RyAUmB5b6" target="_blank">Jl. Penjaringan Sari YKP Pandugo 2 No.1, Penjaringan Sari, Kec. Rungkut, Kota SBY, Jawa Timur 60297</a></p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
+                        <div class="contact-info-box mb-30">
+                            <div class="icon">
+                                <i class='bx bx-phone-call'></i>
+                            </div>
+
+                            <h3>Call Here</h3>
+                            <p><a href="tel:(031)8700688">(031) 8700688</a></p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="particles-js-circle-bubble-2"></div>
+        </section>
+        <!-- End Contact Info Area -->
+
+        <!-- Start Contact Area -->
+        <section class="contact-area pb-100">
+            <div class="container">
+                <div class="section-title">
+                    <span class="sub-title">Contact Us</span>
+                    <h2>Drop us Message for any Query</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                </div>
+
+                <div class="contact-form">
+                    <form id="contactForm">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-12">
+                                <div class="form-group">
+                                    <input type="text" name="name" id="name" class="form-control" required data-error="Please enter your name" placeholder="Your Name">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 col-md-12">
+                                <div class="form-group">
+                                    <input type="email" name="email" id="email" class="form-control" required data-error="Please enter your email" placeholder="Your Email">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 col-md-12">
+                                <div class="form-group">
+                                    <input type="text" name="phone_number" id="phone_number" required data-error="Please enter your number" class="form-control" placeholder="Your Phone">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 col-md-12">
+                                <div class="form-group">
+                                    <input type="text" name="msg_subject" id="msg_subject" class="form-control" required data-error="Please enter your subject" placeholder="Your Subject">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-12 col-md-12">
+                                <div class="form-group">
+                                    <textarea name="message" class="form-control" id="message" cols="30" rows="5" required data-error="Write your message" placeholder="Your Message"></textarea>
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-12 col-md-12">
+                                <button type="submit" class="default-btn"><i class='bx bx-paper-plane icon-arrow before'></i><span class="label">Send Message</span><i class="bx bx-paper-plane icon-arrow after"></i></button>
+                                <div id="msgSubmit" class="h3 text-center hidden"></div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+       
+            <div class="contact-bg-image"><img src="assets/img/map.png" alt="image"></div>
+        </section>
+        <!-- End Contact Area -->
+
+        <!-- Maps -->
+        <div id="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.3259286950433!2d112.78667541486033!3d-7.317236394719128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fa92e2895ff3%3A0x738868d76a74a8f!2sInosoft%20Trans%20Sistem!5e0!3m2!1sen!2sid!4v1662795369782!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        <!-- End Maps -->
 
         <!-- Start Footer Area -->
         <footer class="footer-area">
