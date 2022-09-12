@@ -191,6 +191,23 @@ img {
   margin-bottom: 15px;
 }
 
+.default-btn4 {
+  -webkit-transition: 0.5s;
+ transition: 0.5s;
+ display: inline-block;
+ padding: 13px 25px 12px 25px;
+ position: relative;
+ background-color: rgba(16, 86, 162, 1);
+ color: #ffffff;
+ border-width: 2px;
+ border-style: solid;
+ border-color: rgba(16, 86, 162, 1);
+ border-radius: 5px;
+ font-size: 14.5px;
+ font-weight: 700;
+ margin-top: 50px;
+}
+
 .default-btn .label, .default-btn .icon-arrow {
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
@@ -2526,7 +2543,13 @@ Offer CSS
   background-size: cover;
   background-repeat: no-repeat;
 }
-
+.offer-areaa {
+  position: relative;
+  z-index: 1;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 50px;
+}
 
 .offer-area .section-title h2 {
   color: #000000;
@@ -3609,11 +3632,6 @@ Courses Details CSS
 .courses-sidebar-syllabus .courses-list:last-child {
   margin-bottom: 0;
 }
-
-/*================================================
-Team CSS
-=================================================*/
-
 
 /*================================================
 Testimonials CSS
@@ -7159,6 +7177,7 @@ Contact CSS
   overflow: hidden;
   position: relative;
   z-index: 1;
+  
 }
 
 .contact-info-box {
@@ -7303,8 +7322,8 @@ Contact CSS
 #contactForm .default-btn {
   border-radius: 30px;
   margin-top: 10px;
-  -webkit-box-shadow: 0 5px 28.5px 1.5px rgba(255, 25, 73, 0.2);
-          box-shadow: 0 5px 28.5px 1.5px rgba(255, 25, 73, 0.2);
+  -webkit-box-shadow: 0 5px 28.5px 1.5px rgba(12, 88, 165, 0.1);
+          box-shadow: 0 5px 28.5px 1.5px rgba(12, 88, 165, 0.1);
 }
 
 #contactForm .default-btn:hover, #contactForm .default-btn:focus {
@@ -10842,6 +10861,7 @@ Funfacts CSS
 =================================================*/
 .funfacts-area {
   overflow: hidden;
+  margin-top: 50px;
 }
 
 .funfacts-inner {
@@ -10942,7 +10962,7 @@ How It Works CSS
 .how-it-works-area {
   position: relative;
   z-index: 1;
-  background-color: #ff1949;
+  background-color: #1158a5;
 }
 
 .how-it-works-area::before {
@@ -11027,15 +11047,72 @@ How It Works CSS
   background-repeat: no-repeat;
   background-image: url(../img/white-arrow.png);
 }
+.single-work-process1 {
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.single-work-process1 .icon {
+  width: 90px;
+  height: 90px;
+  position: relative;
+  margin-bottom: 30px;
+  font-size: 50px;
+  color: #ffffff;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  border-width: 2px;
+  border-style: dashed;
+  border-color: rgba(255, 255, 255, 0.8);
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.single-work-process1 .icon i {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  left: 0;
+  right: 0;
+}
+
+.single-work-process1 h3 {
+  color: #ffffff;
+  margin-bottom: 12px;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.single-work-process1 p {
+  color: #ffffff;
+  opacity: 0.95;
+}
+.single-work-process1::before {
+  content: '';
+  position: absolute;
+  right: -55px;
+  top: 15px;
+  width: 110px;
+  height: 75px;
+  -webkit-transform: rotate(-15deg);
+          transform: rotate(-15deg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
 .single-work-process:hover .icon {
   background-color: #ffffff;
-  color: #ff1949;
+  color: #1158a5;
   border-color: #ffffff;
 }
 
 .col-lg-4:nth-child(2) .single-work-process:hover .icon {
-  color: #0eb582;
+  color: #1158a5;
 }
 
 .col-lg-4:nth-child(2) .single-work-process::before {
@@ -11133,7 +11210,7 @@ Newcomers Area CSS
   line-height: 20px;
   text-align: center;
   border-radius: 50px;
-  background-color: #ff1949;
+  background-color: #1158a5;
   color: #ffffff;
   font-size: 14px;
   position: absolute;
@@ -11169,7 +11246,7 @@ Newcomers Area CSS
 .new-comers-content1 .sub-title {
   text-transform: uppercase;
   display: block;
-  color: #ff1949;
+  color: #1158a5;
   font-weight: 500;
   margin-bottom: 12px;
 }
@@ -11227,7 +11304,7 @@ Newcomers Area CSS
   line-height: 20px;
   text-align: center;
   border-radius: 50px;
-  background-color: #ff1949;
+  background-color: #1158a5;
   color: #ffffff;
   font-size: 14px;
   position: absolute;
@@ -11410,7 +11487,7 @@ Team CSS
 }
 
 .single-instructor-box .image {
-  border: 4px solid #ffcbd6;
+  border: 4px solid #1158a5;
   padding: 10px;
   position: relative;
   overflow: hidden;
@@ -11530,7 +11607,7 @@ Team CSS
 }
 
 .owl-item:nth-child(2) .single-instructor-box .image, .owl-item:nth-child(6) .single-instructor-box .image, .col-lg-4:nth-child(2) .single-instructor-box .image, .col-lg-4:nth-child(6) .single-instructor-box .image {
-  border-color: #ffe5be;
+  border-color: #98c4f5;
 }
 
 .owl-item:nth-child(2) .single-instructor-box .image .social li a:hover, .owl-item:nth-child(6) .single-instructor-box .image .social li a:hover, .col-lg-4:nth-child(2) .single-instructor-box .image .social li a:hover, .col-lg-4:nth-child(6) .single-instructor-box .image .social li a:hover {
@@ -11539,28 +11616,28 @@ Team CSS
 }
 
 .owl-item:nth-child(2) .single-instructor-box .content span, .owl-item:nth-child(6) .single-instructor-box .content span, .col-lg-4:nth-child(2) .single-instructor-box .content span, .col-lg-4:nth-child(6) .single-instructor-box .content span {
-  color: #fea116;
+  color: #1158a5;
 }
 
 .owl-item:nth-child(2) .single-instructor-box:hover .image, .owl-item:nth-child(6) .single-instructor-box:hover .image, .col-lg-4:nth-child(2) .single-instructor-box:hover .image, .col-lg-4:nth-child(6) .single-instructor-box:hover .image {
-  border-color: #fea116;
+  border-color: #1158a5;
 }
 
 .owl-item:nth-child(3) .single-instructor-box .image, .owl-item:nth-child(5) .single-instructor-box .image, .col-lg-4:nth-child(3) .single-instructor-box .image, .col-lg-4:nth-child(5) .single-instructor-box .image {
-  border-color: #b2f3df;
+  border-color: #98c4f5;
 }
 
 .owl-item:nth-child(3) .single-instructor-box .image .social li a:hover, .owl-item:nth-child(5) .single-instructor-box .image .social li a:hover, .col-lg-4:nth-child(3) .single-instructor-box .image .social li a:hover, .col-lg-4:nth-child(5) .single-instructor-box .image .social li a:hover {
   color: #ffffff;
-  background-color: #0eb582;
+  background-color: #fea116;
 }
 
 .owl-item:nth-child(3) .single-instructor-box .content span, .owl-item:nth-child(5) .single-instructor-box .content span, .col-lg-4:nth-child(3) .single-instructor-box .content span, .col-lg-4:nth-child(5) .single-instructor-box .content span {
-  color: #0eb582;
+  color: #1158a5;
 }
 
 .owl-item:nth-child(3) .single-instructor-box:hover .image, .owl-item:nth-child(5) .single-instructor-box:hover .image, .col-lg-4:nth-child(3) .single-instructor-box:hover .image, .col-lg-4:nth-child(5) .single-instructor-box:hover .image {
-  border-color: #0eb582;
+  border-color: #1158a5;
 }
 
 .team-slides.owl-theme .owl-nav {
@@ -11583,7 +11660,7 @@ Team CSS
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  opacity: 0;
+  opacity: 0; 
   visibility: hidden;
   border-radius: 50%;
   border-style: solid;

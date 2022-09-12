@@ -115,6 +115,17 @@
         </header>
         <!-- End Header Area -->
 
+        <!-- Start Page Title Area -->
+        <div class="page-title-area item-bg3 jarallax" data-jarallax='{"speed": 0.3}'>
+            <div class="container">
+                <div class="page-title-content">
+                    <a class="default-btn3">Inosoft Bootcamp</a>
+                    <h2>About</h2>
+                </div>
+            </div>
+        </div>
+        <!-- End Page Title Area -->
+
        <!-- Start About Area -->
        <section class="about-area pt-100">
             <div class="container-fluid">
@@ -146,11 +157,10 @@
         <!-- End About Area -->
 
          <!-- Start Offer Area -->
-         <section class="offer-area pt-100 jarallax" data-jarallax='{"speed": 0.3}'>
+         <section class="offer-areaa pt-100 jarallax" data-jarallax='{"speed": 0.3}'>
             <div class="container">
                 <div class="section-title">
                     <h2>Inosoft Values</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut nisi ut aliquip ex ea.</p>
                 </div>
 
                 <div class="row">
@@ -159,7 +169,7 @@
                             <div class="icon">
                                 <i class='bx bx-run'></i>
                             </div>
-                            <h3>Exclusive Advisor</h3>
+                            <h3>Student Life</h3>
                         </div>
                     </div>
 
@@ -185,54 +195,7 @@
             </div>
         </section>
         <!-- End Offer Area -->
-        <!-- Start Courses Categories Area -->
-        <section class="courses-categories-area bg-image pt-100 pb-70">
-            <div class="container">
-                <div class="section-title text-left">
-                    <h2>Inosoft Values</h2>
-                </div>
-                
-            </div>
-            <div class="inosoft__area">
-                    <div class="container inosoft__width">
-                        <div class="row">
-                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                                <div class="inosoft__item mb-30 transition-3 white-bg">
-                                    <div class="inosoft__icon mb-30">
-                                        <img style="width:30%" src="assets/img/run.png" alt="This is the icon image">
-                                    </div>
-                                    <div class="inosoft__content">
-                                        <h3 class="inosoft__title-1">Student Life</h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                                <div class="inosoft__item  inosoft__item2  mb-30 transition-3 white-bg">
-                                <div class="inosoft__icon mb-30">
-                                        <img style="width:22%" src="assets/img/medal.png" alt="This is the icon image">
-                                    </div>
-                                    <h3 class="inosoft__title-1">Earn and Get Your Title</h3>
-                                    <div class="inosoft__content">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xxl-4 col-xl-4 col-lg-4">
-                                <div class="inosoft__item inosoft__item3  mb-30  transition-3 white-bg">
-                                    <div class="inosoft__icon mb-30">
-                                    <img style="width:30%" src="assets/img/key.png" alt="This is the icon image">
-                                    </div>
-                                    <div class="inosoft__content">
-                                        <h3 class="inosoft__title-1">Collaboration is Key</h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            <div id="particles-js-circle-bubble-2"></div>
-        </section>
-        <!-- End Courses Categories Area -->
+        
 
         <!-- Start Funfacts Area -->
         <section class="funfacts-area ptb-100">
@@ -294,10 +257,6 @@
                     <div class="col-lg-16 col-md-12">
                         <div class="new-comers-image">
                             <img  style = ""src="assets/img/motivation-course/new-comers/about.jpg" alt="image">
-
-                            <div class="wrap-shape">
-                                <img src="assets/img/motivation-course/new-comers/shape.png" alt="image">
-                            </div>
                         </div>
                     </div>
 
@@ -305,16 +264,18 @@
                         <div class="new-comers-content">
                             <h3>Inosoft Internship <br>Program</h3>
                             <p>We provide an opportunity for you to join us. Experience the real challenges of the IT world through the inosoft internship program. You will be included in a project and can be in direct contact with each team member to complete a task.</p>
+                            <br>
+                            <h4>Benefit :</h4>
                             <div class="row justify-content-center">
                                 <div class="col-lg-6 col-sm-6">
                                     <ul class="new-comers-list">
                                         <li>
                                             <i class='bx bx-check'></i>
-                                            Money-Back Guarantee
+                                            Expand Network Professionally
                                         </li>
                                         <li>
                                             <i class='bx bx-check'></i>
-                                            Downloadable Resources
+                                            Learn From Experts (Mentorship)
                                         </li>
                                     </ul>
                                 </div>
@@ -323,11 +284,11 @@
                                     <ul class="new-comers-list">
                                         <li>
                                             <i class='bx bx-check'></i>
-                                            Certificate Of Completion
+                                            Special Development Program
                                         </li>
                                         <li>
                                             <i class='bx bx-check'></i>
-                                            10+ More Lessons
+                                            Certificate & Recommendation Letter
                                         </li>
                                     </ul>
                                 </div>
@@ -348,7 +309,7 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-3 col-md-6">
                         <div class="single-work-process mb-30">
                             <div class="icon">
                                 <i class='bx bx-search-alt'></i>
@@ -358,7 +319,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-3 col-md-6">
                         <div class="single-work-process mb-30">
                             <div class="icon">
                                 <i class='bx bx-info-square'></i>
@@ -368,7 +329,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+                    <div class="col-lg-3 col-md-6 offset-lg-0 offset-md-3">
                         <div class="single-work-process mb-30">
                             <div class="icon">
                                 <i class='bx bx-like'></i>
@@ -378,8 +339,8 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
-                        <div class="single-work-process mb-30">
+                    <div class="col-lg-3 col-md-6 offset-lg-0 offset-md-3">
+                        <div class="single-work-process1 mb-30">
                             <div class="icon">
                                 <i class='bx bx-like'></i>
                             </div>
@@ -408,20 +369,28 @@
 
                     <div class="col-lg-6 col-md-12">
                         <div class="new-comers-content1">
-                            <span class="sub-title">FEATURED COURSE</span>
-                            <h3>Newcomers will benefit greatly from doing our feature courses</h3>
-                            <h4>We can support student forum 24/7 for national and international students.</h4>
-                            <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae donec velit neque auctor sit amet aliquam vel ullamcorper sit amet ligula quisque velit nisi pretium ut lacinia in elementum id enim.</p>
+                            <h3>Inosoft Bootcamp</h3>
+                            <p>With decades of experience in the IT industry, Inosoft has worked with many IT professionals. Now is the time for us to get involved one step earlier. We want to be a place for the birth of reliable IT personnel through the Bootcamp program. In this Bootcamp, we translate the real needs of the IT industry into a curriculum that focuses not only on theory but also on the real practice of working on IT projects</p>
+                            <br>
+                            <h4>Benefit :</h4>
                             <div class="row justify-content-center">
                                 <div class="col-lg-6 col-sm-6">
                                     <ul class="new-comers-list">
                                         <li>
                                             <i class='bx bx-check'></i>
-                                            Money-Back Guarantee
+                                            Bootcamp selama 3 bulan
                                         </li>
                                         <li>
                                             <i class='bx bx-check'></i>
-                                            Downloadable Resources
+                                            Kelas Online
+                                        </li>
+                                        <li>
+                                            <i class='bx bx-check'></i>
+                                            Waktu Fleksibel
+                                        </li>
+                                        <li>
+                                            <i class='bx bx-check'></i>
+                                            Diajarkan dari NOL
                                         </li>
                                     </ul>
                                 </div>
@@ -430,16 +399,22 @@
                                     <ul class="new-comers-list">
                                         <li>
                                             <i class='bx bx-check'></i>
-                                            Certificate Of Completion
+                                            Mendapatkan Sertifikat
                                         </li>
                                         <li>
                                             <i class='bx bx-check'></i>
-                                            10+ More Lessons
+                                            Kelas & Grup Diskusi dengan Mentor
+                                        </li>
+                                        <li>
+                                            <i class='bx bx-check'></i>
+                                            Peluang kerja
                                         </li>
                                     </ul>
                                 </div>
                             </div>
-                            
+                            <div class="btn-box pt-50">
+                                <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" class="default-btn4">Daftar</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -470,7 +445,7 @@
                             </div>
     
                             <div class="content">
-                                <h3><a href="single-instructor.html">Alex Maxwel</a></h3>
+                                <h3>Alex Maxwel</h3>
                                 <span>CEO & Founder</span>
                             </div>
                         </div>
@@ -490,7 +465,7 @@
                             </div>
 
                             <div class="content">
-                                <h3><a href="single-instructor.html">Sarah Taylor</a></h3>
+                                <h3>Sarah Taylor</h3>
                                 <span>UX/UI Designer</span>
                             </div>
                         </div>
@@ -521,7 +496,8 @@
 
                             <h3>Email Here</h3>
                             <p>[sinergipeta@gmail.com]</p>
-                            
+                            <br>
+                            <br>
                         </div>
                     </div>
 
@@ -544,7 +520,8 @@
 
                             <h3>Call Here</h3>
                             <p><a href="tel:(031)8700688">(031) 8700688</a></p>
-                            
+                            <br>
+                            <br>
                         </div>
                     </div>
                 </div>
