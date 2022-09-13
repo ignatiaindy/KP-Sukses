@@ -1,10 +1,16 @@
+<?php 
+    $kalimat    ="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+    $tampil_sebagian    =substr($kalimat, 0, 130);
+    $tampil_sebagian1    =substr($kalimat, 0, 230);
+   
+?>
 <!doctype html>
 <html lang="zxx" class="theme-light">
     
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<!-- apap -->
+
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/css/boxicons.min.css">
         <link rel="stylesheet" href="assets/css/flaticon.css">
@@ -130,7 +136,7 @@
         <section class="blog-area ptb-100">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-4  col-md-6">
                         <div class="single-blog-post mb-30">
                             <div class="post-image">
                                 <a href="Ngoding-with-view" class="d-block">
@@ -151,8 +157,15 @@
                                     <li><a href="#">August 30, 2022</a></li>
                                 </ul>
                                 <h3><a href="Ngoding-with-view" class="d-inline-block">Information Technology and Communication (ICT)dan Strategi pembelajaran</a></h3>
-                                <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
+                                <p><?php echo $tampil_sebagian;?> <a href="#"> </a></p>
                             </div>
+                            <div class="post-image">
+                                
+                            
+                                        <a class="tag-btn1">Learning</a>
+                               
+                            </div>
+    
                         </div>
                     </div>
 
@@ -176,9 +189,14 @@
                                     </li>
                                     <li><a href="#">August 29, 2022</a></li>
                                 </ul>
+
                                 <h3><a href="Ngoding-with-view" class="d-inline-block">Frontend Development</a></h3>
-                                <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
+                                <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
+                            <div class="btn-box">
+                                        <a class="tag-btn2">Learning</a>
+                                    </div>
+                            
                         </div>
                     </div>
 
@@ -203,8 +221,11 @@
                                     <li><a href="#">August 28, 2022</a></li>
                                 </ul>
                                 <h3><a href="Ngoding-with-view" class="d-inline-block">Pentingnya membuat to do list</a></h3>
-                                <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
+                                <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
+                            <div class="btn-box">
+                                        <a class="tag-btn2">Learning</a>
+                                    </div>
                         </div>
                     </div>
 
@@ -229,8 +250,11 @@
                                     <li><a href="#">August 27, 2022</a></li>
                                 </ul>
                                 <h3><a href="Ngoding-with-view" class="d-inline-block">Frontend Development</a></h3>
-                                <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
+                                <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
+                            <div class="btn-box">
+                                        <a class="tag-btn2">Learning</a>
+                                    </div>
                         </div>
                     </div>
 
@@ -255,8 +279,11 @@
                                     <li><a href="#">August 26, 2022</a></li>
                                 </ul>
                                 <h3><a href="Ngoding-with-view" class="d-inline-block">Qiu Jin Snack</a></h3>
-                                <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
+                                <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
+                            <div class="btn-box">
+                                        <a class="tag-btn2">Learning</a>
+                                    </div>
                         </div>
                     </div>
 
@@ -281,8 +308,11 @@
                                     <li><a href="#">August 29, 2022</a></li>
                                 </ul>
                                 <h3><a href="Ngoding-with-view" class="d-inline-block">Jelajah Waktu</a></h3>
-                                <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
+                                <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
+                            <div class="btn-box">
+                                        <a class="tag-btn2">Learning</a>
+                                    </div>
                         </div>
                     </div>
 
@@ -307,8 +337,11 @@
                                     <li><a href="#">August 30, 2022</a></li>
                                 </ul>
                                 <h3><a href="Ngoding-with-view" class="d-inline-block">Penerapan IoT dalam kehidupan sehari-hari</a></h3>
-                                <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
+                                <p><?php echo $tampil_sebagian;?> <a href="#"> </a></p>
                             </div>
+                            <div class="btn-box">
+                                        <a class="tag-btn3">Learning</a>
+                                    </div>
                         </div>
                     </div>
 
@@ -333,8 +366,12 @@
                                     <li><a href="#">August 29, 2022</a></li>
                                 </ul>
                                 <h3><a href="Ngoding-with-view" class="d-inline-block">PDKT dengan Laravel</a></h3>
-                                <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
+                                <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
+                                
                             </div>
+                            <div class="btn-box">
+                                        <a class="tag-btn2">Learning</a>
+                                    </div>
                         </div>
                     </div>
 
@@ -359,8 +396,11 @@
                                     <li><a href="#">August 28, 2022</a></li>
                                 </ul>
                                 <h3><a href="Ngoding-with-view" class="d-inline-block">Laravel bestie ku</a></h3>
-                                <a href="#" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
+                                <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
+                            <div class="btn-box">
+                                        <a class="tag-btn2">Learning</a>
+                                    </div>
                         </div>
                     </div>
 

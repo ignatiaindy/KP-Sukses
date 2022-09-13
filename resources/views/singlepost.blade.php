@@ -224,8 +224,12 @@
                                         <div class="author-comment">
                                             <h4 class="title-comments">3 Comments</h4>
                                             <ul>
+                                                
                                                 <li>
                                                     <div class="row">
+                                                    <div class="col-lg-1">
+                                                            <div class="image-comments"><img src="assets/img/anon.jpg" alt=""> </div>
+                                                        </div>
                                                         <div class="col-lg-11">                            
                                                             <div class="dsc-comments">
                                                                 <h6>Saya</h6>  
@@ -238,7 +242,11 @@
                                                 </li>
                                                 <li>
                                                     <div class="row">
-                                                        <div class="col-lg-11">                                   
+                                                    <div class="col-lg-1">
+                                                            <div class="image-comments"><img src="assets/img/anon.jpg" alt=""> </div>
+                                                        </div>
+                                                        
+                                                    <div class="col-lg-11">                                   
                                                             <div class="dsc-comments">
                                                                 <h6>Aku</h6> 
                                                                 <span class="reply"> <span class="date">08 September 2022 </span></span>     
@@ -250,6 +258,9 @@
                                                 </li>  
                                                 <li>
                                                     <div class="row">
+                                                    <div class="col-lg-1">
+                                                            <div class="image-comments"><img src="assets/img/anon.jpg" alt=""> </div>
+                                                        </div>
                                                         
                                                         <div class="col-lg-11">                                   
                                                             <div class="dsc-comments">
