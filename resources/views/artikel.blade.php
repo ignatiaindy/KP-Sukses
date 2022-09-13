@@ -142,10 +142,6 @@
                                 <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/1.jpg" alt="image">
                                 </a>
-    
-                                <div class="tag">
-                                    <a href="#">Learning</a>
-                                </div>
                             </div>
     
                             <div class="post-content">
@@ -160,12 +156,8 @@
                                 <p><?php echo $tampil_sebagian;?> <a href="#"> </a></p>
                             </div>
                             <div class="post-image">
-                                
-                            
-                                        <a class="tag-btn1">Learning</a>
-                               
+                                <a class="tag-btn1">Learning</a>
                             </div>
-    
                         </div>
                     </div>
 
@@ -175,10 +167,6 @@
                                 <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/2.jpg" alt="image">
                                 </a>
-
-                                <div class="tag">
-                                    <a href="#">Education</a>
-                                </div>
                             </div>
 
                             <div class="post-content">
@@ -194,9 +182,8 @@
                                 <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
                             <div class="btn-box">
-                                        <a class="tag-btn2">Learning</a>
-                                    </div>
-                            
+                                <a class="tag-btn2">Learning</a>
+                            </div>
                         </div>
                     </div>
 
@@ -206,10 +193,6 @@
                                 <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/3.jpg" alt="image">
                                 </a>
-
-                                <div class="tag">
-                                    <a href="#">Management</a>
-                                </div>
                             </div>
 
                             <div class="post-content">
@@ -224,8 +207,8 @@
                                 <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
                             <div class="btn-box">
-                                        <a class="tag-btn2">Learning</a>
-                                    </div>
+                                <a class="tag-btn2">Learning</a>
+                            </div>
                         </div>
                     </div>
 
@@ -235,10 +218,6 @@
                                 <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/4.jpg" alt="image">
                                 </a>
-
-                                <div class="tag">
-                                    <a href="#">Ideas</a>
-                                </div>
                             </div>
 
                             <div class="post-content">
@@ -253,8 +232,8 @@
                                 <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
                             <div class="btn-box">
-                                        <a class="tag-btn2">Learning</a>
-                                    </div>
+                                <a class="tag-btn2">Learning</a>
+                            </div>
                         </div>
                     </div>
 
@@ -264,10 +243,6 @@
                                 <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/5.jpg" alt="image">
                                 </a>
-
-                                <div class="tag">
-                                    <a href="#">Workforce</a>
-                                </div>
                             </div>
 
                             <div class="post-content">
@@ -293,10 +268,6 @@
                                 <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/6.jpg" alt="image">
                                 </a>
-
-                                <div class="tag">
-                                    <a href="#">Education</a>
-                                </div>
                             </div>
 
                             <div class="post-content">
@@ -311,8 +282,8 @@
                                 <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
                             <div class="btn-box">
-                                        <a class="tag-btn2">Learning</a>
-                                    </div>
+                                <a class="tag-btn2">Learning</a>
+                            </div>
                         </div>
                     </div>
 
@@ -322,10 +293,6 @@
                                 <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/7.jpg" alt="image">
                                 </a>
-    
-                                <div class="tag">
-                                    <a href="#">Learning</a>
-                                </div>
                             </div>
     
                             <div class="post-content">
@@ -340,8 +307,8 @@
                                 <p><?php echo $tampil_sebagian;?> <a href="#"> </a></p>
                             </div>
                             <div class="btn-box">
-                                        <a class="tag-btn3">Learning</a>
-                                    </div>
+                                <a class="tag-btn3">Learning</a>
+                            </div>
                         </div>
                     </div>
 
@@ -351,10 +318,6 @@
                                 <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/8.jpg" alt="image">
                                 </a>
-
-                                <div class="tag">
-                                    <a href="#">Education</a>
-                                </div>
                             </div>
 
                             <div class="post-content">
@@ -370,8 +333,8 @@
                                 
                             </div>
                             <div class="btn-box">
-                                        <a class="tag-btn2">Learning</a>
-                                    </div>
+                                <a class="tag-btn2">Learning</a>
+                            </div>
                         </div>
                     </div>
 
@@ -381,10 +344,6 @@
                                 <a href="Ngoding-with-view" class="d-block">
                                     <img src="assets/img/blog/9.jpg" alt="image">
                                 </a>
-
-                                <div class="tag">
-                                    <a href="#">Nydhea</a>
-                                </div>
                             </div>
 
                             <div class="post-content">
@@ -399,8 +358,8 @@
                                 <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
                             <div class="btn-box">
-                                        <a class="tag-btn2">Learning</a>
-                                    </div>
+                                <a class="tag-btn2">Learning</a>
+                            </div>
                         </div>
                     </div>
 
