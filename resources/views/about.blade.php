@@ -63,7 +63,7 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="#" class="nav-link active">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link ">Home <i class=''></i></a>
                                     </li>
                                     <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
@@ -72,7 +72,7 @@
                                             <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
+                                    <li class="nav-item"><a href="about" class="nav-link active">About Us</a></li>
                                     
                                 </div>
                             </div>
@@ -165,7 +165,7 @@
 
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-offer-box">
+                        <div class="single-offer-box1">
                             <div class="icon">
                                 <i class='bx bx-run'></i>
                             </div>
@@ -174,7 +174,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-offer-box">
+                        <div class="single-offer-box1">
                             <div class="icon">
                                 <i class='bx bx-medal'></i>
                             </div>
@@ -184,7 +184,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
-                        <div class="single-offer-box">
+                        <div class="single-offer-box1">
                             <div class="icon">
                                 <i class='bx bx-key'></i>
                             </div>
@@ -434,7 +434,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-instructor-box mb-30">
                             <div class="image">
-                                <img src="assets/img/team/1.jpg" alt="image">
+                            <img src="assets/img/anonim.jpg" alt="image">
     
                                 <ul class="social">
                                     <li><a href="#" target="_blank"><i class="bx bxl-facebook"></i></a></li>
@@ -445,8 +445,8 @@
                             </div>
     
                             <div class="content">
-                                <h3>Alex Maxwel</h3>
-                                <span>CEO & Founder</span>
+                                <h3>Pande K. Yokarmana</h3>
+                                <span>Founder & CEO</span>
                             </div>
                         </div>
                     </div>
@@ -454,7 +454,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-instructor-box mb-30">
                             <div class="image">
-                                <img src="assets/img/team/2.jpg" alt="image">
+                                <img src="assets/img/anonim.jpg" alt="image">
                                 
                                 <ul class="social">
                                     <li><a href="#" target="_blank"><i class="bx bxl-facebook"></i></a></li>
@@ -465,8 +465,8 @@
                             </div>
 
                             <div class="content">
-                                <h3>Sarah Taylor</h3>
-                                <span>UX/UI Designer</span>
+                                <h3>Agustinus Winata</h3>
+                                <span>Co-Founder & CTO</span>
                             </div>
                         </div>
                     </div>

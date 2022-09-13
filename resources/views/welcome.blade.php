@@ -482,7 +482,7 @@
                                 <h3><a href="Ngoding-with-view" class="d-inline-block">Ngoding With View</a></h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Montes porta.</p>
 
-                                <a href="Ngoding-with-view" class="read-more-btn">Read More</a>
+                                
                             </div>
                         </div>
                     </div>
@@ -509,7 +509,7 @@
                                 <h3><a href="Ngoding-with-view" class="d-inline-block">Interview</a></h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Montes porta.</p>
 
-                                <a href="Ngoding-with-view" class="read-more-btn">Read More</a>
+                                
                             </div>
                         </div>
                     </div>
@@ -536,7 +536,7 @@
                                 <h3><a href="Ngoding-with-view" class="d-inline-block">Backend Programming </a></h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Montes porta.</p>
 
-                                <a href="Ngoding-with-view" class="read-more-btn">Read More</a>
+                               
                             </div>
                         </div>
                     </div> 
