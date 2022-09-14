@@ -155,7 +155,7 @@
                                 <h3><a href="Ngoding-with-view" class="d-inline-block">Information Technology and Communication (ICT)dan Strategi pembelajaran</a></h3>
                                 <p><?php echo $tampil_sebagian;?> <a href="#"> </a></p>
                             </div>
-                            <div class="post-image">
+                            <div class="btn-box">
                                 <a class="tag-btn1">Learning</a>
                             </div>
                         </div>
