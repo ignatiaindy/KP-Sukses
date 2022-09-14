@@ -156,7 +156,7 @@
                                 <p><?php echo $tampil_sebagian;?> <a href="#"> </a></p>
                             </div>
                             <div class="btn-box">
-                                <a class="tag-btn1">Learning</a>
+                                <a class="tag-btn1">Tips</a>
                             </div>
                         </div>
                     </div>
@@ -182,7 +182,7 @@
                                 <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
                             <div class="btn-box">
-                                <a class="tag-btn2">Learning</a>
+                                <a class="tag-btn2">News</a>
                             </div>
                         </div>
                     </div>
@@ -207,7 +207,7 @@
                                 <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
                             <div class="btn-box">
-                                <a class="tag-btn2">Learning</a>
+                                <a class="tag-btn2">Academy</a>
                             </div>
                         </div>
                     </div>
@@ -232,7 +232,7 @@
                                 <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
                             <div class="btn-box">
-                                <a class="tag-btn2">Learning</a>
+                                <a class="tag-btn2">Tips</a>
                             </div>
                         </div>
                     </div>
@@ -257,7 +257,7 @@
                                 <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
                             <div class="btn-box">
-                                        <a class="tag-btn2">Learning</a>
+                                        <a class="tag-btn2">News</a>
                                     </div>
                         </div>
                     </div>
@@ -282,7 +282,7 @@
                                 <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
                             <div class="btn-box">
-                                <a class="tag-btn2">Learning</a>
+                                <a class="tag-btn2">Academy</a>
                             </div>
                         </div>
                     </div>
@@ -307,7 +307,7 @@
                                 <p><?php echo $tampil_sebagian;?> <a href="#"> </a></p>
                             </div>
                             <div class="btn-box">
-                                <a class="tag-btn3">Learning</a>
+                                <a class="tag-btn3">Tips</a>
                             </div>
                         </div>
                     </div>
@@ -333,7 +333,7 @@
                                 
                             </div>
                             <div class="btn-box">
-                                <a class="tag-btn2">Learning</a>
+                                <a class="tag-btn2">News</a>
                             </div>
                         </div>
                     </div>
@@ -358,7 +358,7 @@
                                 <p><?php echo $tampil_sebagian1;?> <a href="#"> </a></p>
                             </div>
                             <div class="btn-box">
-                                <a class="tag-btn2">Learning</a>
+                                <a class="tag-btn2">Academy</a>
                             </div>
                         </div>
                     </div>
