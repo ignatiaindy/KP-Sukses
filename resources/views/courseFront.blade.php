@@ -397,21 +397,33 @@
                             <span class="chapter">Preparation</span>
                             <h4>Tools</h4>
 
-                            <div class="courses-sidebar-information1">
-                            <ul>
+                            <div class="information-content">
+                            <ul class="apply-details">
                                 <li>
-                                    <span><i class='bx bx'><iconify-icon icon="uil:book-open"></iconify-icon></i>
-                                    
+                                    <div class="icon">
+                                        <i class="bx bx-pen my-auto mx-auto"></i>
+                                    </div>
+                                    <h3>PENDAFTARAN</h3>
+                                    <p>Dilakukan dengan cara mengisi formulir <br>pada tanggal 
+                                        1 - 24 Juli 2022</p>
                                 </li>
+
                                 <li>
-                                    <span><i class='bx bx'><iconify-icon icon="uil:book-open"></iconify-icon></i>
+                                    <div class="icon">
+                                        <i class="bx bx-list-ul my-auto mx-auto"></i>
+                                    </div>
+                                    <h3>SELEKSI</h3>
+                                    <p>Dilakukan secara online meliputi General Knowledge dan Logical Thinking Test pada 28 Juli 2022 pukul 16.30 WIB</p>
                                 </li>
+                                
                                 <li>
-                                    <span><i class='bx bx'><iconify-icon icon="uil:book-open"></iconify-icon></i>
+                                    <div class="icon">
+                                        <i class="bx bx-check my-auto mx-auto"></i>
+                                    </div>
+                                    <h3>PELAKSANAAN</h3>
+                                    <p>Peserta terpilih akan mengikuti pelatihan intensif mulai pada bulan Agustus - Oktober 2022</p>
                                 </li>
-                                <li>
-                                    <span><i class='bx bx'><iconify-icon icon="uil:book-open"></iconify-icon></i>
-                                </li>
+                                
                             </ul>
                         </div>
 
