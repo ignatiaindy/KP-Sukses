@@ -3773,6 +3773,12 @@ Courses Details CSS
   border-radius: 5px;
   padding: 20px;
 }
+.courses-sidebar-syllabus1 {
+  border: 1px solid #f3f3f3;
+  margin-bottom: 40px;
+  border-radius: 5px;
+  padding: 20px;
+}
 
 .courses-sidebar-syllabus h3 {
   margin-bottom: 30px;
@@ -3787,10 +3793,26 @@ Courses Details CSS
   margin-bottom: 5px;
   font-size: 13px;
   font-weight: 600;
-  text-align: center;
+  text-align: left;
 }
 
 .courses-sidebar-syllabus h4 {
+  margin-bottom: 15px;
+  font-weight: 600;
+  font-size: 18px;
+  text-align: left;
+}
+.courses-sidebar-syllabus1 .chapter {
+  color: rgba(17, 88, 165, 1);
+  display: block;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.courses-sidebar-syllabus1 h4 {
   margin-bottom: 15px;
   font-weight: 600;
   font-size: 18px;
@@ -10026,7 +10048,49 @@ Information Area CSS
   padding-left: 108px;
 }
 
+.information-content1 .apply-details li {
+  position: relative;
+  margin-top: 60px;
+  padding-left: 108px;
+  list-style-type: none;
+}
+
 .information-content .apply-details li .icon {
+  width: 70px;
+  height: 70px;
+  line-height: 78px;
+  border-radius: 50%;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  background-color: rgba(17, 88, 165, 1);
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.information-content1 .apply-details li .icon {
+  width: 70px;
+  height: 70px;
+  line-height: 78px;
+  border-radius: 50%;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  background-color: rgba(17, 88, 165, 1);
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+.information-content1 .apply-details a  {
   width: 70px;
   height: 70px;
   line-height: 78px;
@@ -10050,7 +10114,22 @@ Information Area CSS
   font-weight: 700;
 }
 
+.information-content1 .apply-details li h3 {
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
 .information-content .apply-details li:hover .icon {
+  background-color: #252525;
+  color: #ffffff;
+}
+
+.information-content1 .apply-details li:hover .icon {
+  background-color: #252525;
+  color: #ffffff;
+}
+.information-content1 .apply-details a:hover  {
   background-color: #252525;
   color: #ffffff;
 }
