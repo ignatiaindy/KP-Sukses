@@ -78,7 +78,7 @@
                                             <li class="nav-item"><a href="blog-style-2.html" class="nav-link active">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
+                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
                                     
                                 </div>
                             </div>
@@ -109,7 +109,7 @@
                                             <li class="nav-item"><a href="blog-style-2.html" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="contact.html" class="nav-link">About Us</a></li>
+                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
                                     
                                 </div>
                             </div>

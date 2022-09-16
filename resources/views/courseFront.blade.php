@@ -397,28 +397,23 @@
                             <span class="chapter">Preparation</span>
                             <h4>Tools</h4>
 
-                            <div class="courses-list">
-                                <ul>
-                                    <li>
-                                        <span class="number">1.</span> NPM v12 
-                                    </li>
-                                    <li>
-                                        <span class="number">2.</span> Git latest
-                                    </li>
-                                    <li>
-                                        <span class="number">3.</span> composer latest
-                                    </li>
-                                    <li>
-                                        <span class="number">4.</span> mongodb v4.2
-                                    </li>
-                                    <li>
-                                        <span class="number">5.</span> phpv7.4
-                                    </li>
-                                    <li>
-                                        <span class="number">6.</span> XAMPP -> Windows
-                                    </li>
-                                </ul>
-                            </div>
+                            <div class="courses-sidebar-information1">
+                            <ul>
+                                <li>
+                                    <span><i class='bx bx'><iconify-icon icon="uil:book-open"></iconify-icon></i>
+                                    
+                                </li>
+                                <li>
+                                    <span><i class='bx bx'><iconify-icon icon="uil:book-open"></iconify-icon></i>
+                                </li>
+                                <li>
+                                    <span><i class='bx bx'><iconify-icon icon="uil:book-open"></iconify-icon></i>
+                                </li>
+                                <li>
+                                    <span><i class='bx bx'><iconify-icon icon="uil:book-open"></iconify-icon></i>
+                                </li>
+                            </ul>
+                        </div>
 
                             
                     </div>

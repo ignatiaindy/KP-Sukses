@@ -2331,10 +2331,10 @@ About CSS
   top: 0;
   width: 35px;
   height: 35px;
-  background-color: #0eb582;
+  background-color: #FFD521;
   text-align: center;
   line-height: 35px;
-  color: #ffffff;
+  color: #000000;
   font-size: 20px;
   -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
           box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
@@ -3730,6 +3730,43 @@ Courses Details CSS
   border-bottom: none;
 }
 
+.courses-sidebar-information1 ul li {
+  color: #252525;
+  overflow: hidden;
+  padding: 12px 15px;
+  font-size: 15px;
+  font-weight: 500;
+  text-align: center;
+  
+}
+
+.courses-sidebar-information1 ul li span {
+  display: block;
+  width: 90%;
+  text-align: center;
+  
+}
+
+.courses-sidebar-information1 ul li span i {
+  color: rgba(17, 88, 165, 1);
+  position: relative;
+  top: 4px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  font-size: 20px;
+  margin-right: 2px;
+  text-align: center;
+}
+
+.courses-sidebar-information1 ul li:hover span i {
+  -webkit-transform: rotateY(-180deg);
+          transform: rotateY(-180deg);
+}
+
+.courses-sidebar-information1 ul li:last-child {
+  border-bottom: none;
+}
+
 .courses-sidebar-syllabus {
   border: 1px solid #f3f3f3;
   margin-bottom: 40px;
@@ -3750,12 +3787,14 @@ Courses Details CSS
   margin-bottom: 5px;
   font-size: 13px;
   font-weight: 600;
+  text-align: center;
 }
 
 .courses-sidebar-syllabus h4 {
   margin-bottom: 15px;
   font-weight: 600;
   font-size: 18px;
+  text-align: center;
 }
 
 .courses-sidebar-syllabus .courses-list {
@@ -3805,6 +3844,8 @@ Courses Details CSS
 .courses-sidebar-syllabus .courses-list:last-child {
   margin-bottom: 0;
 }
+
+
 
 /*================================================
 Testimonials CSS

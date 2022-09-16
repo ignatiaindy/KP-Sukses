@@ -162,7 +162,7 @@
                             <p>Inosoft Bootcamp adalah pelatihan selama 10 minggu yang diadakan Inosoft Trans Sistem untuk mengembangkan talent baru dibidang IT</p>
 
                             <div class="features-text">
-                                <h5><i class='bx bx-planet'></i>It's not enough to be better, strive to be the best</h5>
+                                <h5><i class='bx bx-bulb'></i>It's not enough to be better, strive to be the best</h5>
                             </div>
 
                             <a href="https://www.youtube.com/watch?v=3sP7eff9YCk" class="default-btn"><i class='bx bx-play-circle icon-arrow before'></i><span class="label">Tonton Video</span><i class="bx bx-play-circle icon-arrow after"></i></a>
