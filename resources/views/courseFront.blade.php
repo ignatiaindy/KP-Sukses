@@ -20,7 +20,7 @@
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/responsive.css">
 
-        <title>Backend - Sinergi Peta Sejahtera</title>
+        <title>Frontend - Sinergi Peta Sejahtera</title>
 
         <link rel="icon" type="image/png" href="assets/img/fav.png">
     </head>
@@ -393,39 +393,56 @@
                             <div>
                                 <a href="#" class="default-btn1">Daftar</a>
                             </div> 
-                            <div class="courses-sidebar-syllabus">
+                            <div class="courses-sidebar-syllabus1">
                             <span class="chapter">Preparation</span>
                             <h4>Tools</h4>
 
-                            <div class="information-content">
-                            <ul class="apply-details">
+                            <div class="information-content1">
+                                <ul class="apply-details">
                                 <li>
                                     <div class="icon">
-                                        <i class="bx bx-pen my-auto mx-auto"></i>
+                                        <a href="https://nodejs.org/en/blog/release/v12.22.3/" class='bx bx'><iconify-icon icon="fa-brands:npm"></iconify-icon></a>
                                     </div>
-                                    <h3>PENDAFTARAN</h3>
-                                    <p>Dilakukan dengan cara mengisi formulir <br>pada tanggal 
-                                        1 - 24 Juli 2022</p>
+                                    <h3>NPM v12</h3></a>
+                                </li>
+                               
+
+                                <li>
+                                    <div class="icon">
+                                        <a href="https://git-scm.com/downloads" class='bx bx'><iconify-icon icon="bi:git"></iconify-icon></a>
+                                    </div>
+                                    <h3>Git Latest</h3>
+                                </li>
+                                
+                                <li>
+                                    <div class="icon">
+                                        <a href="https://getcomposer.org/download/" class='bx bx'><iconify-icon icon="file-icons:composer"></iconify-icon></a>
+                                    </div>
+                                    <h3>Composer Latest</h3>
                                 </li>
 
                                 <li>
                                     <div class="icon">
-                                        <i class="bx bx-list-ul my-auto mx-auto"></i>
+                                        <a href="https://www.mongodb.com/try/download/community" class='bx bx'><iconify-icon icon="simple-icons:mongodb"></iconify-icon></a>
                                     </div>
-                                    <h3>SELEKSI</h3>
-                                    <p>Dilakukan secara online meliputi General Knowledge dan Logical Thinking Test pada 28 Juli 2022 pukul 16.30 WIB</p>
+                                    <h3>MongoDB v4.2</h3>
                                 </li>
-                                
+
                                 <li>
                                     <div class="icon">
-                                        <i class="bx bx-check my-auto mx-auto"></i>
+                                        <a href="https://windows.php.net/download#php-7.4" class='bx bx'><iconify-icon icon="bxl:php"></iconify-icon></a>
                                     </div>
-                                    <h3>PELAKSANAAN</h3>
-                                    <p>Peserta terpilih akan mengikuti pelatihan intensif mulai pada bulan Agustus - Oktober 2022</p>
+                                    <h3>PHP v7.4</h3>
                                 </li>
-                                
-                            </ul>
-                        </div>
+
+                                <li>
+                                    <div class="icon">
+                                        <a href="https://www.apachefriends.org/download.html" class='bx bx'><iconify-icon icon="simple-icons:xampp"></iconify-icon></a>
+                                    </div>
+                                    <h3>XAMPP</h3>
+                                </li>
+                                </ul>
+                            </div>
 
                             
                     </div>

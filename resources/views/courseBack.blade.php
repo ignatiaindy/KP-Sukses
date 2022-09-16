@@ -380,30 +380,54 @@
                             <div>
                                 <a href="#" class="default-btn1">Daftar</a>
                             </div> 
-                            <div class="courses-sidebar-syllabus">
+                            <div class="courses-sidebar-syllabus1">
                             <span class="chapter">Preparation</span>
                             <h4>Tools</h4>
 
-                            <div class="courses-list">
-                                <ul>
-                                    <li>
-                                        <span class="number">1.</span> NPM v12 
-                                    </li>
-                                    <li>
-                                        <span class="number">2.</span> Git latest
-                                    </li>
-                                    <li>
-                                        <span class="number">3.</span> composer latest
-                                    </li>
-                                    <li>
-                                        <span class="number">4.</span> mongodb v4.2
-                                    </li>
-                                    <li>
-                                        <span class="number">5.</span> phpv7.4
-                                    </li>
-                                    <li>
-                                        <span class="number">6.</span> XAMPP -> Windows
-                                    </li>
+                            <div class="information-content1">
+                                <ul class="apply-details">
+                                <li>
+                                    <div class="icon">
+                                        <a href="https://nodejs.org/en/blog/release/v12.22.3/" class='bx bx'><iconify-icon icon="fa-brands:npm"></iconify-icon></a>
+                                    </div>
+                                    <h3>NPM v12</h3></a>
+                                </li>
+                               
+
+                                <li>
+                                    <div class="icon">
+                                        <a href="https://git-scm.com/downloads" class='bx bx'><iconify-icon icon="bi:git"></iconify-icon></a>
+                                    </div>
+                                    <h3>Git Latest</h3>
+                                </li>
+                                
+                                <li>
+                                    <div class="icon">
+                                        <a href="https://getcomposer.org/download/" class='bx bx'><iconify-icon icon="file-icons:composer"></iconify-icon></a>
+                                    </div>
+                                    <h3>Composer Latest</h3>
+                                </li>
+
+                                <li>
+                                    <div class="icon">
+                                        <a href="https://www.mongodb.com/try/download/community" class='bx bx'><iconify-icon icon="simple-icons:mongodb"></iconify-icon></a>
+                                    </div>
+                                    <h3>MongoDB v4.2</h3>
+                                </li>
+
+                                <li>
+                                    <div class="icon">
+                                        <a href="https://windows.php.net/download#php-7.4" class='bx bx'><iconify-icon icon="bxl:php"></iconify-icon></a>
+                                    </div>
+                                    <h3>PHP v7.4</h3>
+                                </li>
+
+                                <li>
+                                    <div class="icon">
+                                        <a href="https://www.apachefriends.org/download.html" class='bx bx'><iconify-icon icon="simple-icons:xampp"></iconify-icon></a>
+                                    </div>
+                                    <h3>XAMPP</h3>
+                                </li>
                                 </ul>
                             </div>
 
