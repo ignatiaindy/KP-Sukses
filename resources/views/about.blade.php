@@ -20,7 +20,7 @@
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/responsive.css">
 
-        <title>Home - Sinergi Peta Sejahtera</title>
+        <title>About Us - Sinergi Peta Sejahtera</title>
 
         <link rel="icon" type="image/png" href="assets/img/fav.png">
     </head>
@@ -143,8 +143,8 @@
 
                     <div class="col-lg-6 col-md-12">
                         <div class="about-right-image">
-                            <img src="assets/img/about/4.jpg" alt="image">
-                            <img src="assets/img/about/3.jpg" alt="image">
+                            <img style="border-radius :20px" src="assets/img/about/4.jpg" alt="image">
+                            <img style="border-radius :20px" src="assets/img/about/3.jpg" alt="image">
 
                         </div>
                     </div>
@@ -256,7 +256,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-16 col-md-12">
                         <div class="new-comers-image">
-                            <img  style = ""src="assets/img/motivation-course/new-comers/about.jpg" alt="image">
+                            <img  style="border-radius :20px" src="assets/img/motivation-course/new-comers/about.jpg" alt="image">
                         </div>
                     </div>
 
@@ -342,7 +342,7 @@
                     <div class="col-lg-3 col-md-6 offset-lg-0 offset-md-3">
                         <div class="single-work-process1 mb-30">
                             <div class="icon">
-                                <i class='bx bx-like'></i>
+                                <i class='bx bx-wink-smile'></i>
                             </div>
                             <h3>Welcome to Inosoft</h3>
 
@@ -413,7 +413,7 @@
                                 </div>
                             </div>
                             <div class="btn-box pt-50">
-                                <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" class="default-btn4">Daftar</a>
+                                <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" class="default-btn5">Daftar</a>
                             </div>
                         </div>
                     </div>

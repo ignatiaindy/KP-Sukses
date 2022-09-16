@@ -224,6 +224,39 @@ img {
  font-weight: 700;
  margin-top: 50px;
 }
+.default-btn5 {
+  -webkit-transition: 0.5s;
+ transition: 0.5s;
+ display: inline-block;
+ padding: 13px 25px 12px 25px;
+ position: relative;
+ background-color: rgba(16, 86, 162, 1);
+ color: #ffffff;
+ border-width: 2px;
+ border-style: solid;
+ border-color: rgba(16, 86, 162, 1);
+ border-radius: 5px;
+ font-size: 14.5px;
+ font-weight: 700;
+ margin-top: 50px;
+}
+
+.default-btn5:hover {
+  -webkit-transition: 0.5s;
+ transition: 0.5s;
+ display: inline-block;
+ padding: 13px 25px 12px 25px;
+ position: relative;
+ background-color: #f2b827;
+ color: #000000;
+ border-width: 2px;
+ border-style: solid;
+ border-color: #f2b827;
+ border-radius: 5px;
+ font-size: 14.5px;
+ font-weight: 700;
+ margin-top: 50px;
+}
 .tag-btn1 {
   display: block;
   color: rgba(17, 88, 165, 1);
@@ -11399,6 +11432,12 @@ How It Works CSS
 }
 
 .single-work-process:hover .icon {
+  background-color: #ffffff;
+  color: #1158a5;
+  border-color: #ffffff;
+}
+
+.single-work-process1:hover .icon {
   background-color: #ffffff;
   color: #1158a5;
   border-color: #ffffff;

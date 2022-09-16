@@ -63,7 +63,7 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="#" class="nav-link active">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link active">Home <i class=''></i></a>
                                     </li>
                                     <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
