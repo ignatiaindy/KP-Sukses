@@ -256,7 +256,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-16 col-md-12">
                         <div class="new-comers-image">
-                            <img  style="border-radius :20px" src="assets/img/motivation-course/new-comers/about.jpg" alt="image">
+                            <img  style="border-radius :20px" src="assets/img/motivation-course/new-comers/about.jpeg" alt="image">
                         </div>
                     </div>
 
