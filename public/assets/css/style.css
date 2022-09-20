@@ -1,6 +1,7 @@
 
 @import url("https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;display=swap");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap");
 body {
   background-color: #ffffff;
   padding: 0;
@@ -902,23 +903,23 @@ Header CSS
           transform: scaleX(1);
 }
 
-.ino-nav .navbar .others-option {
+.ino-nav .navbar .others-option .language-switcher {
   position: relative;
   top: -1px;
 }
 
-.ino-nav .navbar .others-option .dropdown-toggle {
+.ino-nav .navbar .others-option .language-switcher .dropdown-toggle {
   padding: 0;
   border: none;
   background-color: transparent;
   font-weight: 500;
 }
 
-.ino-nav .navbar .others-option .dropdown-toggle::after {
+.ino-nav .navbar .others-option .language-switcher .dropdown-toggle::after {
   display: none;
 }
 
-.ino-nav .navbar .others-option .dropdown-toggle img {
+.ino-nav .navbar .others-option .language-switcher .dropdown-toggle img {
   width: 35px;
   border-radius: 5px;
   border: 3px solid #ffffff;
@@ -926,19 +927,19 @@ Header CSS
   top: -2px;
 }
 
-.ino-nav .navbar .others-option .dropdown-toggle span {
+.ino-nav .navbar .others-option .language-switcher .dropdown-toggle span {
   display: inline-block;
   margin-left: 3px;
 }
 
-.ino-nav .navbar .others-option .dropdown-toggle span i {
+.ino-nav .navbar .others-option .language-switcher .dropdown-toggle span i {
   position: relative;
   font-size: 20px;
   top: 4px;
   margin-left: -3px;
 }
 
-.ino-nav .navbar .others-option .dropdown-menu {
+.ino-nav .navbar .others-option .language-switcher .dropdown-menu {
   padding: 15px;
   float: unset;
   border: none;
@@ -955,38 +956,38 @@ Header CSS
           transform: scaleX(0);
 }
 
-.ino-nav .navbar .others-option .dropdown-menu .dropdown-item {
+.ino-nav .navbar .others-option .language-switcher .dropdown-menu .dropdown-item {
   padding: 0;
   color: #252525;
   margin-bottom: 10px;
   font-weight: 500;
 }
 
-.ino-nav .navbar .others-option .dropdown-menu .dropdown-item:last-child {
+.ino-nav .navbar .others-option .language-switcher .dropdown-menu .dropdown-item:last-child {
   margin-bottom: 0;
 }
 
-.ino-nav .navbar .others-option .dropdown-menu .dropdown-item img {
+.ino-nav .navbar .others-option .language-switcher .dropdown-menu .dropdown-item img {
   width: 40px;
   border-radius: 5px;
   border: 3px solid #ffffff;
 }
 
-.ino-nav .navbar .others-option .dropdown-menu .dropdown-item span {
+.ino-nav .navbar .others-option .language-switcher .dropdown-menu .dropdown-item span {
   display: inline-block;
   margin-left: 5px;
 }
 
-.ino-nav .navbar .others-option .dropdown-menu .dropdown-item:hover, .ino-nav .navbar .others-option .dropdown-menu .dropdown-item:focus {
+.ino-nav .navbar .others-option .language-switcher .dropdown-menu .dropdown-item:hover, .ino-nav .navbar .others-option .language-switcher .dropdown-menu .dropdown-item:focus {
   background-color: transparent !important;
 }
 
-.ino-nav .navbar .others-option .dropdown-menu .dropdown-item:active, .ino-nav .navbar .others-option .dropdown-menu .dropdown-item.active {
+.ino-nav .navbar .others-option .language-switcher .dropdown-menu .dropdown-item:active, .ino-nav .navbar .others-option .language-switcher .dropdown-menu .dropdown-item.active {
   color: #252525;
   background-color: transparent;
 }
 
-.ino-nav .navbar .others-option .dropdown-menu.show {
+.ino-nav .navbar .others-option .language-switcher .dropdown-menu.show {
   opacity: 1;
   visibility: visible;
   -webkit-transform: scaleX(1);
@@ -1134,37 +1135,37 @@ Header CSS
     right: 50px;
     top: 4px;
   }
-  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher {
     position: relative;
     top: -1px;
   }
-  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .dropdown-toggle {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-toggle {
     padding: 0;
     border: none;
     background-color: transparent;
     font-weight: 500;
   }
-  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .dropdown-toggle::after {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-toggle::after {
     display: none;
   }
-  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .dropdown-toggle img {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-toggle img {
     width: 35px;
     border-radius: 5px;
     border: 3px solid #ffffff;
     position: relative;
     top: -2px;
   }
-  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .dropdown-toggle span {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-toggle span {
     display: inline-block;
     margin-left: 3px;
   }
-  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .dropdown-toggle span i {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-toggle span i {
     position: relative;
     font-size: 20px;
     top: 4px;
     margin-left: -3px;
   }
-  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .dropdown-menu {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-menu {
     padding: 15px;
     float: unset;
     border: none;
@@ -1180,7 +1181,7 @@ Header CSS
     -webkit-transform: scaleX(0);
             transform: scaleX(0);
   }
-  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .dropdown-menu .dropdown-item {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-menu .dropdown-item {
     padding: 0;
     color: #252525;
     margin-bottom: 10px;
@@ -1189,23 +1190,23 @@ Header CSS
   .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-menu .dropdown-item:last-child {
     margin-bottom: 0;
   }
-  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .dropdown-menu .dropdown-item img {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-menu .dropdown-item img {
     width: 40px;
     border-radius: 5px;
     border: 3px solid #ffffff;
   }
-  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .dropdown-menu .dropdown-item span {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-menu .dropdown-item span {
     display: inline-block;
     margin-left: 5px;
   }
-  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .dropdown-menu .dropdown-item:hover, .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .dropdown-menu .dropdown-item:focus {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-menu .dropdown-item:hover, .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-menu .dropdown-item:focus {
     background-color: transparent !important;
   }
-  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .dropdown-menu .dropdown-item:active, .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .dropdown-menu .dropdown-item.active {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-menu .dropdown-item:active, .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-menu .dropdown-item.active {
     color: #252525;
     background-color: transparent;
   }
-  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .dropdown-menu.show {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .language-switcher .dropdown-menu.show {
     opacity: 1;
     visibility: visible;
     -webkit-transform: scaleX(1);
@@ -1254,7 +1255,7 @@ Header CSS
   }
   .ino-responsive-nav .ino-responsive-menu.mean-container .navbar-nav {
     overflow-y: scroll;
-    height: 100%;
+    height: 294px;
     -webkit-box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
             box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
   }
@@ -2659,7 +2660,7 @@ Offer CSS
 }
 
 .offer-area .section-title h2 {
-  color: #ffffff;
+  color: #000000;
 }
 
 .offer-area .section-title p {
@@ -8010,13 +8011,13 @@ Navbar CSS
   color: rgba(17, 88, 165, 1);
 }
 
-.header-area.header-color-white .navbar-style-three .others-option .dropdown-toggle {
+.header-area.header-color-white .navbar-style-three .others-option .language-switcher .dropdown-toggle {
   color: rgba(255, 255, 255, 0.87);
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
 
-.header-area.header-color-white .navbar-style-three .others-option .dropdown-toggle:hover {
+.header-area.header-color-white .navbar-style-three .others-option .language-switcher .dropdown-toggle:hover {
   color: #ffffff;
 }
 
