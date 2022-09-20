@@ -2647,6 +2647,7 @@ Offer CSS
 .offer-area {
   position: relative;
   z-index: 1;
+  background-image: url(../img/offer-bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -4762,7 +4763,7 @@ Blog Details CSS
   font-size: 14px;
 }
 
-.blog-details-desc .article-author .author-profile .author-profile-title .author-profile-raque-profile a {
+.blog-details-desc .article-author .author-profile .author-profile-title .author-profile-ino-profile a {
   color: #252525;
   padding: 5px 12px 4px;
   border-radius: 2px;
@@ -4770,7 +4771,7 @@ Blog Details CSS
   font-weight: 600;
 }
 
-.blog-details-desc .article-author .author-profile .author-profile-title .author-profile-raque-profile a:hover, .blog-details-desc .article-author .author-profile .author-profile-title .author-profile-raque-profile a:focus {
+.blog-details-desc .article-author .author-profile .author-profile-title .author-profile-ino-profile a:hover, .blog-details-desc .article-author .author-profile .author-profile-title .author-profile-ino-profile a:focus {
   background-color: #ff1949;
   color: #ffffff;
 }
@@ -4825,7 +4826,7 @@ blockquote::after, .blockquote::after {
   margin-bottom: 20px;
 }
 
-.raque-post-navigation {
+.ino-post-navigation {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

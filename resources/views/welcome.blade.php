@@ -42,8 +42,23 @@
             <!-- Start Navbar Area -->
             <div class="navbar-area navbar-style-three">
                 <div class="ino-responsive-nav">
+
                     <div class="container">
-                        <div class="ino-responsive-menu">
+                        
+                    <div class="ino-responsive-menu mean-container"><div class="mean-bar"><a href="#nav" class="meanmenu-reveal" style="right: 0px; left: auto; text-align: center; text-indent: 0px; font-size: 18px;"><span><span><span></span></span></span></a><nav class="mean-nav">
+                                <ul class="navbar-nav" style="display: none;">
+                                    <li class="nav-item"><a href="/" class="nav-link active">Home <i class=""></i></a>
+                                    </li>
+                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class="bx bx-chevron-down"></i></a>
+                                        <ul class="dropdown-menu" style="display: none;">
+                                            <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
+
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                        </ul>
+                                    <a class="mean-expand" href="#" style="font-size: 18px">+</a></li>
+                                    <li class="nav-item mean-last"><a href="about" class="nav-link">About Us</a></li>
+                                    
+                                </ul></nav></div>
                             <div class="logo">
                                 <a href="/">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
@@ -125,7 +140,7 @@
                                 <div class="hero-banner-content black-color">
                                     <span class="sub-title">We Challenge Young Minds</span>
                                     <h1>Learn From The Best and Be The Best</h1>
-                                    <p>Inosoft Bootcamp, Bootcamp bidang IT No.1 di Indonesia</p>
+                                    <p>inosoft Bootcamp, Bootcamp bidang IT No.1 di Indonesia</p>
                                     <div class="btn-box">
                                         <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" class="default-btn2">Daftar</a>
                                     </div>
@@ -158,8 +173,8 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="about-content">
                             <span class="sub-title">About Us</span>
-                            <h2>Apa itu Inosoft Bootcamp?</h2>
-                            <p>Inosoft Bootcamp adalah pelatihan selama 10 minggu yang diadakan Inosoft Trans Sistem untuk mengembangkan talent baru dibidang IT</p>
+                            <h2>Apa itu inosoft Bootcamp?</h2>
+                            <p>inosoft Bootcamp adalah pelatihan selama 10 minggu yang diadakan inosoft Trans Sistem untuk mengembangkan talent baru dibidang IT</p>
 
                             <div class="features-text">
                                 <h5><i class='bx bx-bulb'></i>It's not enough to be better, strive to be the best</h5>
@@ -179,7 +194,7 @@
         <section class="offer-area pt-100 jarallax" data-jarallax='{"speed": 0.3}'>
             <div class="container">
                 <div class="section-title">
-                    <h2>Kenapa Gabung dengan Inosoft Bootcamp ?</h2>
+                    <h2>Kenapa Gabung dengan inosoft Bootcamp ?</h2>
                 </div>
 
                 <div class="row">
@@ -413,7 +428,7 @@
                     </div>
 
                     <div class="single-testimonials-item">
-                        <p>Selama berada di Inosoft saya mendapatkan banyak pengalaman, baik pengalaman teknis dan non-teknis. Rekan kerja yang suportif membuat saya nyaman berada disin</p>
+                        <p>Selama berada di inosoft saya mendapatkan banyak pengalaman, baik pengalaman teknis dan non-teknis. Rekan kerja yang suportif membuat saya nyaman berada disin</p>
 
                         <div class="info">
                             <img src="assets/img/Adji.png" class="shadow rounded-circle" alt="image">
@@ -423,7 +438,7 @@
                     </div>
 
                     <div class="single-testimonials-item">
-                        <p>Saya sekarang bekerja di PT. Inosoft Trans Sistem. Saya mendapatkan pengalaman yang luar biasa dikarenakan teman sekerja yang suportif satu sama lain. Saya juga diajarkan dunia kerja yang membuat saya berkembang lebih pesat</p>
+                        <p>Saya sekarang bekerja di PT. inosoft Trans Sistem. Saya mendapatkan pengalaman yang luar biasa dikarenakan teman sekerja yang suportif satu sama lain. Saya juga diajarkan dunia kerja yang membuat saya berkembang lebih pesat</p>
 
                         <div class="info">
                             <img src="assets/img/Dian.png" class="shadow rounded-circle" alt="image">
@@ -433,7 +448,7 @@
                     </div>
 
                     <div class="single-testimonials-item">
-                        <p>Selama di Inosoft, saya merasa nyaman belajar sambil bekerja. Selain itu saya juga belajar bagaimana cara berkomunikasi, bekerja dalam tim, dan seniornya juga asik-asik. Mereka membagikan banyak ilmu dan tips yang bermanfaat. Lingkungan yang tidak monoton dan jam kerja yang sangat fleksibel</p>
+                        <p>Selama di inosoft, saya merasa nyaman belajar sambil bekerja. Selain itu saya juga belajar bagaimana cara berkomunikasi, bekerja dalam tim, dan seniornya juga asik-asik. Mereka membagikan banyak ilmu dan tips yang bermanfaat. Lingkungan yang tidak monoton dan jam kerja yang sangat fleksibel</p>
 
                         <div class="info">
                             <img src="assets/img/Diaz.png" class="shadow rounded-circle" alt="image">
@@ -636,7 +651,7 @@
                         <a href="/" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
                     </div>
                     <div class="containerr">                  
-                    <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="#">Inosoft</a></div>
+                    <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="#">inosoft</a></div>
                     <div class="back-copy-right">
                         <ul>
                             <a href="privacy">Privacy Policy</a>
