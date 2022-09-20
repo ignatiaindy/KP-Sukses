@@ -2722,6 +2722,7 @@ Offer CSS
   border-radius: 5px;
   position: relative;
   z-index: 1;
+  margin-top: 55px;
 }
 
 .single-offer-box1::before {

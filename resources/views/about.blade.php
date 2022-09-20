@@ -425,7 +425,7 @@
         <section class="team-area pt-100 pb-70">
             <div class="container">
             <div class="section-title text-center">
-                    <h2>Our Leader</h2>
+                    <h2>Our Founder</h2>
                 </div>
                 <div class="row">
                 <div class="col-lg-2 col-md-6 col-sm-6">
@@ -495,7 +495,7 @@
                             </div>
 
                             <h3>Email Here</h3>
-                            <p>[sinergipeta@gmail.com]</p>
+                            <p><a href="mailto:sinergipeta@gmail.com">[sinergipeta@gmail.com]</p></a>
                             <br>
                             <br>
                         </div>
@@ -515,11 +515,11 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
                         <div class="contact-info-box mb-30">
                             <div class="icon">
-                                <i class='bx bx-phone-call'></i>
+                                <i class='bx bxl-whatsapp'></i>
                             </div>
 
-                            <h3>Call Here</h3>
-                            <p><a href="tel:(031)8700688">(031) 8700688</a></p>
+                            <h3>Contact Here</h3>
+                            <p><a href="https://api.whatsapp.com/send/?phone=6287848041867&text&type=phone_number&app_absent=0">087848041867</a></p>
                             <br>
                             <br>
                         </div>
