@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx" class="theme-light">
+<html lang="zxx">
     
 <head>
         <meta charset="utf-8">
