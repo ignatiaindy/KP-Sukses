@@ -92,8 +92,7 @@
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
                             <a class="navbar-brand" href="/">
-                                <img src="assets/img/logo1.png" class="black-logo" alt="logo">
-                                    <img src="assets/img/logo1.png" class="white-logo" alt="logo">
+                                <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
 
                             <div class="collapse navbar-collapse mean-menu">
