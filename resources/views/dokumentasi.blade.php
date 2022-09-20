@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx" class="theme-light">
+<html lang="zxx">
     
 <head>
         <!-- Required meta tags -->
@@ -20,7 +20,6 @@
         <link rel="stylesheet" href="assets/css/slick.min.css">
         <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
         <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/dark.css">
         <link rel="stylesheet" href="assets/css/responsive.css">
 
         <title>Artikel - Sinergi Peta Sejahtera</title>
@@ -63,19 +62,18 @@
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
                             <a class="navbar-brand" href="/">
-                                <img src="assets/img/logo1.png" class="logo1" alt="logo">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
                             </a>
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="/" class="nav-link ">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link active">Home <i class=''></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link active">Blog <i class='bx bx-chevron-down'></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
-                                            <li class="nav-item"><a href="blog-style-2.html" class="nav-link active">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>

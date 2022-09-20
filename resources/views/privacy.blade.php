@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx" class="theme-light">
+<html lang="zxx">
     
 <head>
         <meta charset="utf-8">
@@ -63,7 +63,7 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="#" class="nav-link active">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link active">Home <i class=''></i></a>
                                     </li>
                                     <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
