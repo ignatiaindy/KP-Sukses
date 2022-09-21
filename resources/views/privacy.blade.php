@@ -42,8 +42,23 @@
             <!-- Start Navbar Area -->
             <div class="navbar-area navbar-style-three">
                 <div class="ino-responsive-nav">
+
                     <div class="container">
-                        <div class="ino-responsive-menu">
+                        
+                    <div class="ino-responsive-menu mean-container"><div class="mean-bar"><a href="#nav" class="meanmenu-reveal" style="right: 0px; left: auto; text-align: center; text-indent: 0px; font-size: 18px;"><span><span><span></span></span></span></a><nav class="mean-nav">
+                                <ul class="navbar-nav" style="display: none;">
+                                    <li class="nav-item"><a href="/" class="nav-link active">Home <i class=""></i></a>
+                                    </li>
+                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class="bx bx-chevron-down"></i></a>
+                                        <ul class="dropdown-menu" style="display: none;">
+                                            <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
+
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                        </ul>
+                                    <a class="mean-expand" href="#" style="font-size: 18px">+</a></li>
+                                    <li class="nav-item mean-last"><a href="about" class="nav-link">About Us</a></li>
+                                    
+                                </ul></nav></div>
                             <div class="logo">
                                 <a href="/">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
@@ -53,7 +68,7 @@
                     </div>
                 </div>
                 <!-- bebas -->
-
+                <!-- tes -->
                 <div class="ino-nav">
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
@@ -63,9 +78,9 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="/" class="nav-link active">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link active ">Home <i class=''></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link active">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
@@ -95,7 +110,7 @@
                                 <ul class="navbar-nav">
                                     <li class="nav-item"><a href="#" class="nav-link active">Home <i class=''></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link ">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
@@ -127,12 +142,12 @@
         <!-- End Page Title Area -->
 
         <!-- Start Post Single Wrapper  -->
-        <section class="courses-details-area pt-100 pb-70">
+        <section class="privacy-area pt-100 pb-70">
             <div class="container">
-                <div class="courses-details-header">
+                <div class="privacy-header">
                     <div class="row align-items-center">
                         <div class="col-lg-8">
-                        <div class="courses-title">
+                        <div class="privacy-header">
                             <h2>Kebijakan Privasi Inosoft Bootcamp</h2>
                             <div class="review-item">
                             </div>
@@ -144,6 +159,26 @@
                                             <p>Inosoft Bootcamp (“Kami”) berkomitmen untuk menghormati dan melindungi setiap data atau informasi privasi pengguna (‘Anda” atau “Pengguna”) saat mengakses dan menggunakan aplikasi, fitur, konten, dan sistem teknologi di website yang dikelola Inosoft Bootcamp, dan situs-situs turunannya (selanjutnya disebut sebagai "Platform").</p>
                                             <p>Kebijakan Privasi ini (serta syarat penggunaan dari situs Inosoft Bootcamp sebagaimana tercantum dalam "Syarat & Ketentuan" dan informasi lain yang tercantum di Platform) menetapkan dasar atas perolehan, pengumpulan, pengolahan, penganalisisan, penampilan, pembukaan, dan/atau segala bentuk pengelolaan yang terkait dengan data atau informasi yang Anda berikan kepada Inosoft Bootcamp atau yang Inosoft Bootcamp kumpulkan dari Pengguna, termasuk data pribadi Anda, baik pada saat Anda melakukan pendaftaran di Platform, mengakses Platform, maupun mengunakan layanan-layanan pada Platform (selanjutnya disebut sebagai "data"). Kebijakan Privasi ini berlaku bagi seluruh pengguna Platform, kecuali diatur pada Kebijakan Privasi yang terpisah. Mohon membaca Kebijakan Privasi Kami dengan seksama sehingga Penghuna dapat memahami pendekatan dan cara Kami dalam menggunakan informasi tersebut.</p>
                                             <p>Dengan mengakses dan/atau menggunakan Platform Inosoft Bootcamp, Anda menyatakan bahwa setiap data Anda merupakan data yang benar dan sah, serta Anda memberikan persetujuan kepada Inosoft Bootcamp untuk memperoleh, mengumpulkan, menyimpan, mengelola, dan mempergunakan data tersebut sebagaimana tercantum dalam Kebijakan Privasi maupun Syarat dan Ketentuan Inosoft Bootcamp.</p>
+                                            <p>Kebijakan Privasi ini mencakup hal-hal sebagai berikut:</p>
+                                            <ul>
+                                                <li>Informasi Pribadi yang Dapat Kami Kumpulkan</li>
+                                                <li>Penggunaan Informasi Pribadi</li>
+                                                <li>Pengungkapan Informasi Pribadi</li>
+                                                <li>Penyimpanan Informasi Pribadi</li>
+                                                <li>Hak Anda</li>
+                                                <li>Materi Pemasaran</li>
+                                                <li>Perubahan dalam Kebijakan Privasi Kami</li>
+                                                <li>Cara Menghubungi Kami</li>
+                                            </ul>
+                                            <b>Dengan mengunjungi dan/atau mendaftar Akun pada Platform Kami, Anda dan/atau orang tua, wali atau pengampu Anda (jika Anda berusia dibawah 18 (delapan belas) tahun) menerima dan menyetujui pendekatan dan cara-cara yang digambarkan dalam Kebijakan Privasi ini</b>
+                                            <br></br>
+                            <div class="privacy-header">
+                                <h2>A. Informasi pribadi yang dapat kami kumpulkan</h2>
+                            <div class="review-item">
+                            </div>
+                            </div>
+                                            
+                                            <p>Inosoft Bootcamp mengumpulkan data Anda dengan tujuan untuk memproses Dashboard Pengguna, mengelola, dan memperlancar proses penggunaan Platform, serta tujuan-tujuan lainnya selama diizinkan oleh peraturan perundang-undangan yang berlaku. Pihak Inosoft Bootcamp dapat meminta Anda untuk melakukan verifikasi terhadap data yang diberikan untuk memastikan akurasi dari data tersebut. Inosoft Bootcamp akan menyimpan informasi selama akun Anda tetap aktif dan dapat melakukan penghapusan sesuai dengan ketentuan peraturan hukum yang berlaku.</p>
                                         </div>
                                         <div class="courses-details-desc">
 

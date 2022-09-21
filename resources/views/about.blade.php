@@ -39,11 +39,26 @@
             
             
 
-            <!-- Start Navbar Area -->
-            <div class="navbar-area navbar-style-three">
+             <!-- Start Navbar Area -->
+             <div class="navbar-area navbar-style-three">
                 <div class="ino-responsive-nav">
+
                     <div class="container">
-                        <div class="ino-responsive-menu">
+                        
+                    <div class="ino-responsive-menu mean-container"><div class="mean-bar"><a href="#nav" class="meanmenu-reveal" style="right: 0px; left: auto; text-align: center; text-indent: 0px; font-size: 18px;"><span><span><span></span></span></span></a><nav class="mean-nav">
+                                <ul class="navbar-nav" style="display: none;">
+                                    <li class="nav-item"><a href="/" class="nav-link ">Home <i class=""></i></a>
+                                    </li>
+                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class="bx bx-chevron-down"></i></a>
+                                        <ul class="dropdown-menu" style="display: none;">
+                                            <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
+
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                        </ul>
+                                    <a class="mean-expand" href="#" style="font-size: 18px">+</a></li>
+                                    <li class="nav-item mean-last"><a href="about" class="nav-link active">About Us</a></li>
+                                    
+                                </ul></nav></div>
                             <div class="logo">
                                 <a href="/">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
@@ -53,7 +68,7 @@
                     </div>
                 </div>
                 <!-- bebas -->
-
+                <!-- tes -->
                 <div class="ino-nav">
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
@@ -63,16 +78,16 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="/" class="nav-link active">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link ">Home <i class=''></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link ">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
                                             <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
+                                    <li class="nav-item"><a href="about" class="nav-link active">About Us</a></li>
                                     
                                 </div>
                             </div>
@@ -93,7 +108,7 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="#" class="nav-link active">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link ">Home <i class=''></i></a>
                                     </li>
                                     <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
@@ -102,7 +117,7 @@
                                             <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
+                                    <li class="nav-item"><a href="about" class="nav-link active">About Us</a></li>
                                     
                                 </div>
                             </div>
@@ -198,7 +213,7 @@
         
 
         <!-- Start Funfacts Area -->
-        <section class="funfacts-area ptb-100">
+        <!-- <section class="funfacts-area ptb-100">
             <div class="container">
                 <div class="section-title text-center">
                     <h2>Job Vacancy</h2>
@@ -245,7 +260,7 @@
                     <div id="particles-js-circle-bubble"></div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- End Funfacts Area -->
 
       
@@ -353,74 +368,7 @@
         </section>
         <!-- End How It Works Area -->
 
-       <!-- Start Newcomers Area -->
-       <div class="new-comers-area ptb-100">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-12">
-                        <div class="new-comers-image1">
-                            <img src="assets/img/motivation-course/new-comers/new-comers-3.png" alt="image">
-
-                            <div class="wrap-shape">
-                                <img src="assets/img/motivation-course/new-comers/shape.png" alt="image">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-6 col-md-12">
-                        <div class="new-comers-content1">
-                            <h3>Inosoft Bootcamp</h3>
-                            <p>With decades of experience in the IT industry, Inosoft has worked with many IT professionals. Now is the time for us to get involved one step earlier. We want to be a place for the birth of reliable IT personnel through the Bootcamp program. In this Bootcamp, we translate the real needs of the IT industry into a curriculum that focuses not only on theory but also on the real practice of working on IT projects</p>
-                            <br>
-                            <h4>Benefit :</h4>
-                            <div class="row justify-content-center">
-                                <div class="col-lg-6 col-sm-6">
-                                    <ul class="new-comers-list">
-                                        <li>
-                                            <i class='bx bx-check'></i>
-                                            Bootcamp selama 3 bulan
-                                        </li>
-                                        <li>
-                                            <i class='bx bx-check'></i>
-                                            Kelas Online
-                                        </li>
-                                        <li>
-                                            <i class='bx bx-check'></i>
-                                            Waktu Fleksibel
-                                        </li>
-                                        <li>
-                                            <i class='bx bx-check'></i>
-                                            Diajarkan dari NOL
-                                        </li>
-                                    </ul>
-                                </div>
-
-                                <div class="col-lg-6 col-sm-6">
-                                    <ul class="new-comers-list">
-                                        <li>
-                                            <i class='bx bx-check'></i>
-                                            Mendapatkan Sertifikat
-                                        </li>
-                                        <li>
-                                            <i class='bx bx-check'></i>
-                                            Kelas & Grup Diskusi dengan Mentor
-                                        </li>
-                                        <li>
-                                            <i class='bx bx-check'></i>
-                                            Peluang kerja
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="btn-box pt-50">
-                                <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" class="default-btn5">Daftar</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Newcomers Area -->
+       
 
         <section class="team-area pt-100 pb-70">
             <div class="container">
