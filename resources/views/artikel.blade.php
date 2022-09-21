@@ -45,11 +45,26 @@
             
             
 
-            <!-- Start Navbar Area -->
+             <!-- Start Navbar Area -->
             <div class="navbar-area navbar-style-three">
                 <div class="ino-responsive-nav">
+
                     <div class="container">
-                        <div class="ino-responsive-menu">
+                        
+                    <div class="ino-responsive-menu mean-container"><div class="mean-bar"><a href="#nav" class="meanmenu-reveal" style="right: 0px; left: auto; text-align: center; text-indent: 0px; font-size: 18px;"><span><span><span></span></span></span></a><nav class="mean-nav">
+                                <ul class="navbar-nav" style="display: none;">
+                                    <li class="nav-item"><a href="/" class="nav-link active">Home <i class=""></i></a>
+                                    </li>
+                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class="bx bx-chevron-down"></i></a>
+                                        <ul class="dropdown-menu" style="display: none;">
+                                            <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
+
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                        </ul>
+                                    <a class="mean-expand" href="#" style="font-size: 18px">+</a></li>
+                                    <li class="nav-item mean-last"><a href="about" class="nav-link">About Us</a></li>
+                                    
+                                </ul></nav></div>
                             <div class="logo">
                                 <a href="/">
                                     <img src="assets/img/logo1.png" class="white-logo" alt="logo">
@@ -59,7 +74,7 @@
                     </div>
                 </div>
                 <!-- bebas -->
-
+                <!-- tes -->
                 <div class="ino-nav">
                     <div class="container">
                         <nav class="navbar navbar-expand-md navbar-light">
@@ -69,9 +84,9 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="/" class="nav-link active">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link ">Home <i class=''></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link active">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
                                             <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
@@ -99,11 +114,11 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="/" class="nav-link">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link ">Home <i class=''></i></a>
                                     </li>
                                     <li class="nav-item"><a href="#" class="nav-link active">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
-                                            <li class="nav-item active"><a href="artikel" class="nav-link">Artikel</a></li>
+                                            <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
 
                                             <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
                                         </ul>

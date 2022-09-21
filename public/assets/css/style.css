@@ -558,8 +558,8 @@ Preloader CSS
   height: 100px;
   border-style: solid;
   border-width: 5px;
-  border-top-color: #465fe9;
-  border-right-color: #465fe9;
+  border-top-color: #007DFF;
+  border-right-color: #007DFF;
   border-bottom-color: #d5eaff;
   border-left-color: #d5eaff;
   border-radius: 50%;
@@ -3211,12 +3211,11 @@ Courses Details CSS
   margin-bottom: 30px;
 }
 
-.courses-details-header .courses-title h2 {
+.courses-details-header .h2 {
   margin-bottom: 12px;
   font-size: 29px;
   font-weight: 700;
 }
-
 .courses-details-header .courses-meta {
   margin-top: 20px;
 }
@@ -6754,10 +6753,12 @@ Product Details CSS
   border-bottom: none;
   padding: 10px 15px 7px;
   color: #727695;
+  list-style-type: none;
 }
 
 .products-details-tab .tab-content .tabs-item .products-details-tab-content .additional-information li:last-child {
   border-bottom: 1px solid #eeeeee;
+  list-style-type: none;
 }
 
 .products-details-tab .tab-content .tabs-item .products-details-tab-content .additional-information li span {
@@ -6765,6 +6766,7 @@ Product Details CSS
   width: 30%;
   color: #252525;
   font-weight: 500;
+  list-style-type: none;
 }
 
 .products-details-tab .tab-content .tabs-item .products-details-tab-content h3 {
@@ -11573,7 +11575,7 @@ Newcomers Area CSS
 }
 
 .new-comers-content1 {
-  padding-left: 30px;
+  padding-left: -10px;
 }
 
 .new-comers-content1 .sub-title {
@@ -12149,4 +12151,37 @@ Team CSS
   visibility: visible;
   -webkit-transform: translateY(0);
           transform: translateY(0);
+}
+/*================================================
+Page Privacy CSS
+=================================================*/
+.privacy-header {
+  margin-bottom: 30px;
+}
+
+.privacy-header .h2 {
+  margin-bottom: 1000px;
+  font-size: 29px;
+  font-weight: 700;
+  margin-top: 1000px;
+}
+.courses-details-header .courses-meta {
+  margin-top: 20px;
+}
+
+.courses-details-header .courses-meta ul {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style-type: none;
+}
+
+.courses-details-header .courses-meta ul li {
+  margin-right: 20px;
+  position: relative;
+  display: inline-block;
+  border-right: 1px solid #eeeeee;
+  font-weight: 500;
+  font-size: 16px;
+  padding-right: 20px;
+  padding-left: 37px;
 }
