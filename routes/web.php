@@ -34,6 +34,9 @@ Route::get('dokumentasi', function () {
 Route::get('privacy', function () {
     return view('privacy');
 });
+Route::get('terms', function () {
+    return view('terms');
+});
 Route::get('about', function () {
     return view('about');
 });

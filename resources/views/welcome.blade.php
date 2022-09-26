@@ -698,7 +698,7 @@
                     <div class="back-copy-right">
                         <ul>
                             <a href="privacy">Privacy Policy</a>
-                            <a href="#">Terms And Conditions</a>
+                            <a href="terms">Terms And Conditions</a>
                         </ul>
                     </div>
                 </div>
