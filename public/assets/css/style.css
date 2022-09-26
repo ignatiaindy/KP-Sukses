@@ -398,7 +398,22 @@ img {
   margin-top: -5px;
   margin-bottom: 60px;
 }
+.section-title1 {
+  text-align: left;
+  position: relative;
+  margin-top: -5px;
+  margin-bottom: 60px;
+}
 
+.section-title .sub-title {
+  text-transform: uppercase;
+  display: block;
+  color: rgba(17, 88, 165, 1);
+  font-weight: 500;
+  margin-bottom: 10px;
+  margin-top: 50px;
+  padding-top: 50px;
+}
 .section-title .sub-title {
   text-transform: uppercase;
   display: block;
@@ -419,6 +434,11 @@ img {
 }
 
 .section-title h2 {
+  margin-bottom: 12px;
+  font-size: 37px;
+  font-weight: 700;
+}
+.section-title1 h2 {
   margin-bottom: 12px;
   font-size: 37px;
   font-weight: 700;
@@ -12184,4 +12204,106 @@ Page Privacy CSS
   font-size: 16px;
   padding-right: 20px;
   padding-left: 37px;
+}
+
+.priv-detail .priv-content {
+  border: 1px dashed #eeeeee;
+  padding: 30px;
+}
+
+.priv .priv-item {
+  display: none;
+}
+
+.priv .priv-item:first-child {
+  display: block;
+}
+
+.priv-detail {
+  margin-top: 50px;
+}
+
+.priv-detail .priv {
+  list-style-type: none;
+  margin-bottom: -1px;
+  padding-left: 0;
+}
+
+.priv-detail .priv li {
+  display: inline-block;
+  line-height: initial;
+  margin-right: 5px;
+}
+
+.priv-detail .priv li a {
+  display: inline-block;
+  position: relative;
+  color: #252525;
+  border: 1px dashed #eeeeee;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-right: 30px;
+  padding-left: 48px;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.priv-detail .priv li a .dot {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  left: 30px;
+  width: 12px;
+  height: 12px;
+  border: 1px solid #252525;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  border-radius: 50%;
+}
+
+.priv-detail .priv li a .dot::before {
+  position: absolute;
+  top: 0;
+  content: '';
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #252525;
+  margin: 2px;
+  border-radius: 50%;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.priv-detail .priv-content .priv-item .priv-detail-content p {
+  margin-bottom: 20px;
+  line-height: 1.8;
+
+}
+
+.priv-detail .priv-content .priv-item .priv-detail-content p:last-child {
+  margin-bottom: 0;
+}
+.axil-privacy-area .section-title1 .title {
+  display: inline-block;
+  padding-bottom: 16px;
+  border-bottom: 3px solid ;
+  border-color: rgba(16, 86, 162, 1);
+  text-align: left;
+}
+.axil-privacy-area .p .text {
+ text-align: justify;
+}
+
+.mb--40{
+  margin-bottom: 40px !important;
+}
+
+.pl--50{
+  padding-left: 50px !important;
+}
+
+.pl--70{
+  padding-left: 70px !important;
 }
