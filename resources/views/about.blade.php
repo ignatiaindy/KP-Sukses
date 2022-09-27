@@ -172,7 +172,7 @@
         <!-- End About Area -->
 
          <!-- Start Offer Area -->
-         <section class="offer-areaa pt-100 jarallax" data-jarallax='{"speed": 0.3}'>
+         <!-- <section class="offer-areaa pt-100 jarallax" data-jarallax='{"speed": 0.3}'>
             <div class="container">
                 <div class="section-title">
                     <h2>Inosoft Values</h2>
@@ -208,7 +208,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- End Offer Area -->
         
 
@@ -266,7 +266,7 @@
       
 
          <!-- Start Newcomers Area -->
-         <div class="new-comers-area ptb-100">
+         <!-- <div class="new-comers-area ptb-100">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-16 col-md-12">
@@ -313,11 +313,11 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- End Newcomers Area -->
 
           <!-- Start How It Works Area -->
-          <section class="how-it-works-area pt-100 pb-70">
+          <!-- <section class="how-it-works-area pt-100 pb-70">
             <div class="container">
                 <div class="section-title">
                     <h2>Recruitment Process</h2>
@@ -365,7 +365,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- End How It Works Area -->
 
        
@@ -631,7 +631,7 @@
                     <div class="back-copy-right">
                         <ul>
                             <a href="privacy">Privacy Policy</a>
-                            <a href="terms">Terms And Conditions</a>
+                            <a href="#">Terms And Conditions</a>
                         </ul>
                     </div>
                 </div>
