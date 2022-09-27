@@ -156,17 +156,17 @@
                                 <p>Kebijakan Privasi ini (serta syarat penggunaan dari situs Inosoft Bootcamp sebagaimana tercantum dalam "Syarat & Ketentuan" dan informasi lain yang tercantum di Platform) menetapkan dasar atas perolehan, pengumpulan, pengolahan, penganalisisan, penampilan, pembukaan, dan/atau segala bentuk pengelolaan yang terkait dengan data atau informasi yang Anda berikan kepada Inosoft Bootcamp atau yang Inosoft Bootcamp kumpulkan dari Pengguna, termasuk data pribadi Anda, baik pada saat Anda melakukan pendaftaran di Platform, mengakses Platform, maupun mengunakan layanan-layanan pada Platform (selanjutnya disebut sebagai "data"). Kebijakan Privasi ini berlaku bagi seluruh pengguna Platform, kecuali diatur pada Kebijakan Privasi yang terpisah. Mohon membaca Kebijakan Privasi Kami dengan seksama sehingga Penghuna dapat memahami pendekatan dan cara Kami dalam menggunakan informasi tersebut.</p>
                                 <p>Dengan mengakses dan/atau menggunakan Platform Inosoft Bootcamp, Anda menyatakan bahwa setiap data Anda merupakan data yang benar dan sah, serta Anda memberikan persetujuan kepada Inosoft Bootcamp untuk memperoleh, mengumpulkan, menyimpan, mengelola, dan mempergunakan data tersebut sebagaimana tercantum dalam Kebijakan Privasi maupun Syarat dan Ketentuan Inosoft Bootcamp.</p>
                                 <p>Kebijakan Privasi ini mencakup hal-hal sebagai berikut:</p>
-                                <ul class="mb--40">
-                                    <p>A. Informasi Pribadi yang Dapat kami Kumpulkan</p>
-                                    <p>B. Penggunaan Informasi Pribadi</p>
-                                    <p>C. Pengungkapan Informasi Pribadi</p>
-                                    <p>D. Penyimpanan Informasi Pribadi</p>
-                                    <p>E. Hak Anda</p>
-                                    <p>F. Kebijakan Cookies</p>
-                                    <p>G. Pengakuan dan Persetujuan</p>
-                                    <p>H. Materi Pemasaran</p>
-                                    <p>I. Perubahan dalam Kebijakan Privasi Kami</p>
-                                    <p>J. Cara Menghubungi Kami</p>
+                                <ul class="content">
+                                    <li>A. Informasi Pribadi yang Dapat kami Kumpulkan</li>
+                                    <li>B. Penggunaan Informasi Pribadi</li>
+                                    <li>C. Pengungkapan Informasi Pribadi</li>
+                                    <li>D. Penyimpanan Informasi Pribadi</li>
+                                    <li>E. Hak Anda</li>
+                                    <li>F. Kebijakan Cookies</li>
+                                    <li>G. Pengakuan dan Persetujuan</li>
+                                    <li>H. Materi Pemasaran</li>
+                                    <li>I. Perubahan dalam Kebijakan Privasi Kami</li>
+                                    <li>J. Cara Menghubungi Kami</li>
                                 </ul>
                                 <p><b>Dengan mengunjungi dan/atau mendaftar Akun pada Platform Kami, Anda dan/atau orang tua, wali atau pengampu Anda (jika Anda berusia dibawah 18 (delapan belas) tahun) menerima dan menyetujui pendekatan dan cara-cara yang digambarkan dalam Kebijakan Privasi ini.</b></p>
                                 <br>
@@ -176,15 +176,15 @@
 
                                 <p>Kami dapat mengumpulkan Informasi Pribadi berupa:</p>
 
-                                <ul class="mb--40">
-                                    <p>a. <b>Informasi yang Anda berikan.</b> Anda dapat memberikan informasi melalui formulir elektronik pada Platform Kami maupun dengan berkorespondensi melalui telepon, surat elektronik, dan sebagainya. Informasi ini meliputi informasi yang Anda berikan ketika mendaftar pada Platform Kami, berlangganan layanan Kami, mencari produk, berpatisipasi dalam diskusi online atau fungsi media sosial lain pada Platform Kami, mengikuti kompetisi, promosi, atau survei, serta ketika Anda melaporkan masalah dengan platform Kami. Informasi yang Anda berikan dapat meliputi nama, alamat, alamat surat elektronik, nomor telepon, deskripsi pribadi, foto, dan data lainnya. Kami dapat meminta Anda untuk melakukan verifikasi terhadap informasi yang Anda berikan untuk memastikan akurasi dari informasi tersebut.</p>
+                                <ul class="content">
+                                    <li>a. <b>Informasi yang Anda Berikan</b> Anda dapat memberikan informasi melalui formulir elektronik pada Platform Kami maupun dengan berkorespondensi melalui telepon, surat elektronik, dan sebagainya. Informasi ini meliputi informasi yang Anda berikan ketika mendaftar pada Platform Kami, berlangganan layanan Kami, mencari produk, berpatisipasi dalam diskusi online atau fungsi media sosial lain pada Platform Kami, mengikuti kompetisi, promosi, atau survei, serta ketika Anda melaporkan masalah dengan platform Kami. Informasi yang Anda berikan dapat meliputi nama, alamat, alamat surat elektronik, nomor telepon, deskripsi pribadi, foto, dan data lainnya. Kami dapat meminta Anda untuk melakukan verifikasi terhadap informasi yang Anda berikan untuk memastikan akurasi dari informasi tersebut.</li>
 
-                                    <p>b. <b>Informasi yang Kami Kumpulkan</b> Untuk setiap kunjungan Anda ke Platform Kami, Kami dapat mengumpulkan informasi berikut secara otomatis:</p>
+                                    <li>b. <b>Informasi yang Kami Kumpulkan</b> Untuk setiap kunjungan Anda ke Platform Kami, Kami dapat mengumpulkan informasi berikut secara otomatis:</li>
                                 </ul>
 
-                                <ul class="pl--50">
-                                    <p>i.	Informasi teknis, meliputi alamat Protokol Internet (IP address) yang digunakan untuk menghubungkan komputer Anda dengan internet, informasi log in Anda, jenis dan versi perambah (browser) yang digunakan, pengaturan zona waktu, jenis dan versi ekstensi perambah (browser plug-in), system operasi dan platform;</p>
-                                    <p>ii.	Informasi tentang kunjungan Anda, termasuk daftar lengkap Lokator Sumber Seragam (Uniform Resource Locators atau URL) yang dikunjungi menuju, melalui, dan dari Platform Kami (termasuk tanggal dan waktu); produk yang Anda lihat atau cari; waktu respon halaman, masalah pengunduhan, lama kunjungan pada halaman tertentu, informasi interaksi pada halaman (seperti pengguliran, klik, maupun pergerakan tetikus), metode yang digunakan untuk meninggalkan situs, serta nomor telepon yang digunakan untuk menghubungi layanan pelanggan Kami.</p>
+                                <ul class=" content pl--50">
+                                    <li>i.	Informasi teknis, meliputi alamat Protokol Internet (IP address) yang digunakan untuk menghubungkan komputer Anda dengan internet, informasi log in Anda, jenis dan versi perambah (browser) yang digunakan, pengaturan zona waktu, jenis dan versi ekstensi perambah (browser plug-in), system operasi dan platform;</p>
+                                    <li>ii.	Informasi tentang kunjungan Anda, termasuk daftar lengkap Lokator Sumber Seragam (Uniform Resource Locators atau URL) yang dikunjungi menuju, melalui, dan dari Platform Kami (termasuk tanggal dan waktu); produk yang Anda lihat atau cari; waktu respon halaman, masalah pengunduhan, lama kunjungan pada halaman tertentu, informasi interaksi pada halaman (seperti pengguliran, klik, maupun pergerakan tetikus), metode yang digunakan untuk meninggalkan situs, serta nomor telepon yang digunakan untuk menghubungi layanan pelanggan Kami.</p>
                                     <p>iii.	Data nilai Anda, termasuk namun tidak terbatas pada hasil ujian Anda yang diperoleh melalui Platform, serta data akademis lain.</p>
                                 </ul>
                                 <br>
@@ -195,8 +195,8 @@
 
                                 <h3>B. Penggunaan Informasi Pribadi</h3><br>
                                 <p>Kami menggunakan Informasi Pribadi dengan cara-cara berikut:</p>
-                                <ul class="mb--40">
-                                    <p>a. <b>Informasi yang Anda berikan</b></p>
+                                <ul class="content">
+                                    <li>a. <b>Informasi yang Anda berikan</b></li>
                                 </ul>
                                 <ul class="pl--50">
                                     <p>Kami akan menggunakan informasi ini:</p>
