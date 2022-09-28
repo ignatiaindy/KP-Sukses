@@ -12292,28 +12292,41 @@ Page Privacy CSS
   border-color: rgba(16, 86, 162, 1);
   text-align: left;
 }
-.axil-privacy-area .p .text {
+.axil-privacy-area .paragraf  {
  text-align: justify;
 }
 
 .axil-privacy-area .content{
   padding-left: 0px;
-  list-style-type: none;
   margin-bottom: 0;
+}
+.axil-privacy-area .content1{
+  padding-left: 0px;
+  margin-bottom: 0;
+  list-style-type: none;
 }
 .axil-privacy-area .content li {
   font-family: "Poppins", sans-serif;
   margin-bottom: 11px;
   color: #727695;
+  text-align: justify;
 }
 .mb--40{
   margin-bottom: 40px !important;
 }
-
+.pl--20{
+  padding-left: 20px !important;
+}
+.pl--30{
+  padding-left: 30px !important;
+}
 .pl--50{
   padding-left: 50px !important;
 }
 
 .pl--70{
   padding-left: 70px !important;
+}
+.pl--80{
+  padding-left: 80px !important;
 }
