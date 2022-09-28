@@ -1480,13 +1480,13 @@
   .widget-area .widget .widget-title {
     font-size: 17px;
   }
-  .widget-area .widget_raque_posts_thumb .item .info {
+  .widget-area .widget_ino_posts_thumb .item .info {
     margin-top: 0;
   }
-  .widget-area .widget_raque_posts_thumb .item .info time {
+  .widget-area .widget_ino_posts_thumb .item .info time {
     margin-top: 0;
   }
-  .widget-area .widget_raque_posts_thumb .item .info .title {
+  .widget-area .widget_ino_posts_thumb .item .info .title {
     font-size: 14px;
   }
   .widget-area .widget_categories ul li {
@@ -2551,10 +2551,10 @@
   .header-area.header-color-white .navbar-area .mean-container a.meanmenu-reveal {
     color: #ffffff;
   }
-  .header-area.header-color-white .raque-responsive-nav .raque-responsive-menu.mean-container .mean-nav .others-option .search-box {
+  .header-area.header-color-white .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .search-box {
     color: rgba(255, 255, 255, 0.87);
   }
-  .header-area.header-color-white .raque-responsive-nav .raque-responsive-menu.mean-container .mean-nav .others-option .search-box:hover {
+  .header-area.header-color-white .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .search-box:hover {
     color: #ffffff;
   }
   .gym-main-banner {
@@ -2938,7 +2938,7 @@
             flex: 0 0 33.3333333333%;
     max-width: 33.3333333333%;
   }
-  .raque-responsive-nav .raque-responsive-menu.mean-container .mean-nav .others-option {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option {
     display: block;
   }
   .hero-banner .container-fluid {
@@ -3140,16 +3140,16 @@
     padding-top: 0;
     padding-bottom: 0;
   }
-  .raque-responsive-nav .raque-responsive-menu.mean-container .mean-nav {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav {
     margin-top: 60px;
   }
-  .raque-responsive-nav .raque-responsive-menu.mean-container .mean-nav ul {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav ul {
     font-size: 15px;
   }
-  .raque-responsive-nav .raque-responsive-menu.mean-container .mean-nav .others-option {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option {
     display: block;
   }
-  .raque-responsive-nav .raque-responsive-menu.mean-container .navbar-nav {
+  .ino-responsive-nav .ino-responsive-menu.mean-container .navbar-nav {
     height: 306px;
   }
   .main-banner {
@@ -3992,10 +3992,10 @@
   .header-area.header-color-white .navbar-area .mean-container a.meanmenu-reveal {
     color: #ffffff;
   }
-  .header-area.header-color-white .raque-responsive-nav .raque-responsive-menu.mean-container .mean-nav .others-option .search-box {
+  .header-area.header-color-white .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .search-box {
     color: rgba(255, 255, 255, 0.87);
   }
-  .header-area.header-color-white .raque-responsive-nav .raque-responsive-menu.mean-container .mean-nav .others-option .search-box:hover {
+  .header-area.header-color-white .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .search-box:hover {
     color: #ffffff;
   }
   .gym-main-banner {

@@ -152,22 +152,23 @@
                                 <div class="section-title1">
                                     <h2 class="title">Kebijakan Privasi Inosoft Bootcamp</h2>
                                 </div>
-                                <p>Inosoft Bootcamp (“Kami”) berkomitmen untuk menghormati dan melindungi setiap data atau informasi privasi pengguna (‘Anda” atau “Pengguna”) saat mengakses dan menggunakan aplikasi, fitur, konten, dan sistem teknologi di website yang dikelola Inosoft Bootcamp, dan situs-situs turunannya (selanjutnya disebut sebagai "Platform").</p>
+                            <div class="paragraf">
+                                <p>Inosoft Bootcamp (“Kami”) berkomitmen untuk menghormati dan melindungi setiap data atau informasi privasi pengguna (“Anda” atau “Pengguna”) saat mengakses dan menggunakan aplikasi, fitur, konten, dan sistem teknologi di website yang dikelola Inosoft Bootcamp, dan situs-situs turunannya (selanjutnya disebut sebagai "Platform").</p>
                                 <p>Kebijakan Privasi ini (serta syarat penggunaan dari situs Inosoft Bootcamp sebagaimana tercantum dalam "Syarat & Ketentuan" dan informasi lain yang tercantum di Platform) menetapkan dasar atas perolehan, pengumpulan, pengolahan, penganalisisan, penampilan, pembukaan, dan/atau segala bentuk pengelolaan yang terkait dengan data atau informasi yang Anda berikan kepada Inosoft Bootcamp atau yang Inosoft Bootcamp kumpulkan dari Pengguna, termasuk data pribadi Anda, baik pada saat Anda melakukan pendaftaran di Platform, mengakses Platform, maupun mengunakan layanan-layanan pada Platform (selanjutnya disebut sebagai "data"). Kebijakan Privasi ini berlaku bagi seluruh pengguna Platform, kecuali diatur pada Kebijakan Privasi yang terpisah. Mohon membaca Kebijakan Privasi Kami dengan seksama sehingga Penghuna dapat memahami pendekatan dan cara Kami dalam menggunakan informasi tersebut.</p>
                                 <p>Dengan mengakses dan/atau menggunakan Platform Inosoft Bootcamp, Anda menyatakan bahwa setiap data Anda merupakan data yang benar dan sah, serta Anda memberikan persetujuan kepada Inosoft Bootcamp untuk memperoleh, mengumpulkan, menyimpan, mengelola, dan mempergunakan data tersebut sebagaimana tercantum dalam Kebijakan Privasi maupun Syarat dan Ketentuan Inosoft Bootcamp.</p>
                                 <p>Kebijakan Privasi ini mencakup hal-hal sebagai berikut:</p>
-                                <ul class="content">
-                                    <li>A. Informasi Pribadi yang Dapat kami Kumpulkan</li>
-                                    <li>B. Penggunaan Informasi Pribadi</li>
-                                    <li>C. Pengungkapan Informasi Pribadi</li>
-                                    <li>D. Penyimpanan Informasi Pribadi</li>
-                                    <li>E. Hak Anda</li>
-                                    <li>F. Kebijakan Cookies</li>
-                                    <li>G. Pengakuan dan Persetujuan</li>
-                                    <li>H. Materi Pemasaran</li>
-                                    <li>I. Perubahan dalam Kebijakan Privasi Kami</li>
-                                    <li>J. Cara Menghubungi Kami</li>
-                                </ul>
+                                <ol class="content pl--50 " type ="A">
+                                    <li>Informasi Pribadi yang Dapat kami Kumpulkan</li>
+                                    <li>Penggunaan Informasi Pribadi</li>
+                                    <li>Pengungkapan Informasi Pribadi</li>
+                                    <li>Penyimpanan Informasi Pribadi</li>
+                                    <li>Hak Anda</li>
+                                    <li>Kebijakan Cookies</li>
+                                    <li>Pengakuan dan Persetujuan</li>
+                                    <li>Materi Pemasaran</li>
+                                    <li>Perubahan dalam Kebijakan Privasi Kami</li>
+                                    <li>Cara Menghubungi Kami</li>
+                                </ol>
                                 <p><b>Dengan mengunjungi dan/atau mendaftar Akun pada Platform Kami, Anda dan/atau orang tua, wali atau pengampu Anda (jika Anda berusia dibawah 18 (delapan belas) tahun) menerima dan menyetujui pendekatan dan cara-cara yang digambarkan dalam Kebijakan Privasi ini.</b></p>
                                 <br>
                                 <h3>A. Informasi pribadi yang dapat kami kumpulkan</h3><br>
@@ -176,86 +177,78 @@
 
                                 <p>Kami dapat mengumpulkan Informasi Pribadi berupa:</p>
 
-                                <ul class="content">
-                                    <li>a. <b>Informasi yang Anda Berikan</b> Anda dapat memberikan informasi melalui formulir elektronik pada Platform Kami maupun dengan berkorespondensi melalui telepon, surat elektronik, dan sebagainya. Informasi ini meliputi informasi yang Anda berikan ketika mendaftar pada Platform Kami, berlangganan layanan Kami, mencari produk, berpatisipasi dalam diskusi online atau fungsi media sosial lain pada Platform Kami, mengikuti kompetisi, promosi, atau survei, serta ketika Anda melaporkan masalah dengan platform Kami. Informasi yang Anda berikan dapat meliputi nama, alamat, alamat surat elektronik, nomor telepon, deskripsi pribadi, foto, dan data lainnya. Kami dapat meminta Anda untuk melakukan verifikasi terhadap informasi yang Anda berikan untuk memastikan akurasi dari informasi tersebut.</li>
+                                <ol class="content pl--20"type ="a">
+                                    <li><b>Informasi yang Anda Berikan</b> Anda dapat memberikan informasi melalui formulir elektronik pada Platform Kami maupun dengan berkorespondensi melalui telepon, surat elektronik, dan sebagainya. Informasi ini meliputi informasi yang Anda berikan ketika mendaftar pada Platform Kami, berlangganan layanan Kami, mencari produk, berpatisipasi dalam diskusi online atau fungsi media sosial lain pada Platform Kami, mengikuti kompetisi, promosi, atau survei, serta ketika Anda melaporkan masalah dengan platform Kami. Informasi yang Anda berikan dapat meliputi nama, alamat, alamat surat elektronik, nomor telepon, deskripsi pribadi, foto, dan data lainnya. Kami dapat meminta Anda untuk melakukan verifikasi terhadap informasi yang Anda berikan untuk memastikan akurasi dari informasi tersebut.</li>
 
-                                    <li>b. <b>Informasi yang Kami Kumpulkan</b> Untuk setiap kunjungan Anda ke Platform Kami, Kami dapat mengumpulkan informasi berikut secara otomatis:</li>
-                                </ul>
+                                    <li><b>Informasi yang Kami Kumpulkan</b> Untuk setiap kunjungan Anda ke Platform Kami, Kami dapat mengumpulkan informasi berikut secara otomatis:</li>
+                                        <ol class=" content pl--30" type = "i">
+                                        <li>Informasi teknis, meliputi alamat Protokol Internet (IP address) yang digunakan untuk menghubungkan komputer Anda dengan internet, informasi log in Anda, jenis dan versi perambah (browser) yang digunakan, pengaturan zona waktu, jenis dan versi ekstensi perambah (browser plug-in), system operasi dan platform;</li>
+                                        <li>Informasi tentang kunjungan Anda, termasuk daftar lengkap Lokator Sumber Seragam (Uniform Resource Locators atau URL) yang dikunjungi menuju, melalui, dan dari Platform Kami (termasuk tanggal dan waktu); produk yang Anda lihat atau cari; waktu respon halaman, masalah pengunduhan, lama kunjungan pada halaman tertentu, informasi interaksi pada halaman (seperti pengguliran, klik, maupun pergerakan tetikus), metode yang digunakan untuk meninggalkan situs, serta nomor telepon yang digunakan untuk menghubungi layanan pelanggan Kami.</li>
+                                        <li>Data nilai Anda, termasuk namun tidak terbatas pada hasil ujian Anda yang diperoleh melalui Platform, serta data akademis lain.</li>
+                                        </ol>
+                                    <li><b>Informasi yang Kami terima dari sumber lain.</b> Kami dapat menerima informasi jika Anda menggunakan situs lain yang Kami operasikan atau layanan lain yang Kami sediakan. Kami juga bekerja sama dengan pihak ketiga (termasuk, namun tidak terbatas pada misalnya, mitra bisnis, sub-kontraktor dalam pelayanan teknis, jasa pembayaran dan pengantaran, jaringan periklanan, penyedia analisis, penyedia pencarian informasi, serta agen acuan kredit) (“Mitra Kami”) dan dapat menerima informasi dari mereka. Kami akan mengambil langkah-langkah dalam batas kewajaran untuk melakukan verifikasi terhadap informasi yang Kami dapatkan dari sumber lain sesuai dengan Peraturan yang Berlaku.</li>
+                                </ol>
 
-                                <ul class=" content pl--50">
-                                    <li>i.	Informasi teknis, meliputi alamat Protokol Internet (IP address) yang digunakan untuk menghubungkan komputer Anda dengan internet, informasi log in Anda, jenis dan versi perambah (browser) yang digunakan, pengaturan zona waktu, jenis dan versi ekstensi perambah (browser plug-in), system operasi dan platform;</p>
-                                    <li>ii.	Informasi tentang kunjungan Anda, termasuk daftar lengkap Lokator Sumber Seragam (Uniform Resource Locators atau URL) yang dikunjungi menuju, melalui, dan dari Platform Kami (termasuk tanggal dan waktu); produk yang Anda lihat atau cari; waktu respon halaman, masalah pengunduhan, lama kunjungan pada halaman tertentu, informasi interaksi pada halaman (seperti pengguliran, klik, maupun pergerakan tetikus), metode yang digunakan untuk meninggalkan situs, serta nomor telepon yang digunakan untuk menghubungi layanan pelanggan Kami.</p>
-                                    <p>iii.	Data nilai Anda, termasuk namun tidak terbatas pada hasil ujian Anda yang diperoleh melalui Platform, serta data akademis lain.</p>
-                                </ul>
+                                
                                 <br>
 
-                                <ul class="mb--40">
-                                    <p>c. <b>Informasi yang Kami terima dari sumber lain.</b> Kami dapat menerima informasi jika Anda menggunakan situs lain yang Kami operasikan atau layanan lain yang Kami sediakan. Kami juga bekerja sama dengan pihak ketiga (termasuk, namun tidak terbatas pada misalnya, mitra bisnis, sub-kontraktor dalam pelayanan teknis, jasa pembayaran dan pengantaran, jaringan periklanan, penyedia analisis, penyedia pencarian informasi, serta agen acuan kredit) (“Mitra Kami”) dan dapat menerima informasi dari mereka. Kami akan mengambil langkah-langkah dalam batas kewajaran untuk melakukan verifikasi terhadap informasi yang Kami dapatkan dari sumber lain sesuai dengan Peraturan yang Berlaku.</p>
-                                </ul>
+                                
 
                                 <h3>B. Penggunaan Informasi Pribadi</h3><br>
                                 <p>Kami menggunakan Informasi Pribadi dengan cara-cara berikut:</p>
-                                <ul class="content">
-                                    <li>a. <b>Informasi yang Anda berikan</b></li>
+                                <ol class="content pl--20" type ="a">
+                                    <li><b>Informasi yang Anda berikan</b></li>
+                                            <ul class="pl--50">
+                                            <p>Kami akan menggunakan informasi ini:</p>
+                                            </ul>
+                                            <ol class="content pl--80"type="i">
+                                                <li>untuk menjalankan kewajiban Kami dalam menyediakan informasi, produk, jasa, promosi, kompetisi, dan program lain yang dimiliki oleh Inosoft Bootcamp kepada Anda.</li>
+                                                <li>untuk menyediakan informasi terkait produk dan jasa lain yang Kami tawarkan; guna menyediakan Anda, atau mengizinkan pihak ketiga untuk menyediakan Anda, informasi tentang produk dan jasa yang Kami anggap dapat menarik minat Anda. Jika Anda adalah pelanggan lama, Kami dapat menghubungi Anda secara elektronik atau cara-cara lain dengan informasi tentang produk dan jasa Kami. Jika Anda adalah pelanggan baru, dan di mana Kami mengizinkan pihak ketiga untuk menggunakan Data Pribadi Anda, Kami (atau mereka) dapat menghubungi Anda secara elektronik hanya jika Anda sudah memberikan persetujuan.</li>
+                                                <li>menghubungi Anda untuk membantu dan/atau menyelesaikan proses penyelesaian kendala.</li>
+                                                <li>untuk memberitahukan Anda tentang perubahan pada jasa Kami.</li>
+                                                <li>untuk memastikan bahwa konten dari Platform Kami disajikan dengan cara yang paling efektif bagi Anda.</li>
+                                            </ol>
+                                        <li><b>Informasi yang Kami kumpulkan</b></li>
+                                        <ul class="content1 pl--50">
+                                        <li>Kami akan menggunakan informasi ini:</li>
+                                    </ul>
+                                    <ol class="content pl--80"type="i">
+                                        <li>untuk mengelola Platform dan operasi internal Kami, termasuk pencarian sumber masalah (troubleshooting), analisis data, pengujian, penelitian, mengembangkan fitur dan produk baru, serta tujuan-tujuan statistik dan survei lainnya.</li>
+                                        <li>untuk memperbaiki Platform Kami sehingga konten dipastikan dapat disajikan dengan cara yang paling efektif untuk Anda.</li>
+                                        <li>untuk memungkinkan Anda berpartisipasi dalam fitur interaktif layanan Kami, ketika Anda inginkan.</li>
+                                        <li>sebagai bagian dari usaha dalam memastikan keselamatan dan keamanan seluruh data Platform Kami.</li>
+                                        <li>untuk mengukur dan memahami efektivitas periklanan yang Kami lakukan kepada Anda dan pihak lain, serta menyajikan iklan produk dan jasa yang relevan bagi Anda.</li>
+                                        <li>Untuk memberi masukan dan rekomendasi kepada Anda dan pengguna lain dalam Platform Kami mengenai produk dan jasa yang dapat menarik minat Anda dan mereka.</li>
+                                    </ol>
+                                    <li><b>Informasi yang Kami terima dari sumber lain</b></li>
+                                    <ul class="content1 pl--50">
+                                    <li>Kami dapat menggabungkan informasi yang Kami terima dari sumber lain dengan informasi yang Anda berikan dan informasi yang Kami kumpulkan. Kami dapat menggunakan informasi ini maupun informasi gabungan untuk tujuan yang diatur di atas (tergantung tipe informasi yang Kami terima).</li>
                                 </ul>
-                                <ul class="pl--50">
-                                    <p>Kami akan menggunakan informasi ini:</p>
-                                </ul>
-                                <ul class="pl--70">
-                                    <p>i.	untuk menjalankan kewajiban Kami dalam menyediakan informasi, produk, jasa, promosi, kompetisi, dan program lain yang dimiliki oleh Inosoft Bootcamp kepada Anda.</p>
-                                    <p>ii.	untuk menyediakan informasi terkait produk dan jasa lain yang Kami tawarkan; guna menyediakan Anda, atau mengizinkan pihak ketiga untuk menyediakan Anda, informasi tentang produk dan jasa yang Kami anggap dapat menarik minat Anda. Jika Anda adalah pelanggan lama, Kami dapat menghubungi Anda secara elektronik atau cara-cara lain dengan informasi tentang produk dan jasa Kami. Jika Anda adalah pelanggan baru, dan di mana Kami mengizinkan pihak ketiga untuk menggunakan Data Pribadi Anda, Kami (atau mereka) dapat menghubungi Anda secara elektronik hanya jika Anda sudah memberikan persetujuan.</p>
-                                    <p>iii.	menghubungi Anda untuk membantu dan/atau menyelesaikan proses penyelesaian kendala.</p>
-                                    <p>iv.	untuk memberitahukan Anda tentang perubahan pada jasa Kami.</p>
-                                    <p>v.	untuk memastikan bahwa konten dari Platform Kami disajikan dengan cara yang paling efektif bagi Anda.</p>
-                                </ul>
-                                <br>
-
-                                <ul class="mb--40">
-                                    <p>b. <b>Informasi yang Kami kumpulkan</b></p>
-                                </ul>
-                                <ul class="pl--50">
-                                    <p>Kami akan menggunakan informasi ini:</p>
-                                </ul>
-                                <ul class="pl--70">
-                                    <p>i.	untuk mengelola Platform dan operasi internal Kami, termasuk pencarian sumber masalah (troubleshooting), analisis data, pengujian, penelitian, mengembangkan fitur dan produk baru, serta tujuan-tujuan statistik dan survei lainnya.</p>
-                                    <p>ii.	untuk memperbaiki Platform Kami sehingga konten dipastikan dapat disajikan dengan cara yang paling efektif untuk Anda.</p>
-                                    <p>iii.	untuk memungkinkan Anda berpartisipasi dalam fitur interaktif layanan Kami, ketika Anda inginkan.</p>
-                                    <p>iv.	sebagai bagian dari usaha dalam memastikan keselamatan dan keamanan seluruh data Platform Kami.</p>
-                                    <p>v.	untuk mengukur dan memahami efektivitas periklanan yang Kami lakukan kepada Anda dan pihak lain, serta menyajikan iklan produk dan jasa yang relevan bagi Anda.</p>
-                                    <p>vi.	Untuk memberi masukan dan rekomendasi kepada Anda dan pengguna lain dalam Platform Kami mengenai produk dan jasa yang dapat menarik minat Anda dan mereka.</p>
-                                </ul>
-                                <br>
-
-                                <ul class="mb--40">
-                                    <p>c. <b>Informasi yang Kami terima dari sumber lain.</b></p>
-                                </ul>
-                                <ul class="pl--50">
-                                    <p>Kami dapat menggabungkan informasi yang Kami terima dari sumber lain dengan informasi yang Anda berikan dan informasi yang Kami kumpulkan. Kami dapat menggunakan informasi ini maupun informasi gabungan untuk tujuan yang diatur di atas (tergantung tipe informasi yang Kami terima).</p>
-                                </ul>
-                                <br>
+                                </ol>
+                                
 
                                 <h3>C. Pengungkapan Informasi Pribadi</h3><br>
                                 <p>Kami dapat membagi atau menyingkap Data Pribadi dengan anggota kelompok usaha Kami, yang melingkupi cabang dan anak perusahaan, serta perusahaan induk utama dan anak perusahaannya.</p>
                                 <p>Kami dapat membagi Data Pribadi dengan pihak ketiga, termasuk :</p>
-                                <ul class="mb--40">
-                                    <p>a.	Mitra bisnis, pemasok, dan sub-kontraktor dalam penyelenggarakan kontrak yang Kami laksanakan dengan mereka atau Anda.</p>
-                                    <p>b.	Pemasang iklan dan jaringan iklan yang membutuhkan data untuk memilih dan menawarkan iklan yang relevan bagi Anda dan pengguna lain. Kami tidak membuka informasi tentang individu yang dapat diidentifikasi, namun Kami dapat menyediakan mereka informasi agregat tentang pengguna Kami (misalnya informasi bahwa 500 pria berusia di bawah 30 tahun telah mengakses tautan iklan mereka pada hari tertentu). Kami juga dapat memberikan informasi agregat untuk membantu pemasang iklan dalam menjangkau target audiens tertentu (misalnya, perempuan di Jakarta Pusat). Kami dapat menggunakan data personal yang Kami kumpulkan untuk memenuhi permintaan pemasang iklan dengan menampilkan iklan mereka kepada target audiens tersebut.</p>
-                                    <p>c.	Penyedia analisis dan mesin pencari yang membantu Kami untuk memperbaiki dan mengoptimasi Platform Kami.</p>
-                                </ul>
+                                <ol class="content mb--40 pl--50"type ="a">
+                                    <li>Mitra bisnis, pemasok, dan sub-kontraktor dalam penyelenggarakan kontrak yang Kami laksanakan dengan mereka atau Anda.</li>
+                                    <li>Pemasang iklan dan jaringan iklan yang membutuhkan data untuk memilih dan menawarkan iklan yang relevan bagi Anda dan pengguna lain. Kami tidak membuka informasi tentang individu yang dapat diidentifikasi, namun Kami dapat menyediakan mereka informasi agregat tentang pengguna Kami (misalnya informasi bahwa 500 pria berusia di bawah 30 tahun telah mengakses tautan iklan mereka pada hari tertentu). Kami juga dapat memberikan informasi agregat untuk membantu pemasang iklan dalam menjangkau target audiens tertentu (misalnya, perempuan di Jakarta Pusat). Kami dapat menggunakan data personal yang Kami kumpulkan untuk memenuhi permintaan pemasang iklan dengan menampilkan iklan mereka kepada target audiens tersebut.</li>
+                                    <li>Penyedia analisis dan mesin pencari yang membantu Kami untuk memperbaiki dan mengoptimasi Platform Kami.</li>
+                                </ol>
                                 <p>Kami dapat mengungkap informasi kepada pihak ketiga:</p>
-                                <ul class="mb--40">
-                                    <p>a.	Dalam situasi di mana Kami menjual atau membeli perusahaan dan/atau aset, Kami dapat menyingkap data kepada calon pembeli atau penjual dari perusahaan atau aset tersebut.</p>
-                                    <p>b.	Jika Inosoft Bootcamp atau perusahaan induknya atau aset-aset substansial yang terkait di dalamnya diperoleh oleh pihak ketiga, maka Data Personal yang dimiliki tentang pelanggan Kami akan menjadi salah satu aset yang dipindahtangankan.</p>
-                                    <p>c.	Jika Kami berada di bawah tanggung jawab untuk menyingkap atau membagi data guna mematuhi kewajiban hukum dan perjanjian lain; atau melindungi hak, harta benda, maupun keamanan dari Inosoft Bootcamp, pelanggan Kami, dan lain-lain. Hal ini mencakup penukaran informasi dengan perusahaan dan organisasi lain untuk tujuan perlindungan dari penipuan dan pengurangan risiko kredit.</p>
-                                </ul>
+                                <ol class="content mb--40 pl--50" type="a">
+                                    <li>Dalam situasi di mana Kami menjual atau membeli perusahaan dan/atau aset, Kami dapat menyingkap data kepada calon pembeli atau penjual dari perusahaan atau aset tersebut.</li>
+                                    <li>Jika Inosoft Bootcamp atau perusahaan induknya atau aset-aset substansial yang terkait di dalamnya diperoleh oleh pihak ketiga, maka Data Personal yang dimiliki tentang pelanggan Kami akan menjadi salah satu aset yang dipindahtangankan.</li>
+                                    <li>Jika Kami berada di bawah tanggung jawab untuk menyingkap atau membagi data guna mematuhi kewajiban hukum dan perjanjian lain; atau melindungi hak, harta benda, maupun keamanan dari Inosoft Bootcamp, pelanggan Kami, dan lain-lain. Hal ini mencakup penukaran informasi dengan perusahaan dan organisasi lain untuk tujuan perlindungan dari penipuan dan pengurangan risiko kredit.</li>
+                                </ol>
 
                                 <h3>D. Penyimpanan Informasi Pribadi</h3><br>
                                 <p>Seluruh informasi Pribadi yang Anda berikan kepada Kami disimpan di server yang aman. Dengan menyerahkan Informasi Pribadi Anda pada Platform, Anda menyetujui pengalihan, penyimpanan, serta pengolahan yang terjadi pada Platform Kami. Kami akan mengambil langkah-langkah dalam batas kewajaran yang diperlukan untuk memastikan bahwa Informasi Pribadi tersebut diperlakukan dengan aman dan sesuai dengan Kebijakan Privasi serta Peraturan yang Berlaku.</p>
                                 <p>Seluruh Informasi Pribadi yang Anda berikan akan Kami simpan: </p>
-                                <ul class="mb--40">
-                                    <p>a.	selama Anda masih menjadi pengguna dari Platform Kami dan </p>
-                                    <p>b.	sesuai dengan tujuan awal dari pengumpulan Informasi Pribadi tersebut.</p>
-                                </ul>
+                                <ol class="content mb--40 pl--50" type ="a">
+                                    <li>selama Anda masih menjadi pengguna dari Platform Kami dan </li>
+                                    <li>sesuai dengan tujuan awal dari pengumpulan Informasi Pribadi tersebut.</li>
+                                </ol>
                                 <p>Dalam situasi di mana Kami memberikan (atau Anda memilih) sebuah kata sandi (password) yang mengizinkan Anda untuk mengakses bagian-bagian tertentu pada Platform Kami, Anda bertanggung jawab untuk menjaga kerahasiaan kata sandi ini. Kami meminta Anda untuk tidak membagi kata sandi dengan siapa pun.</p>
                                 <p>Mohon untuk dapat diperhatikan bahwa transmisi informasi melalui internet tidak sepenuhnya aman. Meskipun demikian, Kami akan berusaha sebaik mungkin untuk melindungi Informasi Pribadi tersebut. Kami tidak bisa menjamin keamanan data yang dikirimkan ke Platform Kami; risiko dari setiap transmisi menjadi tanggung jawab Anda. Begitu Kami menerima Informasi Pribadi Anda, Kami akan menggunakan prosedur yang ketat dan fitur keamanan untuk mencegah akses yang tidak diizinkan.</p><br>
 
@@ -268,20 +261,20 @@
                                 <p>Ketika Anda menggunakan Platform, Kami dapat menempatkan sejumlah cookies pada browser Anda. Cookies adalah sebuah berkas digital kecil berisi huruf dan angka yang Kami simpan pada browser atau hard drive komputer Anda atas persetujuan Anda. Cookies mengandung informasi yang dipindahkan ke diska keras komputer Anda.</p>
                                 <p>Cookies dapat digunakan untuk tujuan berikut: </p>
 
-                                <ul class="mb--40">
-                                    <p>a.	mengaktifkan fungsi tertentu, </p>
-                                    <p>b.	memberikan analisis, </p>
-                                    <p>c.	menyimpan preferensi Anda; dan </p>
-                                    <p>d.	memungkinkan pengiriman iklan dan pengiklanan berdasarkan perilaku. Beberapa cookies ini hanya akan digunakan jika Anda menggunakan fitur tertentu, atau memilih preferensi tertentu, sementara sebagian Cookies lain akan selalu digunakan.</p>
-                                </ul>
+                                <ol class=" content mb--40 pl--50" type ="a">
+                                    <li>mengaktifkan fungsi tertentu, </li>
+                                    <li>memberikan analisis, </li>
+                                    <li>menyimpan preferensi Anda; dan </li>
+                                    <li>memungkinkan pengiriman iklan dan pengiklanan berdasarkan perilaku. Beberapa cookies ini hanya akan digunakan jika Anda menggunakan fitur tertentu, atau memilih preferensi tertentu, sementara sebagian Cookies lain akan selalu digunakan.</li>
+                                </ol>
 
                                 <p>Kami menggunakan cookies untuk alasan-alasan berikut:</p>
-                                <ul class="mb--40">
-                                    <p>a.	Cookies dibutuhkan untuk pengoperasian Platform Kami. Ini termasuk, misalnya, Cookies yang memungkinkan Anda memasuki Area yang aman di Platform Kami.</p>
-                                    <p>b.	Cookies memungkinkan Kami untuk mengenali dan menghitung jumlah pengunjung serta melihat bagaimana pengunjung bergerak di sekitar Platform Kami saat mereka menggunakannya. Ini membantu Kami memperbaiki cara kerja Platform Kami, misalnya, dengan memastikan pengguna menemukan apa yang mereka cari dengan mudah.</p>
-                                    <p>c.	Cookies digunakan untuk mengenali Anda saat kembali ke Platform Kami. Ini memungkinkan Kami melakukan personalisasi terhadap konten Kami untuk Anda, menyapa Anda dengan nama, serta mengingat preferensi Anda (misalnya, pilihan bahasa atau wilayah Anda).</p>
-                                    <p>d.	Cookies mencatat kunjungan Anda ke Platform Kami, halaman yang telah Anda kunjungi, serta tautan yang telah Anda ikuti. Kami akan menggunakan informasi ini untuk membuat Platform Kami serta iklan yang terpasang di dalamnya lebih relevan kepada minat Anda. Kami juga dapat membagi informasi ini dengan pihak ketiga untuk tujuan tersebut.</p>
-                                </ul>
+                                <ol class=" content mb--40 pl--50" type = "a">
+                                    <li>Cookies dibutuhkan untuk pengoperasian Platform Kami. Ini termasuk, misalnya, Cookies yang memungkinkan Anda memasuki Area yang aman di Platform Kami.</li>
+                                    <li>Cookies memungkinkan Kami untuk mengenali dan menghitung jumlah pengunjung serta melihat bagaimana pengunjung bergerak di sekitar Platform Kami saat mereka menggunakannya. Ini membantu Kami memperbaiki cara kerja Platform Kami, misalnya, dengan memastikan pengguna menemukan apa yang mereka cari dengan mudah.</li>
+                                    <li>Cookies digunakan untuk mengenali Anda saat kembali ke Platform Kami. Ini memungkinkan Kami melakukan personalisasi terhadap konten Kami untuk Anda, menyapa Anda dengan nama, serta mengingat preferensi Anda (misalnya, pilihan bahasa atau wilayah Anda).</li>
+                                    <li>Cookies mencatat kunjungan Anda ke Platform Kami, halaman yang telah Anda kunjungi, serta tautan yang telah Anda ikuti. Kami akan menggunakan informasi ini untuk membuat Platform Kami serta iklan yang terpasang di dalamnya lebih relevan kepada minat Anda. Kami juga dapat membagi informasi ini dengan pihak ketiga untuk tujuan tersebut.</li>
+                                </ol>
 
                                 <p>Mohon perhatikan bahwa pihak ketiga (termasuk, misalnya, jaringan periklanan dan penyedia jasa eksternal seperti jasa analisis lalu lintas web) juga dapat menggunakan Cookies ini, di mana Kami tidak memiliki kendali. Cookies ini cenderung membuat Platform Kami dan iklan yang ditampilkan di dalamnya lebih relevan dengan minat Anda, serta meningkatkan kinerja Platform Kami.</p>
                                 <p>Anda dapat menghapus Cookies dengan cara melakukan fungsi clear data pada mobile app maupun web browser Anda yang memungkinkan Anda untuk menolak pengaturan seluruh atau sebagian Cookies. Akan tetapi, Anda mungkin tidak dapat mengakses seluruh atau sebagian Platform Kami.</p><br>
@@ -302,7 +295,7 @@
                                 <p>Jika Anda memiliki pertanyaan, keluhan, kritik, dan saran mengenai Kebijakan Privasi ini atau Anda ingin mendapatkan akses dan/atau melakukan koreksi terhadap Informasi Pribadi Anda, silahkan dapat menghubungi Kami melalui email evy@inosoftweb.com atau telepon di nomor 087848041867 dan/atau melalui dokumen fisik ke alamat berikut: YKP Pandugo 2 Blok P No. 1, Penjaringan Sari, Rungkut, Surabaya</p>
                                 <br>
 
-
+                            </div>
                             </div>
                         </div>
                     </div>
