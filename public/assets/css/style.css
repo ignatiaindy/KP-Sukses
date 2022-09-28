@@ -12300,6 +12300,11 @@ Page Privacy CSS
   padding-left: 0px;
   margin-bottom: 0;
 }
+.axil-privacy-area .title{
+  padding-left: 0px;
+  margin-bottom: 0;
+  color: #000000;
+}
 .axil-privacy-area .content1{
   padding-left: 0px;
   margin-bottom: 0;
@@ -12329,4 +12334,7 @@ Page Privacy CSS
 }
 .pl--80{
   padding-left: 80px !important;
+}
+.pl--100{
+  padding-left: 100px !important;
 }
