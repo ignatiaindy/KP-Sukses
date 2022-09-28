@@ -152,41 +152,42 @@
                                 <div class="section-title1">
                                     <h2 class="title">Syarat dan Ketentuan Inosoft Bootcamp</h2>
                                 </div>
+                            <div class="paragraf">
                                 <p>Terima kasih telah mengunjungi Inosoft Bootcamp. Pada halaman ini akan dijelaskan ketentuan-ketentuan terkait dengan Inosoft Bootcamp. Kami menggunakan websitesebagai platform pembelajaran online. Dengan menggunakan platform Inosoft Bootcamp, maka Anda telah setuju dan patuh dengan Syarat dan Ketentuan penggunaan platform ini.</p>
                                 <p>Syarat dan Ketentuan ini merupakan perjanjian antara pengguna (“Anda”) dan Inosoft Bootcamp (“Kami”), yaitu sebuah perseroan terbatas yang didirikan dan beroperasi secara sah berdasarkan hukum Negara Republik Indonesia dan berdomisili di Surabaya, Indonesia. Syarat dan Ketentuan ini mengatur Anda saat mengakses dan menggunakan aplikasi, situs web dan situs web lain yang Kami kelola, fitur, teknologi, konten dan produk yang Kami sediakan (selanjutnya, secara Bersama-sama disebut sebagai “Platform”),</p>
                                 <p><b>Harap membaca Syarat dan Ketentuan ini secara seksama sebelum Anda mulai menggunakan Platform Kami, karena peraturan ini berlaku pada penggunaan Anda terhadap Platform Kami dan mengandung kesepakatan antara Inosoft Bootcamp dan Pengguna</b></p>
                                 <p>Syarat dan Ketentuan ini mencakup hal-hal sebagai berikut:</p>
-                                <ul class="mb--40">
-                                    <p>A.	Pembukaan Akun Anda</p>
-                                    <p>B.	Informasi Pribadi Anda</p>
-                                    <p>C.	Akses terhadap Platform Kami</p>
-                                    <p>D.	Penggunaan yang Dilarang</p>
-                                    <p>E.	Hak Kekayaan Intelektual</p>
-                                    <p>F.	Jaminan Konten</p>
-                                    <p>G.	Layanan Interaktif</p>
-                                    <p>H.	Laporan Kemungkinan Pelanggaran</p>
-                                    <p>I.	Tindakan yang Kami Anggap Perlu</p>
-                                    <p>J.	Membuat Link ke Platform Kami</p>
-                                    <p>K.	Link Pihak Ketiga Pada Platform Kami</p>
-                                    <p>L.	Tanggung Jawab Anda</p>
-                                    <p>M.	Batasan Tanggung Jawab Kami</p>
-                                    <p>N.	Keadaan Kahar (Force Majeure)</p>
-                                    <p>O.	Hukum yang Berlaku</p>
-                                    <p>P.	Ketentuan Lainnya</p>
-                                    <p>Q.	Cara Menghubungi Kami</p>
-                                </ul>
+                                <ol class="content pl--50 " type ="A">
+                                    <li>Pembukaan Akun Anda</li>
+                                    <li>Informasi Pribadi Anda</li>
+                                    <li>Akses terhadap Platform Kami</li>
+                                    <li>Penggunaan yang Dilarang</li>
+                                    <li>Hak Kekayaan Intelektual</li>
+                                    <li>Jaminan Konten</li>
+                                    <li>Layanan Interaktif</li>
+                                    <li>Laporan Kemungkinan Pelanggaran</li>
+                                    <li>Tindakan yang Kami Anggap Perlu</li>
+                                    <li>Membuat Link ke Platform Kami</li>
+                                    <li>Link Pihak Ketiga Pada Platform Kami</li>
+                                    <li>Tanggung Jawab Anda</li>
+                                    <li>Batasan Tanggung Jawab Kami</li>
+                                    <li>Keadaan Kahar (Force Majeure)</li>
+                                    <li>Hukum yang Berlaku</li>
+                                    <li>Ketentuan Lainnya</li>
+                                    <li>Cara Menghubungi Kami</li>
+                                </ol>
                                 <p>Anda harus berusia minimal 18 (delapan belas) tahun atau sudah menikah dan tidak berada di bawah perwalian atau pengampuan agar Anda secara hukum memiliki kapasitas dan berhak untuk mengikatkan diri pada Syarat dan Ketentuan ini. Jika Anda tidak memenuhi ketentuan tersebut, <b>maka tindakan Anda mendaftar, mengakses, menggunakan atau melakukan aktivitas lain dalam Platform Kami harus dalam sepengetahuan, pengawasan dan persetujuan yang sah dari orang tua atau wali atau pengampu Anda. </b>Orang tua, wali atau pengampu yang memberikan persetujuan bagi Anda yang berusia di bawah 18 (delapan belas) tahun bertanggung jawab secara penuh atas seluruh tindakan Anda dalam penggunaan dan akses terhadap Platform.</p>
                                 <p>Dengan mendaftar dan/atau menggunakan Platform Kami, maka Anda dan/atau orang tua, wali atau pengampu Anda (jika Anda berusia di bawah 18 tahun) dianggap telah membaca, mengerti, memahami dan menyetujui semua isi dalam Syarat dan Ketentuan ini.</p>
                                 <p>Dengan menyetujui Syarat dan Ketentuan ini, Anda juga menyetujui Syarat dan Ketentuan tambahan, termasuk Syarat dan Ketentuan atas setiap Layanan, dan perubahannya yang merupakan bagian yang tidak terpisahkan dari Syarat dan Ketentuan ini (selanjutnya, Syarat dan Ketentuan, Syarat dan Ketentuan tambahan, dan perubahannya secara bersama-sama disebut sebagai “Syarat dan Ketentuan”). Meskipun merupakan satu kesatuan, Syarat dan Ketentuan tambahan akan berlaku dalam hal terdapat perbedaan dengan Syarat dan Ketentuan.</p>
                                 <p>Jika Anda tidak menyetujui Syarat dan Ketentuan ini, Kami berhak untuk menghentikan akses dan penggunaan Anda terhadap Platform Kami.</p>
-                                <ul class="mb--40">
-                                    <p>a.	“Anda” atau “Pengguna” adalah setiap orang perorangan yang menggunakan layanan Inosoft Bootcamp.</p>
-                                    <p>b.	“Kami” atau “Inosoft Bootcamp” adalah Inosoft Bootcamp.</p>
-                                    <p>c.	“Platform” adalah aplikasi atau situs yang dioperasikan oleh Inosoft Bootcamp.</p>
-                                    <p>d.	“Situs” adalah www.sinergipeta.com.</p>
-                                    <p>e.	“Konten” adalah segala bentuk tautan atau materi yang diunggah pada aplikasi atau situs yang dioperasikan oleh Inosoft Bootcamp.</p>
-                                    <p>f.	“Keadaan Kahar” adalah kejadian di luar kewenangan atau kendali termasuk namun tidak terbatas pada bencana alam, gangguan listrik,</p>
-                                </ul>
+                                <ol class=" content pl--50"type ="a">
+                                    <li>“Anda” atau “Pengguna” adalah setiap orang perorangan yang menggunakan layanan Inosoft Bootcamp.</li>
+                                    <li>“Kami” atau “Inosoft Bootcamp” adalah Inosoft Bootcamp.</li>
+                                    <li>“Platform” adalah aplikasi atau situs yang dioperasikan oleh Inosoft Bootcamp.</li>
+                                    <li>“Situs” adalah www.sinergipeta.com.</li>
+                                    <li>“Konten” adalah segala bentuk tautan atau materi yang diunggah pada aplikasi atau situs yang dioperasikan oleh Inosoft Bootcamp.</li>
+                                    <li>“Keadaan Kahar” adalah kejadian di luar kewenangan atau kendali termasuk namun tidak terbatas pada bencana alam, gangguan listrik,</li>
+                                </ol>
 
                                 <h3>A. Pembukaan Akun Anda</h3><br>
                                 <p>Sebelum menggunakan Platform, Anda menyetujui Syarat dan Ketentuan ini dan Kebijakan Privasi, dan mendaftarkan diri Anda dengan memberikan informasi yang Kami butuhkan. Saat melakukan pendaftaran, Kami akan meminta Anda untuk memberikan nama lengkap, alamat surat elektronik dan nomor telepon genggam pribadi Anda. Kami juga dapat menghentikan penggunaan Platform jika dikemudian hari data-data yang Anda berikan kepada Kami terbukti tidak benar.
@@ -212,26 +213,26 @@
 
                                 <h3>D. Penggunaan yang Dilarang</h3><br>
                                 <p>Anda hanya diperbolehkan menggunakan Platform kami untuk tujuan-tujuan yang sah menurut hukum. Anda tidak boleh menggunakan Platform Kami:</p>
-                                <ul class="mb--40">
-                                    <p>a.	Dengan cara-cara yang melanggar hukum dan peraturan lokal, nasional, maupun internasional yang berlaku.</p>
-                                    <p>b.	Dengan cara-cara yang melanggar hukum atau menipu, atau memiliki tujuan atau dampak yang melanggar hukum atau menipu.</p>
-                                    <p>c.	Mengirim, secara sadar menerima, mengunggah, mengunduh, menggunakan, atau menggunakan kembali materi yang tidak sesuai dengan standar konten Kami.</p>
-                                    <p>d.	Menyebarkan atau mengirimkan materi iklan atau promosi yang tidak diinginkan atau tidak sah, serta bentuk permintaan serupa lainnya (seperti spam).</p>
-                                    <p>e.	Dengan sengaja meneruskan data, mengirim atau mengunggah materi yang mengandung virus, trojan, worm, logic bomb, keystroke loggers, spyware, adware, maupun program berbahaya lainnya atau kode komputer sejenis yang dirancang untuk memberikan efek merugikan terhadap pengoperasian perangkat lunak atau perangkat keras apa pun.</p>
-                                    <p>f.	Berusaha memperoleh akses yang tidak sah ke dalam Platform Kami maupun sistem dan jaringan terkait.</p>
-                                    <p>g.	Menyamar sebagai individu atau entitas lain yang tidak mencerminkan afiliasi Anda sebenarnya dengan seseorang atau suatu entitas</p>
-                                </ul>
+                                <ol class=" content pl--50"type="a">
+                                    <li>Dengan cara-cara yang melanggar hukum dan peraturan lokal, nasional, maupun internasional yang berlaku.</li>
+                                    <li>Dengan cara-cara yang melanggar hukum atau menipu, atau memiliki tujuan atau dampak yang melanggar hukum atau menipu.</li>
+                                    <li>Mengirim, secara sadar menerima, mengunggah, mengunduh, menggunakan, atau menggunakan kembali materi yang tidak sesuai dengan standar konten Kami.</li>
+                                    <li>Menyebarkan atau mengirimkan materi iklan atau promosi yang tidak diinginkan atau tidak sah, serta bentuk permintaan serupa lainnya (seperti spam).</li>
+                                    <li>Dengan sengaja meneruskan data, mengirim atau mengunggah materi yang mengandung virus, trojan, worm, logic bomb, keystroke loggers, spyware, adware, maupun program berbahaya lainnya atau kode komputer sejenis yang dirancang untuk memberikan efek merugikan terhadap pengoperasian perangkat lunak atau perangkat keras apa pun.</li>
+                                    <li>Berusaha memperoleh akses yang tidak sah ke dalam Platform Kami maupun sistem dan jaringan terkait.</li>
+                                    <li>Menyamar sebagai individu atau entitas lain yang tidak mencerminkan afiliasi Anda sebenarnya dengan seseorang atau suatu entitas</li>
+                                </ol>
                                 <p>Anda juga setuju:</p>
-                                <ul class="mb--40">
-                                    <p>a.	Untuk tidak mereproduksi, menggandakan, menyalin, atau menjual kembali bagian mana pun dari Platform Kami yang bertentangan dengan ketentuan dalam Syarat dan Ketentuan Platform Kami.</p>
-                                    <p>b.	Untuk tidak mengakses tanpa izin, mengganggu, merusak, atau mengacak-acak:</p>
-                                </ul>
-                                <ul class="pl--50">
-                                    <p>i.	bagian mana pun dari Platform Kami;</p>
-                                    <p>ii.	peralatan atau jaringan di mana Platform Kami tersimpan;</p>
-                                    <p>iii.	perangkat lunak apa pun yang digunakan dalam penyediaan Platform Kami; atau</p>
-                                    <p>iv.	peralatan atau jaringan atau perangkat lunak yang dimiliki oleh pihak ketiga mana pun.</p>
-                                </ul>
+                                <ol class="content pl--50"type="a">
+                                    <li>Untuk tidak mereproduksi, menggandakan, menyalin, atau menjual kembali bagian mana pun dari Platform Kami yang bertentangan dengan ketentuan dalam Syarat dan Ketentuan Platform Kami.</li>
+                                    <li>Untuk tidak mengakses tanpa izin, mengganggu, merusak, atau mengacak-acak:</li>
+                                </ol>
+                                <ol class="content pl--80"type="i">
+                                    <li>bagian mana pun dari Platform Kami;</li>
+                                    <li>peralatan atau jaringan di mana Platform Kami tersimpan;</li>
+                                    <li>perangkat lunak apa pun yang digunakan dalam penyediaan Platform Kami; atau</li>
+                                    <li>peralatan atau jaringan atau perangkat lunak yang dimiliki oleh pihak ketiga mana pun.</li>
+                                </ol>
                                 <br>
 
                                 <h3>E. Hak Kekayaan Intelektual</h3><br>
@@ -240,16 +241,16 @@
                                 <p>Anda dapat mengunduh ekstrak dari halaman tertentu dari Platform Kami untuk kegunaan pribadi selama masa berlangganan Anda.</p>
                                 <p>Anda tidak boleh mengubah salinan dalam bentuk kertas maupun digital dari materi apa pun yang telah Anda cetak atau unduh dengan cara apa pun, dan Anda tidak boleh menggunakan ilustrasi, foto-foto, potongan video atau audio, maupun grafis lain secara terpisah dari teks pendampingnya.</p>
                                 <p>Anda dilarang untuk:</p>
-                                <ul class="mb--40">
-                                    <p>i.	menyalin, mengubah, mencetak, mengadaptasi, menerjemahkan, menciptakan karya tiruan dari, mendistribusikan, memberi lisensi, menjual, memindahkan, menampilkan secara publik, menunjukkan secara publik, menggandakan, mengirimkan, menyiarkan lewat media online maupun offline, memotong, membongkar, atau sebaliknya mengeksploitasi bagian mana pun dari Platform Kami, termasuk namun tidak terbatas pada konten-konten dan materi-materi berbayar pada Platform, baik secara fisik maupun digital, dalam masa berlangganan maupun selesai berlangganan Platform;</p>
-                                    <p>ii.	memberi lisensi, lisensi turunan, menjual, menjual ulang, memindahkan, menetapkan, mendistribusikan, atau sebaliknya mengeksploitasi atau membagikan secara komersial Platform Kami dan/atau perangkat lunak lain yang terasosiasi dengan Platform Kami dengan cara apa pun;</p>
-                                    <p>iii.	menciptakan ‘link’ internet menuju situs web Kami, atau menyadur (frame), atau mengkomputasi (mirror) perangkat lunak mana pun pada server (server) atau perangkat nirkabel atau perangkat yang terhubung ke internet lainnya;</p>
-                                    <p>iv.	merekayasa balik atau mengakses Platform Kami guna (a) membangun produk atau jasa yang kompetitif, (b) membangun produk berdasarkan ide, fitur, fungsi, maupun grafis yang serupa dengan Platform Kami, atau (c) menyalin ide, fitur, fungsi, atau grafis pada Platform Kami;</p>
-                                    <p>v.	meluncurkan program atau skrip otomatis termasuk, namun tidak terbatas pada, web spider, web crawler, robot web, web ant, pengindeksan web, bot, virus, worm, atau program apa pun yang dapat meningkatkan permintaan server per detik, atau membuat beban terlalu berat yang mengganggu operasi dan/atau kinerja Platform Kami;</p>
-                                    <p>vi.	menggunakan robot, spider, aplikasi pencarian atau pengambilan situs, maupun perlengkapan dan proses manual atau otomatis lain untuk mengambil, membuat indeks, menambang data, atau dengan cara apa pun menggandakan atau menghindari struktur navigasi atau tampilan Platform Kami maupun kontennya;</p>
-                                    <p>vii.	memasang, mendistribusikan, atau menggandakan dengan cara apa pun materi dengan hak cipta, merek dagang, atau informasi kepemilikan lain tanpa sebelumnya memperoleh persetujuan dari pemilik hak kepemilikan;</p>
-                                    <p>viii.	menghapus pemberitahuan hak cipta, merek dagang, atau hak kepemilikan lainnya yang terkandung dalam Platform Kami. Tidak ada lisensi atau hak yang diberikan kepada Anda secara implisit atau sebaliknya berdasarkan hak kekayaan intelektual yang dimiliki atau dikendalikan oleh kami dan pemberi lisensi kami, kecuali lisensi dan hak yang secara tersurat diberikan dalam Persyaratan Penggunaan ini. Anda tidak boleh menggunakan bagian mana pun dari konten pada Platform Kami untuk tujuan komersial tanpa sebelumnya memperoleh lisensi untuk melakukannya dari Kami atau pemberi lisensi Kami.</p>
-                                </ul>
+                                <ol class="content pl--50"type="i">
+                                    <li>menyalin, mengubah, mencetak, mengadaptasi, menerjemahkan, menciptakan karya tiruan dari, mendistribusikan, memberi lisensi, menjual, memindahkan, menampilkan secara publik, menunjukkan secara publik, menggandakan, mengirimkan, menyiarkan lewat media online maupun offline, memotong, membongkar, atau sebaliknya mengeksploitasi bagian mana pun dari Platform Kami, termasuk namun tidak terbatas pada konten-konten dan materi-materi berbayar pada Platform, baik secara fisik maupun digital, dalam masa berlangganan maupun selesai berlangganan Platform;</li>
+                                    <li>memberi lisensi, lisensi turunan, menjual, menjual ulang, memindahkan, menetapkan, mendistribusikan, atau sebaliknya mengeksploitasi atau membagikan secara komersial Platform Kami dan/atau perangkat lunak lain yang terasosiasi dengan Platform Kami dengan cara apa pun;</li>
+                                    <li>menciptakan ‘link’ internet menuju situs web Kami, atau menyadur (frame), atau mengkomputasi (mirror) perangkat lunak mana pun pada server (server) atau perangkat nirkabel atau perangkat yang terhubung ke internet lainnya;</li>
+                                    <li>merekayasa balik atau mengakses Platform Kami guna (a) membangun produk atau jasa yang kompetitif, (b) membangun produk berdasarkan ide, fitur, fungsi, maupun grafis yang serupa dengan Platform Kami, atau (c) menyalin ide, fitur, fungsi, atau grafis pada Platform Kami;</li>
+                                    <li>meluncurkan program atau skrip otomatis termasuk, namun tidak terbatas pada, web spider, web crawler, robot web, web ant, pengindeksan web, bot, virus, worm, atau program apa pun yang dapat meningkatkan permintaan server per detik, atau membuat beban terlalu berat yang mengganggu operasi dan/atau kinerja Platform Kami;</li>
+                                    <li>menggunakan robot, spider, aplikasi pencarian atau pengambilan situs, maupun perlengkapan dan proses manual atau otomatis lain untuk mengambil, membuat indeks, menambang data, atau dengan cara apa pun menggandakan atau menghindari struktur navigasi atau tampilan Platform Kami maupun kontennya;</li>
+                                    <li>memasang, mendistribusikan, atau menggandakan dengan cara apa pun materi dengan hak cipta, merek dagang, atau informasi kepemilikan lain tanpa sebelumnya memperoleh persetujuan dari pemilik hak kepemilikan;</li>
+                                    <li>menghapus pemberitahuan hak cipta, merek dagang, atau hak kepemilikan lainnya yang terkandung dalam Platform Kami. Tidak ada lisensi atau hak yang diberikan kepada Anda secara implisit atau sebaliknya berdasarkan hak kekayaan intelektual yang dimiliki atau dikendalikan oleh kami dan pemberi lisensi kami, kecuali lisensi dan hak yang secara tersurat diberikan dalam Persyaratan Penggunaan ini. Anda tidak boleh menggunakan bagian mana pun dari konten pada Platform Kami untuk tujuan komersial tanpa sebelumnya memperoleh lisensi untuk melakukannya dari Kami atau pemberi lisensi Kami.</li>
+                                </ol>
 
                                 <p>Jika Anda mencetak, menyalin, atau mengunduh bagian mana pun dari Platfrom Kami yang melanggar Persyaratan Penggunaan ini, hak Anda untuk menggunakan Platform Kami akan segera diberhentikan dan Anda harus, berdasarkan keputusan Kami, mengembalikan atau memusnahkan salinan dari materi yang telah Anda buat.</p>
 
@@ -275,18 +276,18 @@
                                 <h3>H. Laporan Kemungkinan Pelanggaran</h3><br>
                                 <p>Jika Anda menemukan konten apa pun pada Platform Kami yang Anda yakini melanggar hak cipta apa pun, menyalahi hak lainnya, merusak nama baik, bersifat pornorafis atau tidak senonoh, rasis, atau dengan cara-cara lain menyebabkan pelanggaran secara luas, atau yang merupakan peniruan identitas, penyalahgunaan, spam, atau sebaliknya menyalahi Persyaratan Penggunaan serta Kebijakan Privasi maupun Peraturan yang Berlaku lainnya, silakan laporkan ini kepada Kami melalui telepon di nomor 087848041867, melaui email ke evy@inosoftweb.com dan/atau melalui dokumen fisik ke alamat berikut: YKP Pandugo 2 Blok P No. 1, Penjaringan Sari, Rungkut, Surabaya.</p>
                                 <p>Pastikan bahwa Anda menyertakan, dalam laporan tersebut (“Laporan”), informasi sebagai berikut:</p>
-                                <ul class="mb--40">
-                                    <p>a.	Pernyataan bahwa Anda telah mengidentifikasi konten yang melanggar atau menyalahi Syarat dan Ketentuan dan Kebijakan Privasi Platform Kami maupun Peraturan yang Berlaku lainnya pada Platform Kami;</p>
-                                    <p>b.	Deskripsi dari pelanggaran atau konten ilegal serta link di mana konten tersebut berada;</p>
-                                    <p>c.	Screenshot dari konten yang melanggar atau bersifat ilegal;</p>
-                                    <p>d.	Nama lengkap, alamat dan nomor telepon Anda, alamat surat elektronik di mana Anda dapat dihubungi, serta nama pengguna (username) Akun Anda jika Anda memilikinya.</p>
-                                </ul>
+                                <ol class="content pl--50"type="a">
+                                    <li>Pernyataan bahwa Anda telah mengidentifikasi konten yang melanggar atau menyalahi Syarat dan Ketentuan dan Kebijakan Privasi Platform Kami maupun Peraturan yang Berlaku lainnya pada Platform Kami;</li>
+                                    <li>Deskripsi dari pelanggaran atau konten ilegal serta link di mana konten tersebut berada;</li>
+                                    <li>Screenshot dari konten yang melanggar atau bersifat ilegal;</li>
+                                    <li>Nama lengkap, alamat dan nomor telepon Anda, alamat surat elektronik di mana Anda dapat dihubungi, serta nama pengguna (username) Akun Anda jika Anda memilikinya.</li>
+                                </ol>
                                 <p>Dengan membuat Laporan, Anda akan dianggap telah menyertakan, dalam Laporan tersebut:</p>
-                                <ul class="mb--40">
-                                    <p>a.	Pernyataan bahwa Anda dengan niatan baik percaya bahwa penggunaan materi yang disengketakan tersebut tidak diizinkan oleh pemilik hak cipta, agennya, maupun hukum;</p>
-                                    <p>b.	Pernyatan bahwa informasi dalam Laporan tersebut adalah akurat; </p>
-                                    <p>c.	Pada kasus di mana Anda melaporkan konten yang Anda yakini melanggar hak cipta atau hak-hak terkait lainnya, pernyataan bahwa Anda berwenang untuk bertindak atas nama pemilik hak cipta atau hak-hak lain yang diduga telah dilanggar.</p>
-                                </ul>
+                                <ol class="content pl--50"type="a">
+                                    <li>Pernyataan bahwa Anda dengan niatan baik percaya bahwa penggunaan materi yang disengketakan tersebut tidak diizinkan oleh pemilik hak cipta, agennya, maupun hukum;</li>
+                                    <li>Pernyatan bahwa informasi dalam Laporan tersebut adalah akurat; </li>
+                                    <li>Pada kasus di mana Anda melaporkan konten yang Anda yakini melanggar hak cipta atau hak-hak terkait lainnya, pernyataan bahwa Anda berwenang untuk bertindak atas nama pemilik hak cipta atau hak-hak lain yang diduga telah dilanggar.</li>
+                                </ol>
 
                                 <h3>I. Tindakan yang Kami Anggap Perlu</h3><br>
                                 <p>Apabila Kami mengetahui atau mempunyai alasan yang cukup untuk menduga bahwa Anda telah melakukan tindakan asusila, pelanggaran, kejahatan atau tindakan lain yang bertentangan dengan Syarat dan Ketentuan ini dan/atau peraturan perundang-undangan yang berlaku, baik yang dirujuk dalam Syarat dan Ketentuan ini atau tidak, maka Kami berhak untuk dan dapat membekukan Akun, baik sementara atau permanen, atau menghentikan akses Anda terhadap Platform, melakukan pemeriksaan, menuntut ganti kerugian, melaporkan kepada pihak berwenang dan/atau mengambil tindakan lain yang kami anggap perlu, termasuk tindakan hukum pidana maupun perdata.</p>
@@ -313,10 +314,10 @@
                                 <h3>M. Batasan Tanggung Jawab Kami</h3><br>
                                 <p>Platform yang Kami sediakan adalah sebagaimana adanya dan Kami tidak menyatakan atau menjamin bahwa keandalan, ketepatan waktu, kualitas, kesesuaian, ketersediaan, akurasi, kelengkapan atau keamanan dari Platform dapat memenuhi kebutuhan dan akan sesuai dengan harapan Anda.</p>
                                 <p>Kami tidak bertanggung jawab kepada pengguna mana pun atas kerugian atau kerusakan, baik dalam bentuk kontrak, perbuatan melawan hukum (termasuk kelalaian), pelanggaran kewajiban berdasarkan undang-undang, atau sebaliknya, meskipun dapat diperkirakan, yang terjadi di bawah atau berhubungan dengan:</p>
-                                <ul class="mb--40">
-                                    <p>a.	Penggunaan, atau ketidakmampuan untuk menggunakan, Platform Kami; atau</p>
-                                    <p>b.	Penggunaan atau kepercayaan terhadap konten apapun yang ditampilkan pada Platform Kami.</p>
-                                </ul>
+                                <ol class="content pl--50"type="a">
+                                    <li>Penggunaan, atau ketidakmampuan untuk menggunakan, Platform Kami; atau</li>
+                                    <li>Penggunaan atau kepercayaan terhadap konten apapun yang ditampilkan pada Platform Kami.</li>
+                                </ol>
                                 <p>Kami hanya menyediakan Platform untuk penggunaan domestik dan pribadi. Anda setuju untuk tidak menggunakan Platform Kami untuk tujuan komersial atau bisnis apa pun, dan Kami tidak bertanggung jawab kepada Anda atas kerugian, kehilangan usaha, gangguan usaha, maupun hilangnya kesempatan bisnis.</p>
                                 <p>Kami tidak bertanggung jawab atas kerugian atau kerusakan yang disebabkan oleh virus, serangan Penolakan Layanan secara Terdistribusi (DDoS), maupun materi teknologi berbahaya lainnya yang dapat menginfeksi peralatan komputer, program komputer, data, atau materi kepemilikan lainnya karena penggunaan maupun pengunduhan konten apa pun dari Platform Kami maupun situs web lain yang terkait dengannya oleh Anda.</p>
                                 <p>Kami tidak berkewajiban untuk mengawasi akses atau penggunaan Anda terhadap Platform. Akan tetapi, Kami akan tetap melakukan pengawasan untuk memastikan kelancaran penggunaan Platform dan untuk memastikan kepatuhan Anda terhadap Syarat dan Ketentuan ini, peraturan perundang-undangan yang berlaku, putusan pengadilan, dan/atau ketentuan lembaga administratif atau badan pemerintahan lainnya.</p>
@@ -330,10 +331,10 @@
                                 <h3>O. Hukum yang Berlaku</h3><br>
                                 <p>Syarat dan Ketentuan ini diatur berdasarkan hukum Negara Republik Indonesia. Setiap dan seluruh perselisihan yang timbul dari penggunaan Platform tunduk pada yurisdiksi eksklusif Pengadilan Negeri Surabaya.</p>
                                 <p>Anda dan Kami sepakat bahwa segala sengketa atau perselisihan yang timbul dari atau yang berkaitan dengan hal-hal yang diatur dalam Syarat & Ketentuan ini akan diselesaikan dengan cara berikut ini:</p>
-                                <ul class="mb--40">
-                                    <p>a.	Salah satu pihak wajib menyampaikan pemberitahuan tertulis kepada pihak lainnya. Perselisihan wajib diselesaikan secara musyawarah mufakat dalam waktu paling lambat tiga puluh (30) hari kalender sejak tanggal pemberitahuan.</p>
-                                    <p>b.	Apabila Perselisihan tidak dapat diselesaikan secara musyawarah mufakat sampai dengan berakhirnya Periode Penyelesaian Musyawarah, Pihak Pertama dan Pihak Kedua sepakat bahwa Perselisihan akan dirujuk ke dan diselesaikan Pengadilan Negeri Surabaya.</p>
-                                </ul>
+                                <ol class="content pl--50"type="a">
+                                    <li>Salah satu pihak wajib menyampaikan pemberitahuan tertulis kepada pihak lainnya. Perselisihan wajib diselesaikan secara musyawarah mufakat dalam waktu paling lambat tiga puluh (30) hari kalender sejak tanggal pemberitahuan.</li>
+                                    <li>Apabila Perselisihan tidak dapat diselesaikan secara musyawarah mufakat sampai dengan berakhirnya Periode Penyelesaian Musyawarah, Pihak Pertama dan Pihak Kedua sepakat bahwa Perselisihan akan dirujuk ke dan diselesaikan Pengadilan Negeri Surabaya.</li>
+                                </ol>
 
                                 <h3>P. Ketentuan Lainnya</h3><br>
                                 <p>Anda mengerti dan setuju bahwa Syarat dan Ketentuan ini merupakan perjanjian dalam bentuk elektronik dan tindakan Anda menekan tombol ‘daftar’ saat pembukaan Akun atau tombol ‘masuk’ saat akan mengakses Akun Anda merupakan persetujuan aktif Anda untuk mengikatkan diri dalam perjanjian dengan Kami sehingga keberlakuan Syarat dan Ketentuan ini dan Kebijakan Privasi adalah sah dan mengikat secara hukum dan terus berlaku sepanjang penggunaan Platform oleh Anda.</p>
@@ -356,6 +357,7 @@
                 </div>
             </div>
         </div>
+     </div>
         <!-- End Post Single Wrapper  -->
         </section>
 
