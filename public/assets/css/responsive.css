@@ -1687,92 +1687,6 @@
   .contact-bg-image {
     display: none;
   }
-  .myAccount-profile .profile-content {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-right: 20px;
-    padding-left: 20px;
-  }
-  .myAccount-profile .profile-content h3 {
-    font-size: 18px;
-  }
-  .myAccount-navigation ul {
-    margin-top: -8px;
-  }
-  .myAccount-navigation ul li {
-    margin-top: 8px;
-  }
-  .myAccount-navigation ul li a {
-    padding: 9px 15px 9px 40px;
-    font-size: 13px;
-  }
-  .myAccount-navigation ul li a i {
-    font-size: 15px;
-    left: 20px;
-  }
-  .myAccount-content h3 {
-    font-size: 18px;
-  }
-  .myAccount-content .recent-orders-table .table thead th {
-    padding: 10px 15px 9px;
-    font-size: 14px;
-  }
-  .myAccount-content .recent-orders-table .table tbody td {
-    padding: 10px 15px 9px;
-    font-size: 13px;
-  }
-  .myAccount-content .recent-orders-table .table tbody td .view-button {
-    font-size: 13px;
-  }
-  .myAccount-content .orders-table .table thead th {
-    padding: 10px 15px 9px;
-    font-size: 14px;
-  }
-  .myAccount-content .orders-table .table tbody td {
-    padding: 10px 15px 9px;
-    font-size: 13px;
-  }
-  .myAccount-content .orders-table .table tbody td .view-button {
-    font-size: 13px;
-  }
-  .myAccount-content .downloads-table .table thead th {
-    padding: 10px 15px 9px;
-    font-size: 14px;
-  }
-  .myAccount-content .downloads-table .table tbody td {
-    padding: 10px 15px 9px;
-    font-size: 13px;
-  }
-  .myAccount-content .downloads-table .table tbody td .downloads-button {
-    font-size: 13px;
-  }
-  .myAccount-content .edit-account {
-    -webkit-box-shadow: unset;
-            box-shadow: unset;
-    padding: 0;
-    border-radius: 0;
-  }
-  .myAccount-content .edit-account .form-group label {
-    margin-bottom: 8px;
-    font-size: 14px;
-  }
-  .myAccount-content .edit-account .form-group .form-control {
-    font-size: 13.5px;
-  }
-  .myAccount-content .edit-account legend {
-    margin-bottom: 13px;
-    font-size: 17px;
-  }
-  .myAccount-content .edit-account h3 {
-    font-size: 18px;
-  }
-  .myAccount-content .myAccount-addresses .addresses-title h3 {
-    font-size: 16px;
-    margin-bottom: 10px;
-  }
-  .myAccount-content .myAccount-addresses .col-lg-6:nth-child(2) .addresses-title {
-    margin-top: 30px;
-  }
   .footer-area {
     padding-top: 60px;
   }
@@ -1796,10 +1710,6 @@
     line-height: 45px;
     font-size: 25px;
   }
-  .health-coaching-banner .container-fluid {
-    padding-left: 15px;
-    padding-right: 15px;
-  }
   .single-banner-item {
     text-align: center;
     padding-top: 60px;
@@ -1821,20 +1731,6 @@
   }
   .single-banner-item .default-btn {
     margin-top: 10px;
-  }
-  .health-coaching-banner-slides.owl-theme .owl-nav [class*=owl-] {
-    left: 15px;
-    top: auto;
-    -webkit-transform: translateY(0);
-            transform: translateY(0);
-    bottom: 20px;
-  }
-  .health-coaching-banner-slides.owl-theme .owl-nav [class*=owl-].owl-next {
-    left: auto;
-    right: 15px;
-  }
-  .health-coaching-bg-image::before {
-    height: 90%;
   }
   .single-featured-box {
     padding: 20px 15px;
@@ -1886,9 +1782,6 @@
     font-size: 18px;
   }
   .divider {
-    display: none;
-  }
-  .health-coaching-shape1, .health-coaching-shape2, .health-coaching-shape3, .health-coaching-shape4, .health-coaching-shape5, .health-coaching-shape6, .health-coaching-shape7, .health-coaching-shape8, .health-coaching-shape9 {
     display: none;
   }
   .distance-learning-area .col-lg-6:nth-child(1) {
@@ -2130,50 +2023,6 @@
     margin-top: 15px;
     height: auto;
   }
-  .premium-access-content {
-    max-width: 100%;
-  }
-  .premium-access-content .sub-title {
-    font-size: 13.5px;
-  }
-  .premium-access-content h2 {
-    max-width: 100%;
-    font-size: 27px;
-  }
-  .premium-access-content p {
-    max-width: 100%;
-  }
-  .business-coaching-banner {
-    padding-top: 60px;
-  }
-  .business-coaching-banner .container {
-    max-width: 100%;
-  }
-  .business-banner-content {
-    padding: 0;
-    text-align: center;
-  }
-  .business-banner-content .shape {
-    display: none;
-  }
-  .business-banner-content h1 {
-    margin-bottom: 15px;
-    font-size: 30px;
-  }
-  .business-banner-content p {
-    font-size: 14px;
-    font-weight: 500;
-  }
-  .business-banner-content .default-btn {
-    margin-top: 8px;
-  }
-  .business-banner-image {
-    text-align: center;
-    margin-top: 35px;
-  }
-  .business-shape1, .business-shape2, .business-shape3, .business-shape4, .business-shape5, .business-shape6, .business-shape7, .business-shape8, .business-shape9, .business-shape10 {
-    display: none;
-  }
   .faq-video {
     margin-bottom: 35px;
   }
@@ -2255,100 +2104,11 @@
     margin-top: 10px;
     font-size: 13px;
   }
-  .language-banner-area {
-    padding-top: 80px;
-    background-image: unset !important;
-  }
-  .language-banner-area .container-fluid {
-    max-width: 100%;
-  }
-  .language-banner-content {
-    padding-right: 0;
-    text-align: center;
-    margin-bottom: 30px;
-  }
-  .language-banner-content h1 {
-    font-size: 34px;
-  }
   .lang-shape1, .lang-shape2, .lang-shape3, .lang-shape4, .lang-shape5 {
     display: none;
   }
   .single-language-courses-box .content h3 {
     font-size: 18px;
-  }
-  .why-choose-us-area {
-    padding-top: 60px;
-    padding-bottom: 60px;
-  }
-  .why-choose-us-area .container-fluid {
-    padding-left: 15px;
-    padding-right: 15px;
-  }
-  .why-choose-us-image {
-    height: auto;
-    background-image: unset !important;
-  }
-  .why-choose-us-image img {
-    display: inline-block;
-  }
-  .why-choose-us-content {
-    padding: 0;
-    margin-top: 30px;
-    text-align: center;
-  }
-  .why-choose-us-content .content {
-    max-width: 100%;
-  }
-  .why-choose-us-content .content p {
-    font-size: 13.5px;
-  }
-  .why-choose-us-content .content h2 {
-    font-size: 27px;
-  }
-  .why-choose-us-content .content .features-list li span {
-    font-size: 14px;
-    padding: 0;
-  }
-  .why-choose-us-content .content .features-list li span i {
-    display: block;
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-  }
-  .why-choose-us-content .content .default-btn {
-    margin-top: 30px;
-  }
-  .why-choose-us-img {
-    margin-right: 0;
-  }
-  .why-choose-us-img .shape {
-    right: 0;
-  }
-  .why-choose-us-text {
-    padding-left: 0;
-    text-align: center;
-    margin-top: 30px;
-  }
-  .why-choose-us-text p {
-    font-size: 13.5px;
-  }
-  .why-choose-us-text h2 {
-    font-size: 26px;
-  }
-  .why-choose-us-text .features-list li span {
-    font-size: 14px;
-    padding: 0;
-  }
-  .why-choose-us-text .features-list li span i {
-    display: block;
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-  }
-  .why-choose-us-text .default-btn {
-    margin-top: 30px;
   }
   .feedback-area-two .feedback-slides.owl-theme .single-feedback-box {
     max-width: 100%;
@@ -2438,57 +2198,6 @@
   .single-learning-box h3 {
     font-size: 18px;
   }
-  .gym-feedback-inner {
-    max-width: 100%;
-    padding-top: 60px;
-    padding-bottom: 60px;
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-  .gym-feedback-inner::before {
-    display: none;
-  }
-  .single-gym-feedback-box .title h3 {
-    font-size: 17px;
-  }
-  .single-gym-feedback-box .title span {
-    font-size: 13px;
-  }
-  .single-gym-trainer .content h3 {
-    font-size: 18px;
-  }
-  .single-gym-trainer .content .social-link li a {
-    width: 35px;
-    height: 35px;
-  }
-  .app-area {
-    padding-top: 60px;
-    padding-bottom: 60px;
-  }
-  .app-area::after {
-    display: none;
-  }
-  .app-area .overlay {
-    display: none;
-  }
-  .app-content {
-    text-align: center;
-  }
-  .app-content .sub-title {
-    font-size: 13.5px;
-  }
-  .app-content h2 {
-    font-size: 27px;
-  }
-  .app-content h2 br {
-    display: none;
-  }
-  .app-image {
-    margin-top: 35px;
-  }
-  .app-image img {
-    max-width: 100%;
-  }
   .online-area .col-lg-6:nth-child(1) {
     -webkit-box-ordinal-group: 3;
         -ms-flex-order: 2;
@@ -2498,20 +2207,6 @@
     -webkit-box-ordinal-group: 2;
         -ms-flex-order: 1;
             order: 1;
-  }
-  .online-content {
-    text-align: center;
-    margin-top: 0;
-    margin-bottom: 35px;
-  }
-  .online-content .sub-title {
-    font-size: 13.5px;
-  }
-  .online-content h2 {
-    font-size: 27px;
-  }
-  .gym-shape2 {
-    right: 0;
   }
   .funfacts-style-three {
     padding-top: 60px;
@@ -2556,30 +2251,6 @@
   }
   .header-area.header-color-white .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .search-box:hover {
     color: #ffffff;
-  }
-  .gym-main-banner {
-    padding-top: 300px;
-    padding-bottom: 140px;
-  }
-  .gym-main-banner .container {
-    max-width: 100%;
-  }
-  .gym-banner-content {
-    max-width: 100%;
-    text-align: center;
-  }
-  .gym-banner-content h1 {
-    font-size: 30px;
-    margin-bottom: 15px;
-  }
-  .gym-banner-content .sub-title {
-    font-size: 13.5px;
-  }
-  .gym-banner-content .default-btn {
-    margin-top: 10px;
-  }
-  .gym-home-slides.owl-theme .owl-nav {
-    display: none;
   }
   /* Online Motivation Course CSS, Online Education Course CSS, Online Training Course CSS */
   .motivation-course-banner-area {
@@ -2779,19 +2450,6 @@
     top: 0.8px;
     font-size: 13.5px;
   }
-  .education-course-banner-area {
-    padding-top: 60px;
-    padding-bottom: 60px;
-  }
-  .education-categories-item {
-    display: none;
-  }
-  .education-course-banner-content h1 {
-    font-size: 32px;
-  }
-  .education-course-banner-content .btn-box {
-    margin-top: 30px;
-  }
   .motivation-featured-area.bg-with-black-color {
     padding-left: 20px;
     padding-right: 20px;
@@ -2876,31 +2534,6 @@
   }
   .single-funfact-card h3 {
     font-size: 28px;
-  }
-  .start-free-trial-area {
-    padding-top: 120px;
-  }
-  .start-free-trial-content h3 {
-    font-size: 26px;
-  }
-  .start-free-trial-content span {
-    font-size: 13.5px;
-  }
-  .start-free-trial-image {
-    padding-left: 0;
-    text-align: center;
-    margin-top: 30px;
-  }
-  .training-overview-area::before {
-    border-radius: 0;
-    width: 100%;
-  }
-  .training-overview-content h3 {
-    font-size: 26px;
-  }
-  .training-overview-btn {
-    text-align: left;
-    margin-top: 20px;
   }
   .testimonials-wrap-area.bg-E7F0FD {
     padding-bottom: 220px;
@@ -3027,9 +2660,6 @@
     margin-top: 0;
     margin-bottom: 0;
   }
-  .health-coaching-banner .container-fluid {
-    max-width: 540px;
-  }
   .experience-content .features-list li {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 33.333333%;
@@ -3054,24 +2684,7 @@
             flex: 0 0 25%;
     max-width: 25%;
   }
-  .business-coaching-banner .container {
-    max-width: 540px;
-  }
-  .business-banner-content p {
-    max-width: 415px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .language-banner-area .container-fluid {
-    max-width: 540px;
-  }
-  .why-choose-us-area .container-fluid {
-    max-width: 540px;
-  }
   .top-header .container-fluid {
-    max-width: 540px;
-  }
-  .gym-main-banner .container {
     max-width: 540px;
   }
 }
@@ -3545,64 +3158,11 @@
     padding-top: 300px;
     padding-bottom: 110px;
   }
-  .myAccount-profile .profile-content h3 {
-    font-size: 19px;
-  }
-  .myAccount-profile .profile-content p {
-    font-size: 14px;
-  }
-  .myAccount-profile .profile-content .contact-info li {
-    font-size: 14px;
-  }
-  .myAccount-navigation ul {
-    margin-top: -8px;
-  }
-  .myAccount-navigation ul li {
-    margin-top: 8px;
-  }
-  .myAccount-navigation ul li a {
-    font-size: 14px;
-  }
-  .myAccount-content h3 {
-    font-size: 20px;
-  }
-  .myAccount-content .recent-orders-table .table thead th {
-    font-size: 15px;
-  }
-  .myAccount-content .recent-orders-table .table tbody td {
-    font-size: 14px;
-  }
-  .myAccount-content .recent-orders-table .table tbody td .view-button {
-    font-size: 13px;
-  }
-  .myAccount-content .orders-table .table thead th {
-    font-size: 15px;
-  }
-  .myAccount-content .orders-table .table tbody td {
-    font-size: 14px;
-  }
-  .myAccount-content .orders-table .table tbody td .view-button {
-    font-size: 13px;
-  }
-  .myAccount-content .downloads-table .table thead th {
-    font-size: 15px;
-  }
-  .myAccount-content .downloads-table .table tbody td {
-    font-size: 14px;
-  }
-  .myAccount-content .downloads-table .table tbody td .downloads-button {
-    font-size: 13px;
-  }
   .footer-area {
     padding-top: 80px;
   }
   .footer-bottom-area {
     margin-top: 50px;
-  }
-  .health-coaching-banner .container-fluid {
-    max-width: 720px;
-    padding-left: 15px;
-    padding-right: 15px;
   }
   .single-banner-item {
     text-align: center;
@@ -3626,13 +3186,6 @@
   }
   .single-banner-item .default-btn {
     margin-top: 10px;
-  }
-  .health-coaching-banner-slides.owl-theme .owl-nav [class*=owl-] {
-    left: 15px;
-  }
-  .health-coaching-banner-slides.owl-theme .owl-nav [class*=owl-].owl-next {
-    left: auto;
-    right: 15px;
   }
   .single-featured-box .icon {
     width: 90px;
@@ -3717,9 +3270,6 @@
   .experience-image {
     margin-top: 30px;
   }
-  .health-coaching-shape1, .health-coaching-shape2, .health-coaching-shape3, .health-coaching-shape4, .health-coaching-shape5, .health-coaching-shape6, .health-coaching-shape7, .health-coaching-shape8, .health-coaching-shape9 {
-    display: none;
-  }
   .single-services-box h3 {
     font-size: 22px;
   }
@@ -3753,36 +3303,6 @@
   .single-blog-post-box .post-content h3 {
     font-size: 22px;
   }
-  .business-coaching-banner {
-    padding-top: 80px;
-  }
-  .business-coaching-banner .container {
-    max-width: 720px;
-  }
-  .business-banner-content {
-    text-align: center;
-    padding: 30px;
-  }
-  .business-banner-content .shape {
-    display: none;
-  }
-  .business-banner-content h1 {
-    font-size: 45px;
-    margin-bottom: 20px;
-  }
-  .business-banner-content p {
-    font-size: 15px;
-  }
-  .business-banner-content .default-btn {
-    margin-top: 10px;
-  }
-  .business-banner-image {
-    text-align: center;
-    margin-top: 35px;
-  }
-  .business-shape1, .business-shape2, .business-shape3, .business-shape4, .business-shape5, .business-shape6, .business-shape7, .business-shape8, .business-shape9, .business-shape10 {
-    display: none;
-  }
   .faq-area .divider {
     display: none;
   }
@@ -3795,105 +3315,11 @@
   .funfacts-list {
     margin-top: 35px;
   }
-  .language-banner-area {
-    background-image: unset !important;
-    padding-top: 100px;
-  }
-  .language-banner-area .container-fluid {
-    max-width: 720px;
-  }
-  .language-banner-content {
-    text-align: center;
-    padding-right: 0;
-    margin-bottom: 30px;
-  }
-  .language-banner-content h1 {
-    font-size: 50px;
-  }
-  .language-banner-content p {
-    max-width: 650px;
-    margin-left: auto;
-    margin-right: auto;
-  }
   .lang-shape1, .lang-shape2, .lang-shape3, .lang-shape4, .lang-shape5 {
     display: none;
   }
   .single-language-courses-box .content h3 {
     font-size: 20px;
-  }
-  .why-choose-us-area {
-    padding-top: 80px;
-    padding-bottom: 80px;
-  }
-  .why-choose-us-area .container-fluid {
-    max-width: 720px;
-  }
-  .why-choose-us-image {
-    background-image: unset !important;
-    height: auto;
-  }
-  .why-choose-us-image img {
-    display: inline-block;
-  }
-  .why-choose-us-content {
-    text-align: center;
-    padding-left: 0;
-    padding-right: 0;
-    padding-top: 35px;
-    padding-bottom: 0;
-  }
-  .why-choose-us-content .content {
-    max-width: 650px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .why-choose-us-content .content .features-list li {
-    max-width: 25%;
-    -webkit-box-flex: 0;
-        -ms-flex: 0 0 25%;
-            flex: 0 0 25%;
-  }
-  .why-choose-us-content .content .features-list li span {
-    padding: 0;
-    font-size: 15px;
-  }
-  .why-choose-us-content .content .features-list li span i {
-    position: relative;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 12px;
-  }
-  .why-choose-us-img {
-    margin-right: 0;
-  }
-  .why-choose-us-img .shape {
-    right: 0;
-  }
-  .why-choose-us-text {
-    padding-left: 0;
-    text-align: center;
-    max-width: 650px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 30px;
-  }
-  .why-choose-us-text .features-list li {
-    max-width: 25%;
-    -webkit-box-flex: 0;
-        -ms-flex: 0 0 25%;
-            flex: 0 0 25%;
-  }
-  .why-choose-us-text .features-list li span {
-    padding: 0;
-    font-size: 15px;
-  }
-  .why-choose-us-text .features-list li span i {
-    position: relative;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 12px;
   }
   .feedback-area-two .feedback-slides.owl-theme .single-feedback-box {
     max-width: 100%;
@@ -3913,38 +3339,9 @@
     left: 0;
     opacity: .4;
   }
-  .gym-feedback-inner {
-    max-width: 600px;
-    margin-right: auto;
-  }
   .information-content {
     padding-left: 0;
     margin-top: 40px;
-  }
-  .single-gym-trainer .content h3 {
-    font-size: 20px;
-  }
-  .app-area {
-    padding-top: 80px;
-    padding-bottom: 80px;
-  }
-  .app-area::after {
-    display: none;
-  }
-  .app-area .overlay {
-    display: none;
-  }
-  .app-content {
-    text-align: center;
-  }
-  .app-content h2 br {
-    display: none;
-  }
-  .app-image {
-    margin-top: 35px;
-  }
-  .app-image img {
-    max-width: 100%;
   }
   .online-area .col-lg-6:nth-child(1) {
     -webkit-box-ordinal-group: 3;
@@ -3955,14 +3352,6 @@
     -webkit-box-ordinal-group: 2;
         -ms-flex-order: 1;
             order: 1;
-  }
-  .online-content {
-    text-align: center;
-    margin-top: 0;
-    margin-bottom: 35px;
-  }
-  .gym-shape2 {
-    right: 0;
   }
   .single-funfacts-item {
     padding-top: 80px;
@@ -3997,19 +3386,6 @@
   }
   .header-area.header-color-white .ino-responsive-nav .ino-responsive-menu.mean-container .mean-nav .others-option .search-box:hover {
     color: #ffffff;
-  }
-  .gym-main-banner {
-    padding-top: 290px;
-    padding-bottom: 200px;
-  }
-  .gym-main-banner .container {
-    max-width: 720px;
-  }
-  .gym-banner-content h1 {
-    font-size: 44px;
-  }
-  .gym-home-slides.owl-theme .owl-nav {
-    display: none;
   }
   /* Online Motivation Course CSS, Online Education Course CSS, Online Training Course CSS */
   .motivation-course-banner-area {
@@ -4196,47 +3572,6 @@
   .single-blog-post-card .post-content h3 {
     font-size: 18px;
   }
-  .education-course-banner-area {
-    padding-top: 230px;
-  }
-  .education-categories-item.graphics-design {
-    right: 2%;
-    -webkit-transform: translateX(-2%);
-            transform: translateX(-2%);
-  }
-  .education-categories-item.science {
-    bottom: 25%;
-    -webkit-transform: translateY(-25%);
-            transform: translateY(-25%);
-  }
-  .education-categories-item.marketing {
-    top: 65%;
-    -webkit-transform: translateY(-65%);
-            transform: translateY(-65%);
-  }
-  .education-categories-item.business {
-    bottom: 10%;
-    left: 20%;
-    -webkit-transform: translateY(-10%) translateX(-20%);
-            transform: translateY(-10%) translateX(-20%);
-  }
-  .education-categories-item.technology {
-    left: 20%;
-    -webkit-transform: translateX(-20%);
-            transform: translateX(-20%);
-  }
-  .education-categories-item.health {
-    top: 10%;
-    right: 5%;
-    -webkit-transform: translateY(-10%) translateX(-5%);
-            transform: translateY(-10%) translateX(-5%);
-  }
-  .education-course-banner-content h1 {
-    font-size: 55px;
-  }
-  .education-course-banner-content .btn-box {
-    margin-top: 30px;
-  }
   .motivation-featured-area.bg-with-black-color {
     padding-left: 20px;
     padding-right: 20px;
@@ -4326,21 +3661,6 @@
   }
   .single-funfact-card h3 {
     font-size: 28px;
-  }
-  .start-free-trial-area {
-    padding-top: 150px;
-  }
-  .start-free-trial-image {
-    padding-left: 0;
-    text-align: center;
-    margin-top: 30px;
-  }
-  .training-overview-area::before {
-    border-radius: 0;
-    width: 100%;
-  }
-  .training-overview-content h3 {
-    font-size: 26px;
   }
   .testimonials-wrap-area.bg-E7F0FD {
     padding-bottom: 230px;
@@ -4469,18 +3789,7 @@
   .become-instructor-partner-content {
     padding: 50px;
   }
-  .myAccount-navigation ul {
-    margin-top: -8px;
-  }
-  .myAccount-navigation ul li {
-    margin-top: 8px;
-  }
   .navbar-area .container-fluid {
-    max-width: 960px;
-    padding-left: 15px;
-    padding-right: 15px;
-  }
-  .health-coaching-banner .container-fluid {
     max-width: 960px;
     padding-left: 15px;
     padding-right: 15px;
@@ -4490,13 +3799,6 @@
     padding-bottom: 180px;
     padding-left: 110px;
     padding-right: 110px;
-  }
-  .health-coaching-banner-slides.owl-theme .owl-nav [class*=owl-] {
-    left: 20px;
-  }
-  .health-coaching-banner-slides.owl-theme .owl-nav [class*=owl-].owl-next {
-    left: auto;
-    right: 20px;
   }
   .single-services-box h3 {
     font-size: 23px;
@@ -4512,9 +3814,6 @@
   }
   .services-box h3 {
     font-size: 19px;
-  }
-  .health-coaching-shape1, .health-coaching-shape2, .health-coaching-shape3, .health-coaching-shape4, .health-coaching-shape5, .health-coaching-shape6, .health-coaching-shape7, .health-coaching-shape8, .health-coaching-shape9 {
-    display: none;
   }
   .experience-image {
     padding-left: 15px;
@@ -4563,18 +3862,6 @@
   .single-blog-post-box .post-content h3 {
     font-size: 22px;
   }
-  .business-coaching-banner .container {
-    max-width: 960px;
-  }
-  .business-banner-content {
-    padding: 0;
-  }
-  .business-banner-content .shape {
-    display: none;
-  }
-  .business-shape1, .business-shape2, .business-shape3, .business-shape4, .business-shape5, .business-shape6, .business-shape7, .business-shape8, .business-shape9, .business-shape10 {
-    display: none;
-  }
   .faq-accordion .accordion .accordion-title {
     font-size: 15px;
   }
@@ -4586,27 +3873,8 @@
     padding-top: 80px;
     padding-bottom: 80px;
   }
-  .language-banner-area .container-fluid {
-    max-width: 960px;
-  }
-  .language-banner-content {
-    padding-right: 0;
-  }
-  .language-banner-content h1 {
-    font-size: 45px;
-    margin-bottom: 20px;
-  }
-  .language-banner-content p {
-    font-size: 14px;
-  }
   .lang-shape1, .lang-shape2, .lang-shape4, .lang-shape5 {
     display: none;
-  }
-  .why-choose-us-content {
-    padding: 70px 25px;
-  }
-  .why-choose-us-content .content {
-    max-width: 445px;
   }
   .funfacts-style-two .single-funfacts-box {
     padding-left: 15px;
@@ -4625,36 +3893,10 @@
   .single-learning-box {
     padding: 30px 20px;
   }
-  .app-area {
-    padding-top: 100px;
-    padding-bottom: 100px;
-  }
-  .app-area::after {
-    display: none;
-  }
-  .app-area .overlay {
-    display: none;
-  }
-  .app-content h2 br {
-    display: none;
-  }
-  .app-image img {
-    max-width: 100%;
-  }
   .top-header .container-fluid {
     max-width: 960px;
     padding-left: 15px;
     padding-right: 15px;
-  }
-  .gym-main-banner {
-    padding-top: 300px;
-    padding-bottom: 200px;
-  }
-  .gym-main-banner .container {
-    max-width: 960px;
-  }
-  .gym-home-slides.owl-theme .owl-nav {
-    display: none;
   }
   /* Online Motivation Course CSS, Online Education Course CSS, Online Training Course CSS */
   .motivation-course-banner-area .container-fluid {
@@ -4765,21 +4007,6 @@
   .single-blog-post-card .post-content h3 {
     font-size: 18px;
   }
-  .education-categories-item.marketing {
-    top: 65%;
-    -webkit-transform: translateY(-65%);
-            transform: translateY(-65%);
-  }
-  .education-categories-item.business {
-    bottom: 10%;
-    -webkit-transform: translateY(-10%);
-            transform: translateY(-10%);
-  }
-  .education-categories-item.science {
-    bottom: 25%;
-    -webkit-transform: translateY(-25%);
-            transform: translateY(-25%);
-  }
   .motivation-featured-area.bg-with-black-color {
     margin-left: 0;
     margin-right: 0;
@@ -4833,10 +4060,6 @@
   .single-funfact-card .icon::before {
     left: 0;
     top: 0;
-  }
-  .training-overview-area::before {
-    border-radius: 0;
-    width: 100%;
   }
   /* End, Online Motivation Course CSS, Online Education Course CSS, Online Training Course CSS */
 }
@@ -4899,39 +4122,15 @@
     left: auto;
     right: -40px;
   }
-  .health-coaching-shape1, .health-coaching-shape2 {
-    display: none;
-  }
   .feedback-content::before {
     font-size: 120px;
-  }
-  .business-shape1 img {
-    max-width: 620px;
   }
   .navbar-area .container-fluid {
     padding-left: 40px;
     padding-right: 40px;
   }
-  .language-banner-area .container-fluid {
-    max-width: 1140px;
-  }
-  .language-banner-content {
-    padding-right: 0;
-  }
-  .language-banner-content h1 {
-    font-size: 48px;
-  }
   .lang-shape1 {
     display: none;
-  }
-  .why-choose-us-content {
-    padding-top: 100px;
-    padding-bottom: 100px;
-    padding-left: 60px;
-    padding-right: 20px;
-  }
-  .why-choose-us-content .content {
-    max-width: 475px;
   }
   .lang-shape5 img {
     max-width: 290px;
@@ -4941,12 +4140,6 @@
   }
   .lang-shape4 img {
     max-width: 200px;
-  }
-  .app-image img {
-    max-width: 107%;
-  }
-  .gym-main-banner .container {
-    max-width: 1140px;
   }
   /* Online Motivation Course CSS, Online Education Course CSS, Online Training Course CSS */
   .motivation-course-banner-area .container-fluid {
@@ -4994,21 +4187,6 @@
     padding-right: 15px;
     max-width: 540px;
   }
-  .education-categories-item.marketing {
-    top: 65%;
-    -webkit-transform: translateY(-65%);
-            transform: translateY(-65%);
-  }
-  .education-categories-item.business {
-    bottom: 10%;
-    -webkit-transform: translateY(-10%);
-            transform: translateY(-10%);
-  }
-  .education-categories-item.science {
-    bottom: 25%;
-    -webkit-transform: translateY(-25%);
-            transform: translateY(-25%);
-  }
   .motivation-featured-area.bg-with-black-color {
     margin-left: 0;
     margin-right: 0;
@@ -5041,9 +4219,6 @@
     padding-left: 40px;
     padding-right: 40px;
   }
-  .training-overview-btn {
-    text-align: center;
-  }
   /* End, Online Motivation Course CSS, Online Education Course CSS, Online Training Course CSS */
 }
 
@@ -5053,44 +4228,9 @@
     padding-left: 125px;
     padding-right: 125px;
   }
-  .health-coaching-banner .container-fluid {
-    padding-left: 125px;
-    padding-right: 125px;
-  }
-  .health-coaching-shape4 {
-    right: 9.5%;
-  }
-  .health-coaching-shape4 img {
-    max-width: 100%;
-  }
-  .health-coaching-shape7 img {
-    max-width: 100%;
-  }
-  .health-coaching-shape8 img {
-    max-width: 100%;
-  }
-  .health-coaching-shape9 {
-    right: 12%;
-    top: 25%;
-  }
-  .health-coaching-shape9 img {
-    max-width: 100%;
-  }
   .feedback-area .container-fluid {
     padding-left: 125px;
     padding-right: 125px;
-  }
-  .business-banner-content .shape {
-    left: -15%;
-  }
-  .business-shape1 {
-    right: 14%;
-  }
-  .business-shape8 img {
-    max-width: 100%;
-  }
-  .language-banner-area .container-fluid {
-    max-width: 1400px;
   }
   .lang-shape1 img {
     max-width: 100%;
@@ -5110,13 +4250,6 @@
   }
   .lang-shape5 img {
     max-width: 100%;
-  }
-  .gym-home-slides.owl-theme .owl-nav [class*=owl-] {
-    left: 70px;
-  }
-  .gym-home-slides.owl-theme .owl-nav [class*=owl-].owl-next {
-    left: auto;
-    right: 70px;
   }
   .top-header .container-fluid {
     padding-left: 125px;
