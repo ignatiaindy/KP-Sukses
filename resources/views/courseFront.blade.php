@@ -109,7 +109,7 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="#" class="nav-link active ">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link active ">Home <i class=''></i></a>
                                     </li>
                                     <li class="nav-item"><a href="#" class="nav-link ">Blog <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
@@ -480,15 +480,15 @@
                             <ul class="contact-us-link">
                                 <li>
                                     <i class='bx bx-map'></i>
-                                    <a href="#" target="_blank">Jl. Penjaringan Sari YKP Pandugo 2 No.1, Penjaringan Sari, Kec. Rungkut, Kota SBY, Jawa Timur 60297</a>
+                                    <a href="https://goo.gl/maps/rccJFM96MtoiUJ6P8" target="_blank">Jl. Penjaringan Sari YKP Pandugo 2 No.1, Penjaringan Sari, Kec. Rungkut, Kota SBY, Jawa Timur 60297</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-phone-call'></i>
-                                    <a href="#">(031) 8700688</a>
+                                    <a href="tel: 8700688">(031) 8700688</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-envelope'></i>
-                                    <a href="#"><span class="__cf_email__" data-cfemail="3f575a5353507f4d5e4e4a5a115c5052">sinergipeta@gmail.com </span></a>
+                                    <a href="mailto:sinergipeta@gmail.com"><span class="__cf_email__" data-cfemail="3f575a5353507f4d5e4e4a5a115c5052">sinergipeta@gmail.com </span></a>
                                 </li>
                             </ul>
 
@@ -505,8 +505,8 @@
                             <h3>Blog</h3>
 
                             <ul class="useful-link">
-                                <li><a href="#">Artikel</a></li>
-                                <li><a href="#">Dokumentasi</a></li>
+                                <li><a href="artikel">Artikel</a></li>
+                                <li><a href="dokumentasi">Dokumentasi</a></li>
                                 
                             </ul>
                         </div>
@@ -517,8 +517,8 @@
                             <h3>Course</h3>
 
                             <ul class="useful-link">
-                                <li><a href="#">Frontend Developer</a></li>
-                                <li><a href="#">Backend Developer</a></li>
+                                <li><a href="courseBack">Frontend Developer</a></li>
+                                <li><a href="courseFront">Backend Developer</a></li>
                                 
                             </ul>
                         </div>
@@ -549,7 +549,7 @@
                         <a href="/" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
                     </div>
                     <div>                  
-                    <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="#">Inosoft</a></div>
+                    <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="https://inosoftweb.com/">Inosoft</a></div>
 
                 </div>
             </div>
