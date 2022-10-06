@@ -256,11 +256,12 @@ img {
  font-weight: 700;
  margin-top: 50px;
 }
-.tag-btn1 {
+
+/* .tag-btn1 {
   display: block;
   color: rgba(17, 88, 165, 1);
   text-transform: uppercase;
-  position: relative;
+  position: re  ;
   padding-left: 10px;
   font-size: 14px;
   font-weight: 700;
@@ -273,8 +274,9 @@ img {
   top: 0;
   height: 100%;
   width: 3px;
-  background-color: rgba(17, 88, 165, 1);
-}
+  background-color: rgba(17, 88, 165, 1); 
+}*/
+
 .tag-btn2 {
   display: block;
   color: rgba(17, 88, 165, 1);
@@ -283,7 +285,8 @@ img {
   padding-left: 10px;
   font-size: 14px;
   font-weight: 700;
-  margin-top: 65px;
+  margin-bottom: 5px;
+  margin-top: 10%;
 }
 .tag-btn2::before {
   content: '';
@@ -294,7 +297,8 @@ img {
   width: 3px;
   background-color: rgba(17, 88, 165, 1);
 }
-.tag-btn3 {
+
+/* .tag-btn3 {
   display: block;
   color: rgba(17, 88, 165, 1);
   text-transform: uppercase;
@@ -312,7 +316,7 @@ img {
   height: 100%;
   width: 3px;
   background-color: rgba(17, 88, 165, 1);
-}
+} */
 
 .default-btn .label, .default-btn .icon-arrow {
   -webkit-backface-visibility: hidden;
@@ -1691,7 +1695,7 @@ Main Banner CSS
 
 
 .hero-banner {
-  height: 800px;
+  height: 100%;
   position: relative;
   z-index: 1;
   background-color: rgba(17, 88, 165, 1);
@@ -1699,6 +1703,7 @@ Main Banner CSS
   background-size: cover;
   background-repeat: no-repeat;
   background-image: url(../img/main-banner3.jpg);
+  margin: 50px;
 }
 
 .hero-banner.bg-white {
@@ -1711,7 +1716,7 @@ Main Banner CSS
 
 .hero-banner-content {
   overflow: hidden;
-  max-width: 620px;
+  max-width: 50%;
   margin-left: auto;
 }
 
@@ -1741,7 +1746,7 @@ Main Banner CSS
   margin-bottom: 20px;
   -webkit-animation-delay: 1s !important;
           animation-delay: 1s !important;
-  font-size: 58px;
+  font-size: 48px;
   font-weight: 700;
 }
 
@@ -2335,7 +2340,7 @@ About CSS
 
 .about-image img:nth-child(2) {
   position: absolute;
-  right: 10px;
+  right: 25px;
   bottom: 0;
   z-index: 1;
 }
@@ -2413,6 +2418,7 @@ About CSS
   text-align: right;
   padding-left: 100px;
   padding-bottom: 60px;
+  margin-right: 10%;
 }
 
 .about-right-image img:nth-child(2) {
@@ -2707,6 +2713,8 @@ Offer CSS
   border-radius: 5px;
   position: relative;
   z-index: 1;
+  height: 90%;
+  margin : 20px 10px;
 }
 
 .single-offer-box::before {
@@ -4196,17 +4204,19 @@ Gallery CSS
 Blog CSS
 =================================================*/
 .single-blog-post {
+  height: 95%;
   background-color: #ffffff;
   border: 1px solid #f5f5f5;
   border-radius: 10px;
   padding: 20px 30px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  margin-bottom: 100px;
+  margin-bottom: 25px;
   max-height: auto;
   display: flex;
   flex-direction: column;
   align-items: stretch;
+  position: relative;
   /* position: fixed; */
 }
 
@@ -4264,6 +4274,7 @@ Blog CSS
 
 .single-blog-post .post-content {
   margin-top: 25px;
+  height: 50%;
 }
 
 .single-blog-post .post-content .post-meta {
@@ -7912,7 +7923,7 @@ Footer CSS
 }
 
 .footer-bottom-area .back-copy-left {
-  font-size: 16px;
+  font-size: 12px;
   margin-bottom: 0;
   color: #cccccc;
 }
@@ -7931,8 +7942,8 @@ Footer CSS
 }
 .footer-bottom-area .back-copy-right ul  a {
   color: #cccccc;
-  font-size: 15px;
-  font-weight: 500;
+  font-size: 12px;
+  font-weight: 400;
   padding-left: 30px;
 }
 .footer-bottom-area .back-copy-right ul li a:hover {
@@ -10369,7 +10380,7 @@ Motivation Featured Area CSS
   width: 80px;
   line-height: 70px;
   background-color: rgba(255, 213, 33, 1);
-  color: #000000;
+  color: #ffffff;
   font-size: 25px;
   font-weight: 600;
   text-align: center;
