@@ -3936,7 +3936,8 @@ Testimonials CSS
   position: relative;
   z-index: 1;
   overflow: hidden;
-  bottom: -90px;
+  margin-top: 50px;
+  margin-bottom: 150px;
 }
 
 .single-testimonials-item {

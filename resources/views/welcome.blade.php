@@ -377,7 +377,7 @@
                                         <i class="bx bx-pen my-auto mx-auto"></i>
                                     </div>
                                     <h3>PENDAFTARAN</h3>
-                                    <p>Para calon peserta mengisi formulir pendaftaran yang dapat dilakukan pada tanggal xx xx 2022 hingga xx xx 2022 melaui <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" target="_blank">form berikut ini</a>.</p>
+                                    <p>Para calon peserta mengisi formulir pendaftaran yang dapat dilakukan pada tanggal xx xx 2022 hingga xx xx 2022 melalui <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" target="_blank">form berikut ini</a>.</p>
                                 </li>
 
                                 <li>
@@ -393,7 +393,7 @@
                                         <i class="bx bx-check my-auto mx-auto"></i>
                                     </div>
                                     <h3>PELAKSANAAN</h3>
-                                    <p>Peserta terpilih akan mengikuti pelatihan intensif</p>
+                                    <p>Peserta terpilih akan mengikuti pelatihan intensif kurang lebih selama 4 bulan</p>
                                 </li>
                                 
                             </ul>
@@ -459,64 +459,72 @@
                 </div>
 
                 <div class="testimonials-slides owl-carousel owl-theme">
-                    <div class="single-testimonials-item">
-                        <p>Selama bootcamp saya mendapat berbagai ilmu aspek penting dalam pemrograman dan keterampilan yang diperlukan seorang developer. Kalau kalian ingin mendalami bidang IT, bootcamp ini solusinya karena kita akan diajari dari nol dan akan lebih mudah belajar jika orang disekeliling kita melakukan hal yang sama</p>
+                    <a href="https://youtu.be/TFmMG_OJmjk" target="_blank">
+                        <div class="single-testimonials-item">
+                            <p>Selama bootcamp saya mendapat berbagai ilmu aspek penting dalam pemrograman dan keterampilan yang diperlukan seorang developer. Kalau kalian ingin mendalami bidang IT, bootcamp ini solusinya karena kita akan diajari dari nol dan akan lebih mudah belajar jika orang disekeliling kita melakukan hal yang sama</p>
 
-                        <div class="info">
-                            <img src="assets/img/Deva.png" class="shadow rounded-circle" alt="image">
-                            <h3>Deva</h3>
-                            <span>Alumni</span>
+                            <div class="info">
+                                <img src="assets/img/Deva.png" class="shadow rounded-circle" alt="image">
+                                <h3>Deva</h3>
+                                <span>Alumni</span>
+                            </div>
                         </div>
-                    </div>
+                    </a>
 
-                    <div class="single-testimonials-item">
-                        <p>Selama berada di Inosoft saya mendapatkan banyak pengalaman, baik pengalaman teknis dan non-teknis. Rekan kerja yang suportif membuat saya nyaman berada disin</p>
+                    <a href="https://youtube.com/shorts/cHll7zqgFkU?feature=share" target="_blank">
+                        <div class="single-testimonials-item">
+                            <p>Selama berada di Inosoft saya mendapatkan banyak pengalaman, baik pengalaman teknis dan non-teknis. Rekan kerja yang suportif membuat saya nyaman berada disin</p>
 
-                        <div class="info">
-                            <img src="assets/img/Adji.png" class="shadow rounded-circle" alt="image">
-                            <h3>Adji</h3>
-                            <span>Alumni</span>
+                            <div class="info">
+                                <img src="assets/img/Adji.png" class="shadow rounded-circle" alt="image">
+                                <h3>Adji</h3>
+                                <span>Alumni</span>
+                            </div>
                         </div>
-                    </div>
+                    </a>
 
-                    <div class="single-testimonials-item">
-                        <p>Saya sekarang bekerja di PT. Inosoft Trans Sistem. Saya mendapatkan pengalaman yang luar biasa dikarenakan teman sekerja yang suportif satu sama lain. Saya juga diajarkan dunia kerja yang membuat saya berkembang lebih pesat</p>
+                    <a href="https://youtu.be/8-OI6WwpRqk" target="_blank">
+                        <div class="single-testimonials-item">
+                            <p>Saya sekarang bekerja di PT. Inosoft Trans Sistem. Saya mendapatkan pengalaman yang luar biasa dikarenakan teman sekerja yang suportif satu sama lain. Saya juga diajarkan dunia kerja yang membuat saya berkembang lebih pesat</p>
 
-                        <div class="info">
-                            <img src="assets/img/Dian.png" class="shadow rounded-circle" alt="image">
-                            <h3>Dian Adi</h3>
-                            <span>Alumni</span>
+                            <div class="info">
+                                <img src="assets/img/Dian.png" class="shadow rounded-circle" alt="image">
+                                <h3>Dian Adi</h3>
+                                <span>Alumni</span>
+                            </div>
                         </div>
-                    </div>
+                    </a>
 
-                    <div class="single-testimonials-item">
-                        <p>Selama di Inosoft, saya merasa nyaman belajar sambil bekerja. Selain itu saya juga belajar bagaimana cara berkomunikasi, bekerja dalam tim, dan seniornya juga asik-asik. Mereka membagikan banyak ilmu dan tips yang bermanfaat. Lingkungan yang tidak monoton dan jam kerja yang sangat fleksibel</p>
+                    <a href="https://youtu.be/drYlVnXFeEQ" target="_blank">
+                        <div class="single-testimonials-item">
+                            <p>Selama di Inosoft, saya merasa nyaman belajar sambil bekerja. Selain itu saya juga belajar bagaimana cara berkomunikasi, bekerja dalam tim, dan seniornya juga asik-asik. Mereka membagikan banyak ilmu dan tips yang bermanfaat. Lingkungan yang tidak monoton dan jam kerja yang sangat fleksibel</p>
 
-                        <div class="info">
-                            <img src="assets/img/Diaz.png" class="shadow rounded-circle" alt="image">
-                            <h3>Diaz</h3>
-                            <span>Alumni</span>
+                            <div class="info">
+                                <img src="assets/img/Diaz.png" class="shadow rounded-circle" alt="image">
+                                <h3>Diaz</h3>
+                                <span>Alumni</span>
+                            </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
             </div>
         </section>
         <!-- End Testimonials Area -->
 
        <!-- Start Blog Area -->
-       <section class="blog-area pt-100 pb-100">
+       <!-- <section class="blog-area pt-100 pb-100">
             <div class="container">
             <div class="section-title">
                     <span class="sub-title">EXPLORE NEWS</span>
                     <h2>Our Blogs</h2>
-                </div>
+                </div> -->
                 <!-- <div class="section-title text-left">
                     <span class="sub-title">Explore News</span>
                     <h2>Blog</h2>
                             <a href="" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
                 </div> -->
                 
-                <div class="row justify-content-center">
+                <!-- <div class="row justify-content-center">
                     <div class="col-lg-4 col-md-6">
                         <div class="single-blog-post-card mb-30">
                             <div class="post-image">
@@ -596,21 +604,21 @@
                                
                             </div>
                         </div>
-                    </div> 
+                    </div>  -->
                     <!-- <div class="section-button text-left">
                             <a href="artikel" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
 <<<<<<< Updated upstream
                             </div> -->
+    <!-- 
+                                </div>
 
-                            </div>
-
-                    <div class="section-button1 text-center">
-                            <a href="artikel" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
-                    </div>              
+                        <div class="section-button1 text-center">
+                                <a href="artikel" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a> 
+                        </div>              
+                    </div>
                 </div>
-            </div>
-            
-        </section>
+                
+            </section> -->
         <!-- End Blog Area -->
 
         <!-- Start Footer Area -->

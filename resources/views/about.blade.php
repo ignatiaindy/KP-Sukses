@@ -619,8 +619,8 @@
                     <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="https://inosoftweb.com/">Inosoft</a></div>
                     <div class="back-copy-right">
                         <ul>
-                            <a href="privacy">Privacy Policy</a>
-                            <a href="terms">Terms And Conditions</a>
+                            <a href="privacy">Privacy</a>
+                            <a href="terms">Terms</a>
                         </ul>
                     </div>
                 </div>
