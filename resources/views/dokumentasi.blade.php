@@ -153,55 +153,55 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/1.jpg" alt="Gallery Image" data-original="assets/img/gallery/1.jpg">
+                            <img src="assets/img/gallery/Visit SMK 1 SBY - 0.png" alt="Gallery Image" data-original="assets/img/gallery/Visit SMK 1 SBY - 0.png">
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/2.jpg" alt="Gallery Image" data-original="assets/img/gallery/2.jpg">
+                            <img src="assets/img/gallery/Visit SMK 1 SBY - 1.png" alt="Gallery Image" data-original="assets/img/gallery/Visit SMK 1 SBY - 1.png">
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/3.jpg" alt="Gallery Image" data-original="assets/img/gallery/3.jpg">
+                            <img src="assets/img/gallery/Visit SMK 1 SBY - 2.png" alt="Gallery Image" data-original="assets/img/gallery/Visit SMK 1 SBY - 2.png">
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/4.jpg" alt="Gallery Image" data-original="assets/img/gallery/4.jpg">
+                            <img src="assets/img/gallery/Visit SMK 1 SBY - 3.png" alt="Gallery Image" data-original="assets/img/gallery/Visit SMK 1 SBY - 3.png">
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/5.jpg" alt="Gallery Image" data-original="assets/img/gallery/5.jpg">
+                            <img src="assets/img/gallery/Seleksi.jpeg" alt="Gallery Image" data-original="assets/img/gallery/Seleksi.jpeg">
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/6.jpg" alt="Gallery Image" data-original="assets/img/gallery/6.jpg">
+                            <img src="assets/img/gallery/Seleksi1.jpeg" alt="Gallery Image" data-original="assets/img/gallery/Seleksi1.jpeg">
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/7.jpg" alt="Gallery Image" data-original="assets/img/gallery/7.jpg">
+                            <img src="assets/img/gallery/Inosoft Bootcamp 3A - 080822 - 0.jpeg" alt="Gallery Image" data-original="assets/img/gallery/Inosoft Bootcamp 3A - 080822 - 0.jpeg">
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/8.jpg" alt="Gallery Image" data-original="assets/img/gallery/8.jpg">
+                            <img src="assets/img/gallery/Inosoft Bootcamp 3A - 080822 - 1.jpeg" alt="Gallery Image" data-original="assets/img/gallery/Inosoft Bootcamp 3A - 080822 - 1.jpeg">
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-gallery-item mb-30">
-                            <img src="assets/img/gallery/9.jpg" alt="Gallery Image" data-original="assets/img/gallery/9.jpg">
+                            <img src="assets/img/gallery/Inosoft Bootcamp 3A - 080822 - 3.jpeg" alt="Gallery Image" data-original="assets/img/gallery/Inosoft Bootcamp 3A - 080822 - 3.jpeg">
                         </div>
                     </div>
                 </div>

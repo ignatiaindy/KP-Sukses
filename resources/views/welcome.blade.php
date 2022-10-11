@@ -142,7 +142,7 @@
                                     <h1>Learn From The Best and Be The Best</h1>
                                     <p>Inosoft Bootcamp, Bootcamp bidang IT No.1 di Indonesia</p>
                                     <div class="btn-box">
-                                        <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" class="default-btn2">Daftar</a>
+                                        <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" class="default-btn2" target="_blank">Daftar</a>
                                     </div>
                                 </div>
                             </div>
@@ -221,7 +221,7 @@
                             
                         </div>
 
-                            <a href="https://www.youtube.com/watch?v=3sP7eff9YCk" class="default-btn"><i class='bx bx-play-circle icon-arrow before'></i><span class="label">Tonton Video</span><i class="bx bx-play-circle icon-arrow after"></i></a>
+                            <a href="https://www.youtube.com/watch?v=3sP7eff9YCk" class="default-btn" target="_blank"><i class='bx bx-play-circle icon-arrow before'></i><span class="label">Tonton Video</span><i class="bx bx-play-circle icon-arrow after"></i></a>
                             
                         </div>
                         
@@ -348,10 +348,10 @@
                         <div class="Alasan-card">
                             <div style="width:100%, " class="text-center">
                             <div class="numbera"><iconify-icon icon="mdi:laptop"></iconify-icon></div></div>
-                            <p>Memiliki laptop dengan spesifikasi minimal 
-                                OS : Linux OS (Ubuntu) / Windows
-                                32/64 bit / MacOS
-                                Memory : 4GB RAM Memory (disarankan 8GB Memory)</p>
+                            <ul>Memiliki laptop dengan spesifikasi minimal :
+                                <li>OS : Linux OS (Ubuntu) / Windows 32/64 bit / MacOS</li>
+                                <li>Memory : 4GB RAM Memory (disarankan 8GB Memory)</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -377,8 +377,7 @@
                                         <i class="bx bx-pen my-auto mx-auto"></i>
                                     </div>
                                     <h3>PENDAFTARAN</h3>
-                                    <p>Dilakukan dengan cara mengisi formulir <br>pada tanggal 
-                                        1 - 24 Juli 2022</p>
+                                    <p>Para calon peserta mengisi formulir pendaftaran yang dapat dilakukan pada tanggal xx xx 2022 hingga xx xx 2022 melaui <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" target="_blank">form berikut ini</a>.</p>
                                 </li>
 
                                 <li>
@@ -386,7 +385,7 @@
                                         <i class="bx bx-list-ul my-auto mx-auto"></i>
                                     </div>
                                     <h3>SELEKSI</h3>
-                                    <p>Dilakukan secara online meliputi General Knowledge dan Logical Thinking Test pada 28 Juli 2022 pukul 16.30 WIB</p>
+                                    <p>Para calon peserta mengerjakan serangkaian tes meliputi General Knowledge dan Logical Thinking Test secara online.</p>
                                 </li>
                                 
                                 <li>
@@ -394,7 +393,7 @@
                                         <i class="bx bx-check my-auto mx-auto"></i>
                                     </div>
                                     <h3>PELAKSANAAN</h3>
-                                    <p>Peserta terpilih akan mengikuti pelatihan intensif mulai pada bulan Agustus - Oktober 2022</p>
+                                    <p>Peserta terpilih akan mengikuti pelatihan intensif</p>
                                 </li>
                                 
                             </ul>
@@ -697,8 +696,8 @@
                     <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="https://inosoftweb.com/">Inosoft</a></div>
                     <div class="back-copy-right">
                         <ul>
-                            <a href="privacy">Privacy Policy</a>
-                            <a href="terms">Terms And Conditions</a>
+                            <a href="privacy">Privacy</a>
+                            <a href="terms">Terms</a>
                         </ul>
                     </div>
                 </div>

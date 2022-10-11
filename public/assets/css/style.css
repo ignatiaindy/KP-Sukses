@@ -2837,9 +2837,8 @@ Offer CSS
   color: #000000;
 }
 
-.single-offer-box1:hover p {
+.single-offer-box:hover p {
   color: #000000;
-  opacity: 0.95;
 }
 .single-offer-box1 .icon {
   width: 90px;
@@ -10404,6 +10403,11 @@ Motivation Featured Area CSS
 .Alasan-card p {
   margin-bottom: 0;
   text-align: center;
+  color: #4f4f4f;
+}
+
+.Alasan-card ul{
+  color: #4f4f4f;
 }
 
 .Alasan-card .featured-btn {
