@@ -49,11 +49,11 @@
                                 <ul class="navbar-nav" style="display: none;">
                                     <li class="nav-item"><a href="/" class="nav-link ">Home <i class=""></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class="bx bx-chevron-down"></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link">Course <i class="bx bx-chevron-down"></i></a>
                                         <ul class="dropdown-menu" style="display: none;">
-                                            <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
+                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer</a></li>
 
-                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer</a></li>
                                         </ul>
                                     <a class="mean-expand" href="#" style="font-size: 18px">+</a></li>
                                     <li class="nav-item mean-last"><a href="about" class="nav-link active">About Us</a></li>
@@ -80,11 +80,11 @@
                                 <ul class="navbar-nav">
                                     <li class="nav-item"><a href="/" class="nav-link ">Home <i class=''></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link ">Blog <i class='bx bx-chevron-down'></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link ">Course <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
-                                            <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
+                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer</a></li>
 
-                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer</a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="about" class="nav-link active">About Us</a></li>
@@ -110,11 +110,11 @@
                                 <ul class="navbar-nav">
                                     <li class="nav-item"><a href="/" class="nav-link ">Home <i class=''></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link">Course <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
-                                            <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
+                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer</a></li>
 
-                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer</a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="about" class="nav-link active">About Us</a></li>
@@ -569,11 +569,11 @@
 
                     <div class="col-lg-2 col-md-6 col-sm-6">
                         <div class="single-footer-widget mb-30">
-                            <h3>Blog</h3>
+                            <h3>Blog <mark>Soon!</mark></h3>
 
                             <ul class="useful-link">
-                                <li><a href="artikel">Artikel</a></li>
-                                <li><a href="dokumentasi">Dokumentasi</a></li>
+                                <li><a class="isDisabled" href="artikel">Artikel</a></li>
+                                <li><a class="isDsiabled" href="dokumentasi">Dokumentasi</a></li>
                                 
                             </ul>
                         </div>

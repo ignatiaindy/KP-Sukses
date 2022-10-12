@@ -53,11 +53,11 @@
                                 <ul class="navbar-nav" style="display: none;">
                                     <li class="nav-item"><a href="/" class="nav-link active">Home <i class=""></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class="bx bx-chevron-down"></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link">Course <i class="bx bx-chevron-down"></i></a>
                                         <ul class="dropdown-menu" style="display: none;">
-                                            <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
+                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer</a></li>
 
-                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="Frontend" class="nav-link">Backend Developer</a></li>
                                         </ul>
                                     <a class="mean-expand" href="#" style="font-size: 18px">+</a></li>
                                     <li class="nav-item mean-last"><a href="about" class="nav-link">About Us</a></li>
@@ -84,11 +84,11 @@
                                 <ul class="navbar-nav">
                                     <li class="nav-item"><a href="/" class="nav-link ">Home <i class=''></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link active">Blog <i class='bx bx-chevron-down'></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link active">Course <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
-                                            <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
+                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer</a></li>
 
-                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer</a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
@@ -114,11 +114,11 @@
                                 <ul class="navbar-nav">
                                     <li class="nav-item"><a href="/" class="nav-link ">Home <i class=''></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link active">Blog <i class='bx bx-chevron-down'></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link active">Course <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
-                                            <li class="nav-item"><a href="artikel" class="nav-link">Artikel</a></li>
+                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer</a></li>
 
-                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Dokumentasi</a></li>
+                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer</a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
