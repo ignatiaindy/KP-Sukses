@@ -393,7 +393,7 @@
                                         <i class="bx bx-check my-auto mx-auto"></i>
                                     </div>
                                     <h3>PELAKSANAAN</h3>
-                                    <p>Peserta terpilih akan mengikuti pelatihan intensif kurang lebih selama 4 bulan.</p>
+                                    <p>Para calon peserta terpilih akan mengikuti pelatihan intensif kurang lebih selama 4 bulan.</p>
                                 </li>
                                 
                             </ul>
@@ -636,16 +636,16 @@
                                 </li>
                                 <li>
                                     <i class='bx bx-phone-call'></i>
-                                    <a href="tel: 8700688">(031) 8700688</a>
+                                    <a href="tel: 085888850006">0858-8885-0006</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-envelope'></i>
-                                    <a href="mailto:sinergipeta@gmail.com"><span>sinergipeta@gmail.com </span></a>
+                                    <a href="mailto:info@sinergipeta.com"><span>info@sinergipeta.com</span></a>
                                 </li>
                             </ul>
 
                             <ul class="social-link">
-                                <li><a href="https://api.whatsapp.com/send/?phone=6287848041867&text&type=phone_number&app_absent=0" class="d-block" target="_blank"><i class='bx bxl-whatsapp'></i></a></li>
+                                <li><a href="https://api.whatsapp.com/send/?phone=6285888850006&text&type=phone_number&app_absent=0" class="d-block" target="_blank"><i class='bx bxl-whatsapp'></i></a></li>
                                 <li><a href="https://www.instagram.com/Inosoftbootcamp/" class="d-block" target="_blank"><i class='bx bxl-instagram'></i></a></li>
                                 
                             </ul>
@@ -701,7 +701,7 @@
                         <a href="/" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
                     </div>
                     <div class="containerr">                  
-                    <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="https://inosoftweb.com/">Inosoft</a></div>
+                    <div class="back-copy-left">@ 2022 All Copyright Reserved.</div>
                     <div class="back-copy-right">
                         <ul>
                             <a href="privacy">Privacy</a>

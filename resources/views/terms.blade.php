@@ -274,7 +274,7 @@
                                 <br>
 
                                 <h3>H. Laporan Kemungkinan Pelanggaran</h3><br>
-                                <p>Jika Anda menemukan konten apa pun pada Platform Kami yang Anda yakini melanggar hak cipta apa pun, menyalahi hak lainnya, merusak nama baik, bersifat pornorafis atau tidak senonoh, rasis, atau dengan cara-cara lain menyebabkan pelanggaran secara luas, atau yang merupakan peniruan identitas, penyalahgunaan, spam, atau sebaliknya menyalahi Persyaratan Penggunaan serta Kebijakan Privasi maupun Peraturan yang Berlaku lainnya, silakan laporkan ini kepada Kami melalui telepon di nomor 087848041867, melaui email ke evy@inosoftweb.com dan/atau melalui dokumen fisik ke alamat berikut: YKP Pandugo 2 Blok P No. 1, Penjaringan Sari, Rungkut, Surabaya.</p>
+                                <p>Jika Anda menemukan konten apa pun pada Platform Kami yang Anda yakini melanggar hak cipta apa pun, menyalahi hak lainnya, merusak nama baik, bersifat pornorafis atau tidak senonoh, rasis, atau dengan cara-cara lain menyebabkan pelanggaran secara luas, atau yang merupakan peniruan identitas, penyalahgunaan, spam, atau sebaliknya menyalahi Persyaratan Penggunaan serta Kebijakan Privasi maupun Peraturan yang Berlaku lainnya, silakan laporkan ini kepada Kami melalui telepon di nomor 0858-8885-0006, melaui email ke evy@inosoftweb.com dan/atau melalui dokumen fisik ke alamat berikut: YKP Pandugo 2 Blok P No. 1, Penjaringan Sari, Rungkut, Surabaya.</p>
                                 <p>Pastikan bahwa Anda menyertakan, dalam laporan tersebut (“Laporan”), informasi sebagai berikut:</p>
                                 <ol class="content pl--50"type="a">
                                     <li>Pernyataan bahwa Anda telah mengidentifikasi konten yang melanggar atau menyalahi Syarat dan Ketentuan dan Kebijakan Privasi Platform Kami maupun Peraturan yang Berlaku lainnya pada Platform Kami;</li>
@@ -348,7 +348,7 @@
                                 <br>
 
                                 <h3>Q. Cara Menghubungi Kami</h3><br>
-                                <p>Setiap pemberitahuan dari Anda atau Pengguna yang ditujukan kepada Kami menjadi efektif ketika pemberitahuan tersebut diterima oleh Kami melalui pesan melalui email evy@inosoftweb.com atau telepon di nomor 087848041867 dan/atau melalui dokumen fisik ke alamat berikut: YKP Pandugo 2 Blok P No. 1, Penjaringan Sari, Rungkut, Surabaya</p>
+                                <p>Setiap pemberitahuan dari Anda atau Pengguna yang ditujukan kepada Kami menjadi efektif ketika pemberitahuan tersebut diterima oleh Kami melalui pesan melalui email evy@inosoftweb.com atau telepon di nomor 0858-8885-0006 dan/atau melalui dokumen fisik ke alamat berikut: YKP Pandugo 2 Blok P No. 1, Penjaringan Sari, Rungkut, Surabaya</p>
                                 <p><i>Saya dan/atau orang tua, wali atau pengampu saya telah membaca dan mengerti seluruh Syarat dan Ketentuan ini dan konsekuensinya dan dengan ini menerima setiap hak, kewajiban, dan ketentuan yang diatur di dalamnya.</i></p>
                                 <br>
                             </div>
@@ -376,16 +376,16 @@
                                 </li>
                                 <li>
                                     <i class='bx bx-phone-call'></i>
-                                    <a href="tel: 8700688">(031) 8700688</a>
+                                    <a href="tel: 085888850006">0858-8885-0006</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-envelope'></i>
-                                    <a href="mailto:sinergipeta@gmail.com"><span class="__cf_email__" data-cfemail="3f575a5353507f4d5e4e4a5a115c5052">sinergipeta@gmail.com </span></a>
+                                    <a href="mailto:info@sinergipeta.com">info@sinergipeta.com</span></a>
                                 </li>
                             </ul>
 
                             <ul class="social-link">
-                                <li><a href="https://api.whatsapp.com/send/?phone=6287848041867&text&type=phone_number&app_absent=0" class="d-block" target="_blank"><i class='bx bxl-whatsapp'></i></a></li>
+                                <li><a href="https://api.whatsapp.com/send/?phone=6285888850006&text&type=phone_number&app_absent=0" class="d-block" target="_blank"><i class='bx bxl-whatsapp'></i></a></li>
                                 <li><a href="https://www.instagram.com/inosoftbootcamp/" class="d-block" target="_blank"><i class='bx bxl-instagram'></i></a></li>
                                 
                             </ul>
@@ -441,7 +441,7 @@
                         <a href="/" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
                     </div>
                     <div class="containerr">                  
-                    <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="#">Inosoft</a></div>
+                    <div class="back-copy-left">@ 2022 All Copyright Reserved.</div>
                     <div class="back-copy-right">
                         <ul>
                             <a href="privacy">Privacy</a>

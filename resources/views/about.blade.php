@@ -148,23 +148,21 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="about-content left-content">
                             <span class="sub-title">About Us</span>
-                            <h2>About Inosoft Bootcamp</h2>
-                            <p>Pengen kerja di bidang IT tapi kurang pede karena merasa ilmu yang dimiliki belum tentu klop dengan kebutuhan di dunia kerja? Tenang, INOSOFT BOOTCAMP hadir untuk menjawab keraguan kalian 
-                            <br> Inosoft Bootcamp adalah program dari Inosoft Trans Sistem untuk mengembangkan talent baru dibidang IT yang dilaksanakan selama kurang lebih 10 minggu 
-                            <br>Kalian akan dipersiapkan untuk menjadi seorang IT profesional, tidak hanya melalui teori tapi juga dengan pengalaman langsung bekerja di project IT</p>
-
+                            <h2>About Inosoft Bootcamp</h2> 
+                            <p> Inosoft Bootcamp merupakan salah satu program dari Inosoft Trans Sistem untuk mencari dan mengembangkan talent baru didunia industri teknologi.</p>
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-12">
                         <div class="about-right-image">
-                            <img style="border-radius :20px" src="assets/img/about/4.jpg" alt="image">
-                            <img style="border-radius :20px" src="assets/img/about/3.jpg" alt="image">
+                        <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_6F5aVH.json" background="transparent"  speed="1" autoplay></lottie-player>
+                            <!-- <img style="border-radius :20px" src="assets/img/about/4.jpg" alt="image"> -->
+                            <!-- <img style="border-radius :20px" src="assets/img/about/3.jpg" alt="image"> -->
                         </div>
                     </div>
                 </div>
             </div>
-            <div id="particles-js-circle-bubble-4"></div>
+            <!-- <div id="particles-js-circle-bubble-4"></div> -->
         </section>
         <!-- End About Area -->
 
@@ -432,7 +430,7 @@
                             </div>
 
                             <h3>Email Here</h3>
-                            <p><a href="mailto:sinergipeta@gmail.com">[sinergipeta@gmail.com]</p></a>
+                            <p><a href="mailto:info@sinergipeta.com">[info@sinergipeta.com]</p></a>
                             <br>
                             <br>
                         </div>
@@ -456,7 +454,7 @@
                             </div>
 
                             <h3>Contact Here</h3>
-                            <p><a href="https://api.whatsapp.com/send/?phone=6287848041867&text&type=phone_number&app_absent=0">087848041867</a></p>
+                            <p><a href="https://api.whatsapp.com/send/?phone=6285888850006&text&type=phone_number&app_absent=0">0858-8885-0006</a></p>
                             <br>
                             <br>
                         </div>
@@ -474,7 +472,7 @@
                 <div class="section-title">
                     <span class="sub-title">Contact Us</span>
                     <h2>Drop us Message for any Query</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
                 </div>
 
                 <div class="contact-form">
@@ -551,16 +549,16 @@
                                 </li>
                                 <li>
                                     <i class='bx bx-phone-call'></i>
-                                    <a href="tel: 8700688">(031) 8700688</a>
+                                    <a href="tel: 085888850006">0858-8885-0006</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-envelope'></i>
-                                    <a href="mailto:sinergipeta@gmail.com"><span class="__cf_email__" data-cfemail="3f575a5353507f4d5e4e4a5a115c5052">sinergipeta@gmail.com </span></a>
+                                    <a href="mailto:info@sinergipeta.com">info@sinergipeta.com</span></a>
                                 </li>
                             </ul>
 
                             <ul class="social-link">
-                                <li><a href="https://api.whatsapp.com/send/?phone=6287848041867&text&type=phone_number&app_absent=0" class="d-block" target="_blank"><i class='bx bxl-whatsapp'></i></a></li>
+                                <li><a href="https://api.whatsapp.com/send/?phone=6285888850006&text&type=phone_number&app_absent=0" class="d-block" target="_blank"><i class='bx bxl-whatsapp'></i></a></li>
                                 <li><a href="https://www.instagram.com/inosoftbootcamp/" class="d-block" target="_blank"><i class='bx bxl-instagram'></i></a></li>
                                 
                             </ul>
@@ -573,7 +571,7 @@
 
                             <ul class="useful-link">
                                 <li><a class="isDisabled" href="artikel">Artikel</a></li>
-                                <li><a class="isDsiabled" href="dokumentasi">Dokumentasi</a></li>
+                                <li><a class="isDisabled" href="dokumentasi">Dokumentasi</a></li>
                                 
                             </ul>
                         </div>
@@ -616,7 +614,7 @@
                         <a href="/" class="d-inline-block"><img src="assets/img/logo2.png" alt="image"></a>
                     </div>
                     <div class="containerr">                  
-                    <div class="back-copy-left">@ 2022 All Copyright Reserved. Developed by <a href="https://inosoftweb.com/">Inosoft</a></div>
+                    <div class="back-copy-left">@ 2022 All Copyright Reserved.</div>
                     <div class="back-copy-right">
                         <ul>
                             <a href="privacy">Privacy</a>
@@ -648,5 +646,6 @@
         <script src="assets/js/form-validator.min.js"></script>
         <script src="https://code.iconify.design/iconify-icon/1.0.0-beta.3/iconify-icon.min.js"></script>
         <script src="assets/js/main.js"></script>
+        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
     </body>
 </html>
