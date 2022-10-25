@@ -274,7 +274,7 @@
                                 <br>
 
                                 <h3>H. Laporan Kemungkinan Pelanggaran</h3><br>
-                                <p>Jika Anda menemukan konten apa pun pada Platform Kami yang Anda yakini melanggar hak cipta apa pun, menyalahi hak lainnya, merusak nama baik, bersifat pornorafis atau tidak senonoh, rasis, atau dengan cara-cara lain menyebabkan pelanggaran secara luas, atau yang merupakan peniruan identitas, penyalahgunaan, spam, atau sebaliknya menyalahi Persyaratan Penggunaan serta Kebijakan Privasi maupun Peraturan yang Berlaku lainnya, silakan laporkan ini kepada Kami melalui telepon di nomor 0858-8885-0006, melaui email ke evy@inosoftweb.com dan/atau melalui dokumen fisik ke alamat berikut: YKP Pandugo 2 Blok P No. 1, Penjaringan Sari, Rungkut, Surabaya.</p>
+                                <p>Jika Anda menemukan konten apa pun pada Platform Kami yang Anda yakini melanggar hak cipta apa pun, menyalahi hak lainnya, merusak nama baik, bersifat pornorafis atau tidak senonoh, rasis, atau dengan cara-cara lain menyebabkan pelanggaran secara luas, atau yang merupakan peniruan identitas, penyalahgunaan, spam, atau sebaliknya menyalahi Persyaratan Penggunaan serta Kebijakan Privasi maupun Peraturan yang Berlaku lainnya, silakan laporkan ini kepada Kami melalui telepon di nomor 0858-8885-0006, melaui email ke info@sinergipeta.com dan/atau melalui dokumen fisik ke alamat berikut: YKP Pandugo 2 Blok P No. 1, Penjaringan Sari, Rungkut, Surabaya.</p>
                                 <p>Pastikan bahwa Anda menyertakan, dalam laporan tersebut (“Laporan”), informasi sebagai berikut:</p>
                                 <ol class="content pl--50"type="a">
                                     <li>Pernyataan bahwa Anda telah mengidentifikasi konten yang melanggar atau menyalahi Syarat dan Ketentuan dan Kebijakan Privasi Platform Kami maupun Peraturan yang Berlaku lainnya pada Platform Kami;</li>
@@ -300,7 +300,7 @@
                                 <p>Anda tidak diperbolehkan membuat link ke Platform Kami pada situs web mana pun yang tidak dimiliki oleh Anda.</p>
                                 <p>Kami berhak mencabut izin pembuatan link tanpa pemberitahuan.</p>
                                 <p>Situs web yang Anda berikan link harus mematuhi segala aspek standar konten yang telah ditetapkan melalui Syarat dan Ketentuan Kami.</p>
-                                <p>Jika Anda ingin menggunakan konten pada Platform Kami selain melalui hal-hal yang diatur diatas, silakan hubungi Inosoft Bootcamp melalui email evy@inosoftweb.com</p>
+                                <p>Jika Anda ingin menggunakan konten pada Platform Kami selain melalui hal-hal yang diatur diatas, silakan hubungi Inosoft Bootcamp melalui email info@sinergipeta.com</p>
                                 <br>
 
                                 <h3>K. Link Pihak Ketiga Pada Platform Kami</h3><br>
@@ -348,7 +348,7 @@
                                 <br>
 
                                 <h3>Q. Cara Menghubungi Kami</h3><br>
-                                <p>Setiap pemberitahuan dari Anda atau Pengguna yang ditujukan kepada Kami menjadi efektif ketika pemberitahuan tersebut diterima oleh Kami melalui pesan melalui email evy@inosoftweb.com atau telepon di nomor 0858-8885-0006 dan/atau melalui dokumen fisik ke alamat berikut: YKP Pandugo 2 Blok P No. 1, Penjaringan Sari, Rungkut, Surabaya</p>
+                                <p>Setiap pemberitahuan dari Anda atau Pengguna yang ditujukan kepada Kami menjadi efektif ketika pemberitahuan tersebut diterima oleh Kami melalui pesan melalui email info@sinergipeta.com atau telepon di nomor 0858-8885-0006 dan/atau melalui dokumen fisik ke alamat berikut: YKP Pandugo 2 Blok P No. 1, Penjaringan Sari, Rungkut, Surabaya</p>
                                 <p><i>Saya dan/atau orang tua, wali atau pengampu saya telah membaca dan mengerti seluruh Syarat dan Ketentuan ini dan konsekuensinya dan dengan ini menerima setiap hak, kewajiban, dan ketentuan yang diatur di dalamnya.</i></p>
                                 <br>
                             </div>
@@ -409,9 +409,8 @@
                             <h3>Course</h3>
 
                             <ul class="useful-link">
-                                <li><a href="courseFront">Frontend Developer</a></li>
-                                <li><a href="courseBack">Backend Developer</a></li>
-                                
+                                <li><a href="Backend">Backend Developer</a></li>
+                                <li><a href="Frontend">Frontend Developer</a></li>
                             </ul>
                         </div>
                     </div>

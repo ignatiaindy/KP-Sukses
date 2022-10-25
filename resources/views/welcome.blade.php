@@ -142,7 +142,7 @@
                                     <h1>Learn From The Best and Be The Best</h1>
                                     <p>Inosoft Bootcamp, Bootcamp bidang IT No.1 di Indonesia</p>
                                     <div class="btn-box">
-                                        <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" class="default-btn2" target="_blank">Daftar</a>
+                                        <a href="https://client.virtusee.com/index.php/bootcamp/survey" class="default-btn2" target="_blank">Daftar</a>
                                     </div>
                                 </div>
                             </div>
@@ -166,7 +166,7 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="about-image">
                             <img src="assets/img/about/1.jpg" class="shadow" alt="image">
-                            <img src="assets/img/about/2.jpg" class="shadow" alt="image">
+                            <!-- <img src="assets/img/about/2.jpg" class="shadow" alt="image"> -->
                         </div>
                     </div>
 
@@ -377,7 +377,7 @@
                                         <i class="bx bx-pen my-auto mx-auto"></i>
                                     </div>
                                     <h3>PENDAFTARAN</h3>
-                                    <p>Para calon peserta mengisi formulir pendaftaran yang dapat dilakukan pada tanggal xx xx 2022 hingga xx xx 2022 melalui <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" target="_blank">form berikut ini</a>.</p>
+                                    <p>Para calon peserta mengisi formulir pendaftaran yang dapat dilakukan pada Oktober hingga Desember 2022 melalui <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" target="_blank">form berikut ini</a>.</p>
                                 </li>
 
                                 <li>
@@ -669,9 +669,8 @@
                             <h3>Course</h3>
 
                             <ul class="useful-link">
-                                <li><a href="Backend">Frontend Developer</a></li>
-                                <li><a href="Frontend">Backend Developer</a></li>
-                                
+                                <li><a href="Backend">Backend Developer</a></li>
+                                <li><a href="Frontend">Frontend Developer</a></li>
                             </ul>
                         </div>
                     </div>

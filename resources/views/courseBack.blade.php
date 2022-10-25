@@ -393,7 +393,7 @@
                             </ul>
                         </div>
                             <div>
-                                <a href="#" class="default-btn1">Daftar</a>
+                                <a href="https://client.virtusee.com/index.php/bootcamp/survey" class="default-btn1" target="_blank"target="_blank">Daftar</a>
                             </div> 
                             <div class="courses-sidebar-syllabus1">
                             <span class="chapter">Preparation</span>
@@ -504,9 +504,8 @@
                             <h3>Course</h3>
 
                             <ul class="useful-link">
-                                <li><a href="courseBack">Frontend Developer</a></li>
                                 <li><a href="courseFront">Backend Developer</a></li>
-                                
+                                <li><a href="courseBack">Frontend Developer</a></li>
                             </ul>
                         </div>
                     </div>

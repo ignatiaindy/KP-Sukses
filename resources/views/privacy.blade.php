@@ -292,7 +292,7 @@
                                 <br>
 
                                 <h3>J. Cara Menghubungi Kami</h3><br>
-                                <p>Jika Anda memiliki pertanyaan, keluhan, kritik, dan saran mengenai Kebijakan Privasi ini atau Anda ingin mendapatkan akses dan/atau melakukan koreksi terhadap Informasi Pribadi Anda, silahkan dapat menghubungi Kami melalui email evy@inosoftweb.com atau telepon di nomor 0858-8885-0006 dan/atau melalui dokumen fisik ke alamat berikut: YKP Pandugo 2 Blok P No. 1, Penjaringan Sari, Rungkut, Surabaya</p>
+                                <p>Jika Anda memiliki pertanyaan, keluhan, kritik, dan saran mengenai Kebijakan Privasi ini atau Anda ingin mendapatkan akses dan/atau melakukan koreksi terhadap Informasi Pribadi Anda, silahkan dapat menghubungi Kami melalui email info@sinergipeta.com atau telepon di nomor 0858-8885-0006 dan/atau melalui dokumen fisik ke alamat berikut: YKP Pandugo 2 Blok P No. 1, Penjaringan Sari, Rungkut, Surabaya</p>
                                 <br>
 
                             </div>
@@ -353,9 +353,8 @@
                             <h3>Course</h3>
 
                             <ul class="useful-link">
-                                <li><a href="courseFront">Frontend Developer</a></li>
                                 <li><a href="courseBack">Backend Developer</a></li>
-                                
+                                <li><a href="courseFront">Frontend Developer</a></li>
                             </ul>
                         </div>
                     </div>

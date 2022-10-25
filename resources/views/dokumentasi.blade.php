@@ -247,7 +247,6 @@
                             <ul class="useful-link">
                                 <li><a href="artikel">Artikel</a></li>
                                 <li><a href="dokumentasi">Dokumentasi</a></li>
-                                
                             </ul>
                         </div>
                     </div>
@@ -257,9 +256,8 @@
                             <h3>Course</h3>
 
                             <ul class="useful-link">
-                                <li><a href="courseFront">Frontend Developer</a></li>
                                 <li><a href="courseBack">Backend Developer</a></li>
-                                
+                                <li><a href="courseFront">Frontend Developer</a></li>
                             </ul>
                         </div>
                     </div>

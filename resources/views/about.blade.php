@@ -365,7 +365,7 @@
 
        
 
-        <section class="team-area pt-100 pb-70">
+        <!-- <section class="team-area pt-100 pb-70">
             <div class="container">
             <div class="section-title text-center">
                     <h2>Our Founder</h2>
@@ -417,7 +417,7 @@
             </div>
             
             <div id="particles-js-circle-bubble-3"></div>
-        </section>
+        </section> -->
         <!-- End Team Area -->
          <!-- Start Contact Info Area -->
          <section class="contact-info-area pt-100 pb-70">
@@ -530,7 +530,7 @@
 
         <!-- Maps -->
         <div id="map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.3259286950433!2d112.78667541486033!3d-7.317236394719128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fa92e2895ff3%3A0x738868d76a74a8f!2sInosoft%20Trans%20Sistem!5e0!3m2!1sen!2sid!4v1662795369782!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15829.30401259048!2d112.7888273!3d-7.317228!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcba95bc7dd3f8049!2sInosoft%20Bootcamp!5e0!3m2!1sen!2sid!4v1666320824474!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <!-- End Maps -->
 

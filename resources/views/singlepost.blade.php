@@ -378,9 +378,8 @@
                             <h3>Course</h3>
 
                             <ul class="useful-link">
-                                <li><a href="courseFront">Frontend Developer</a></li>
-                                <li><a href="courseBack">Backend Developer</a></li>
-                                
+                                <li><a href="Backend">Backend Developer</a></li>
+                                <li><a href="Frontend">Frontend Developer</a></li> 
                             </ul>
                         </div>
                     </div>

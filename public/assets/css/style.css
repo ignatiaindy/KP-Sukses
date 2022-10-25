@@ -2338,6 +2338,10 @@ About CSS
   border-radius: 5px;
 }
 
+.about-image iframe {
+  height: 300%;
+}
+
 .about-image img:nth-child(2) {
   position: absolute;
   right: 25px;
