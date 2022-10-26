@@ -377,7 +377,7 @@
                                         <i class="bx bx-pen my-auto mx-auto"></i>
                                     </div>
                                     <h3>PENDAFTARAN</h3>
-                                    <p>Para calon peserta mengisi formulir pendaftaran yang dapat dilakukan pada Oktober hingga Desember 2022 melalui <a href="https://docs.google.com/forms/d/1-MQ8RTf49wHDDlXl3-eUtvN2Ew6Mmpauak6HVuhldf0/closedform" target="_blank">form berikut ini</a>.</p>
+                                    <p>Para calon peserta mengisi formulir pendaftaran yang dapat dilakukan pada Oktober hingga Desember 2022 melalui <a href="https://client.virtusee.com/index.php/bootcamp/survey" target="_blank">form berikut ini</a>.</p>
                                 </li>
 
                                 <li>
@@ -632,7 +632,7 @@
                             <ul class="contact-us-link">
                                 <li>
                                     <i class='bx bx-map'></i>
-                                    <a href="https://goo.gl/maps/rccJFM96MtoiUJ6P8" target="_blank">Jl. Penjaringan Sari YKP Pandugo 2 No.1, Penjaringan Sari, Kec. Rungkut, Kota SBY, Jawa Timur 60297</a>
+                                    <a href="https://goo.gl/maps/rccJFM96MtoiUJ6P8" target="_blank">YKP Pandugo 2 Blok P No.1, Kel. Penjarigansari, Kec. Rungkut, Kota Surabaya, Jawa Timur 60297</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-phone-call'></i>

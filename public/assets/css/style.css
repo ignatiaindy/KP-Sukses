@@ -3039,9 +3039,8 @@ Become Instructor & Partner CSS
 }
 
 .bootcamp-content.bg-color .default-btn:focus, .bootcamp-content.bg-color .default-btn:hover {
-  color: #ffffff;
-  background-color: #252525;
-  border-color: #252525;
+  color: #252525;
+  background-color: #FCCD06;
 }
 
 .bootcamp-content.bg-color .default-btn:focus .icon-arrow, .bootcamp-content.bg-color .default-btn:hover .icon-arrow {
@@ -10202,6 +10201,15 @@ Information Area CSS
   margin-bottom: 10px;
   font-size: 20px;
   font-weight: 700;
+}
+
+.information-content .apply-details li p a {
+  font-weight: 600;
+}
+
+.information-content .apply-details li p a:hover {
+  font-weight: 600;
+  color: #1869a9;
 }
 
 .information-content .apply-details li:hover .icon {

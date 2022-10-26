@@ -341,7 +341,7 @@
                             <ul class="contact-us-link">
                                 <li>
                                     <i class='bx bx-map'></i>
-                                    <a href="https://goo.gl/maps/rccJFM96MtoiUJ6P8" target="_blank">Jl. Penjaringan Sari YKP Pandugo 2 No.1, Penjaringan Sari, Kec. Rungkut, Kota SBY, Jawa Timur 60297</a>
+                                    <a href="https://goo.gl/maps/rccJFM96MtoiUJ6P8" target="_blank">YKP Pandugo 2 Blok P No.1, Kel. Penjarigansari, Kec. Rungkut, Kota Surabaya, Jawa Timur 60297</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-phone-call'></i>
