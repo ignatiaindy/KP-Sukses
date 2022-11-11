@@ -5347,6 +5347,7 @@ blockquote::after, .blockquote::after {
 .back-blog-page-single {
   padding: 120px 0;
 }
+
 .back-blog-page-single .blog-single-inner .blog-image {
   margin-bottom: 42px;
   text-align: center;
@@ -8905,6 +8906,8 @@ Blog CSS
   padding-top: 10%;
   padding-bottom: 5%;
 }
+
+
 
 .blog-area.bg-image {
   background-position: center center;

@@ -19,6 +19,9 @@ Route::get('/', function () {
 Route::get('artikel', function () {
     return view('artikel');
 });
+Route::get('blog', function () {
+    return view('blog');
+});
 Route::get('Backend', function () {
     return view('courseBack');
 });
@@ -27,6 +30,9 @@ Route::get('Frontend', function () {
 });
 Route::get('Ngoding-with-view', function () {
     return view('singlepost');
+});
+Route::get('blogtemplate', function () {
+    return view('singleblog');
 });
 Route::get('dokumentasi', function () {
     return view('dokumentasi');

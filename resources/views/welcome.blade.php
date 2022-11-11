@@ -184,7 +184,7 @@
                                     <ul class="new-comers-list">
                                         <li>
                                             <i class='bx bx-check'></i>
-                                            Bootcamp selama 3 bulan
+                                            Bootcamp selama kurang lebih 4 bulan
                                         </li>
                                         <li>
                                             <i class='bx bx-check'></i>
@@ -196,7 +196,7 @@
                                         </li>
                                         <li>
                                             <i class='bx bx-check'></i>
-                                            Diajarkan dari NOL
+                                            GRATIS
                                         </li>
                                     </ul>
                                 </div>
