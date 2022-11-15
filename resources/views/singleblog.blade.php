@@ -144,7 +144,7 @@
        <div class="back__blog__area back-blog-page-single pt-120 pb-120">
             <div class="container">
                 <div class="row">
-                    <iframe src="https://sinergipeta.com/blog/artikeltemplate/" height="1860"></iframe>
+                    <iframe src="https://sinergipeta.com/blog/ height=1860"></iframe>
                 </div>
             </div>
         </div>
