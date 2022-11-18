@@ -2,6 +2,24 @@
 <html lang="zxx" class="theme-light">
     
 <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-SZ0K321ZF2"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-SZ0K321ZF2');
+        </script>
+        
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PJSNND7');</script>
+        <!-- End Google Tag Manager -->
+
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -26,6 +44,10 @@
     </head>
 
     <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJSNND7"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
 
         <!-- Preloader -->
         <div id="back__preloader">
@@ -654,11 +676,11 @@
 
                     <div class="col-lg-2 col-md-6 col-sm-6">
                         <div class="single-footer-widget mb-30">
-                            <h3>Blog <mark>Soon!</mark></h3> 
+                            <h3>Blog</h3> 
 
                             <ul class="useful-link">
-                                <li><a class="isDisabled" href="artikel">Artikel</a></li>
-                                <li><a class="isDisabled" href="dokumentasi">Dokumentasi</a></li>
+                                <li><a href="artikel">Artikel</a></li>
+                                <li><a href="dokumentasi">Dokumentasi</a></li>
                                 
                             </ul>
                         </div>

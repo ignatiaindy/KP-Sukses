@@ -454,7 +454,7 @@
                             </div>
 
                             <h3>Contact Here</h3>
-                            <p><a href="https://api.whatsapp.com/send/?phone=6285888850006&text&type=phone_number&app_absent=0">0858-8885-0006</a></p>
+                            <p><a href="https://api.whatsapp.com/send/?phone=6285888850006&text&type=phone_number&app_absent=0" target="_blank">0858-8885-0006</a></p>
                             <br>
                             <br>
                         </div>
@@ -567,11 +567,11 @@
 
                     <div class="col-lg-2 col-md-6 col-sm-6">
                         <div class="single-footer-widget mb-30">
-                            <h3>Blog <mark>Soon!</mark></h3>
+                            <h3>Blog</h3>
 
                             <ul class="useful-link">
-                                <li><a class="isDisabled" href="artikel">Artikel</a></li>
-                                <li><a class="isDisabled" href="dokumentasi">Dokumentasi</a></li>
+                                <li><a href="artikel">Artikel</a></li>
+                                <li><a href="dokumentasi">Dokumentasi</a></li>
                                 
                             </ul>
                         </div>

@@ -28,9 +28,9 @@ Route::get('Backend', function () {
 Route::get('Frontend', function () {
     return view('courseFront');
 });
-Route::get('Ngoding-with-view', function () {
-    return view('singlepost');
-});
+// Route::get('Ngoding-with-view', function () {
+//     return view('singlepost');
+// });
 // Route::get('blogtemplate', function () {
 //     return view('singleblog');
 // });
