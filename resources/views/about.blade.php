@@ -39,24 +39,31 @@
             
             
 
-             <!-- Start Navbar Area -->
-             <div class="navbar-area navbar-style-three">
+            <!-- Start Navbar Area -->
+            <div class="navbar-area navbar-style-three">
                 <div class="ino-responsive-nav">
 
                     <div class="container">
                         
                     <div class="ino-responsive-menu mean-container"><div class="mean-bar"><a href="#nav" class="meanmenu-reveal" style="right: 0px; left: auto; text-align: center; text-indent: 0px; font-size: 18px;"><span><span><span></span></span></span></a><nav class="mean-nav">
                                 <ul class="navbar-nav" style="display: none;">
-                                    <li class="nav-item"><a href="/" class="nav-link ">Home <i class=""></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link active">Home <i class=""></i></a>
                                     </li>
                                     <li class="nav-item"><a href="#" class="nav-link">Course <i class="bx bx-chevron-down"></i></a>
                                         <ul class="dropdown-menu" style="display: none;">
-                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer</a></li>
+                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer </a></li>
 
-                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer</a></li>
+                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer </a></li>
                                         </ul>
                                     <a class="mean-expand" href="#" style="font-size: 18px">+</a></li>
-                                    <li class="nav-item mean-last"><a href="about" class="nav-link active">About Us</a></li>
+                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class="bx bx-chevron-down"></i></a>
+                                        <ul class="dropdown-menu" style="display: none;">
+                                            <li class="nav-item"><a href="artikel" class="nav-link">Articles </a></li>
+
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Documentation </a></li>
+                                        </ul>
+                                    <a class="mean-expand" href="#" style="font-size: 18px">+</a></li>
+                                    <li class="nav-item mean-last"><a href="about" class="nav-link">About Us</a></li>
                                     
                                 </ul></nav></div>
                             <div class="logo">
@@ -78,16 +85,23 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="/" class="nav-link ">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link active">Home <i class=''></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link ">Course <i class='bx bx-chevron-down'></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link">Course <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
-                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer</a></li>
+                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer </a></li>
 
-                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer</a></li>
+                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer </a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="about" class="nav-link active">About Us</a></li>
+                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
+                                        <ul class="dropdown-menu">
+                                            <li class="nav-item"><a href="artikel" class="nav-link">Articles </a></li>
+
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Documentation </a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
                                     
                                 </div>
                             </div>
@@ -108,16 +122,23 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="/" class="nav-link ">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="welcome" class="nav-link active">Home <i class=''></i></a>
                                     </li>
                                     <li class="nav-item"><a href="#" class="nav-link">Course <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
-                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer</a></li>
+                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer </a></li>
 
-                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer</a></li>
+                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer </a></li>
                                         </ul>
                                     </li>
-                                    <li class="nav-item"><a href="about" class="nav-link active">About Us</a></li>
+                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
+                                        <ul class="dropdown-menu">
+                                            <li class="nav-item"><a href="artikel" class="nav-link">Articles </a></li>
+
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Documentation </a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
                                     
                                 </div>
                             </div>
@@ -570,8 +591,8 @@
                             <h3>Blog</h3>
 
                             <ul class="useful-link">
-                                <li><a href="artikel">Artikel</a></li>
-                                <li><a href="dokumentasi">Dokumentasi</a></li>
+                                <li><a href="artikel">Articles</a></li>
+                                <li><a href="dokumentasi">Documentation</a></li>
                                 
                             </ul>
                         </div>

@@ -26,7 +26,7 @@
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/responsive.css">
 
-        <title>Artikel - Sinergi Peta Sejahtera</title>
+        <title>Articles - Sinergi Peta Sejahtera</title>
 
         <link rel="icon" type="image/png" href="assets/img/fav.png">
     </head>
@@ -45,7 +45,7 @@
             
             
 
-             <!-- Start Navbar Area -->
+            <!-- Start Navbar Area -->
             <div class="navbar-area navbar-style-three">
                 <div class="ino-responsive-nav">
 
@@ -57,9 +57,16 @@
                                     </li>
                                     <li class="nav-item"><a href="#" class="nav-link">Course <i class="bx bx-chevron-down"></i></a>
                                         <ul class="dropdown-menu" style="display: none;">
-                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer</a></li>
+                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer </a></li>
 
-                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer</a></li>
+                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer </a></li>
+                                        </ul>
+                                    <a class="mean-expand" href="#" style="font-size: 18px">+</a></li>
+                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class="bx bx-chevron-down"></i></a>
+                                        <ul class="dropdown-menu" style="display: none;">
+                                            <li class="nav-item"><a href="artikel" class="nav-link">Articles </a></li>
+
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Documentation </a></li>
                                         </ul>
                                     <a class="mean-expand" href="#" style="font-size: 18px">+</a></li>
                                     <li class="nav-item mean-last"><a href="about" class="nav-link">About Us</a></li>
@@ -84,13 +91,20 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="/" class="nav-link ">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="/" class="nav-link active">Home <i class=''></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link active">Course <i class='bx bx-chevron-down'></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link">Course <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
-                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer</a></li>
+                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer </a></li>
 
-                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer</a></li>
+                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer </a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
+                                        <ul class="dropdown-menu">
+                                            <li class="nav-item"><a href="artikel" class="nav-link">Articles </a></li>
+
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Documentation </a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
@@ -114,13 +128,20 @@
 
                             <div class="collapse navbar-collapse mean-menu">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item"><a href="/" class="nav-link ">Home <i class=''></i></a>
+                                    <li class="nav-item"><a href="welcome" class="nav-link active">Home <i class=''></i></a>
                                     </li>
-                                    <li class="nav-item"><a href="#" class="nav-link active">Course <i class='bx bx-chevron-down'></i></a>
+                                    <li class="nav-item"><a href="#" class="nav-link">Course <i class='bx bx-chevron-down'></i></a>
                                         <ul class="dropdown-menu">
-                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer</a></li>
+                                            <li class="nav-item"><a href="Backend" class="nav-link">Backend Developer </a></li>
 
-                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer</a></li>
+                                            <li class="nav-item"><a href="Frontend" class="nav-link">Frontend Developer </a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item"><a href="#" class="nav-link">Blog <i class='bx bx-chevron-down'></i></a>
+                                        <ul class="dropdown-menu">
+                                            <li class="nav-item"><a href="artikel" class="nav-link">Articles </a></li>
+
+                                            <li class="nav-item"><a href="dokumentasi" class="nav-link">Documentation </a></li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a href="about" class="nav-link">About Us</a></li>
@@ -150,8 +171,8 @@
         <!-- Start Blog Area -->
         <section class="blog-area ptb-100">
             <div class="container">
-                <div class="row">
-                <iframe src="https://sinergipeta.com/blog/blog-grid/" height="100%" allow="fullscreen"></iframe>
+                <div class="row" style="min-height:2200px">
+                <iframe src="https://sinergipeta.com/blog/blog-grid/" allow="fullscreen"></iframe>
                 </div>
             </div>
         </section>
@@ -193,8 +214,8 @@
                             <h3>Blog</h3>
 
                             <ul class="useful-link">
-                                <li><a href="artikel">Artikel</a></li>
-                                <li><a href="dokumentasi">Dokumentasi</a></li>
+                                <li><a href="artikel">Articles</a></li>
+                                <li><a href="dokumentasi">Documentation</a></li>
                                 
                             </ul>
                         </div>
